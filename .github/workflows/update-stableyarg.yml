@@ -25,6 +25,8 @@ jobs:
 
       - name: "Generate new releases.json"
         run: node methods/UpdateStableYARG.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: "Commit and save changes"
         run: |
