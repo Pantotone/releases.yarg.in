@@ -7,6 +7,7 @@ on:
 
 jobs:
   updateStableYARG:
+    name: "Update Stable YARG"
     runs-on: "ubuntu-latest"
 
     steps: 
@@ -18,6 +19,9 @@ jobs:
         with:
           node-version: latest
           cache: npm
+
+      - name: "Install dependencies"
+        run: npm i
 
       - name: "Generate new releases.json"
         run: node methods/UpdateStableYARG.js
