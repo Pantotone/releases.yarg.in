@@ -24,14 +24,11 @@ jobs:
           sparse-checkout: setlists
           path: api
 
-      - name: "[temporary] List all files"
-        run: ls && ls api && ls api/setlists
-
-      # - name: "Commit and save changes"
-      #   run: |
-      #     git config --global user.name "GitHub Actions"
-      #     git config --global user.email "actions@github.com"
-      #     git add api/setlists/*
-      #     git commit -m "chore: update setlists"
-      #     git push
+      - name: "Commit and save changes"
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add api/setlists/*
+          git commit -m "chore: update setlists"
+          git push
       
