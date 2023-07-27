@@ -1,1 +1,19 @@
-{}
+{
+  "version": "0.2.0",
+  "notes": "MANUAL UPDATE REQUIRED. Please go to YARC Launcher's website and reinstall the newest verison. Apologies for the inconvenience.",
+  "pub_date": "2023-07-23T21:31:13.494Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTW9ULzJ4cUluYyt4eExPdm92dUllZ29VSHhCY1FYK1lzbGpzZG9NdjBneGp4OHlNWCtrSGxEODVwQ1hFZDY5YW5MejJRdGx2dDRzZDFhRVpaZHN3WGVGVVZ4WWR0ZndFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkwMTQ3NjE2CWZpbGU6WUFSQyBMYXVuY2hlci5hcHAudGFyLmd6CjkvS29CdGsyYjFFakRvTGV1MGJqc2JyTFArUGI0UktIbnQyc0g2Sm93bXppc2svQk9IRjdMM2UyaFhUdDJsRW9mRFI5L0dnbWM0WHA5ZXp5SnlzOUNRPT0K",
+      "url": "https://github.com/YARC-Official/YARC-Launcher/releases/download/v0.2.0/YARC.Launcher_x64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTW9ULzJ4cUluY3dXelo3T0ZCTFExcHpwOGphRTI4R0R2d1ZOT01FQjVoa0xnMmdkb25yNGNwZGVnZU1tUjJaZXNpdUdIanROSXYzakl5QlY4ZlpOclh4c2p4NFF5UVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkwMTQ3NjI3CWZpbGU6eWFyYy1sYXVuY2hlcl8wLjIuMF9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKQUZlcFAvUUVHcGhab1FmTWdkelNHbEpyeWhreldOUTFPKzZHZWFMNVhyaXZUSjNMOEtRZnF1ckxNbHFEWTl0Ykt1a3Bad3FVeHBHbEhsM2Q5ZzNDRFE9PQo=",
+      "url": "https://github.com/YARC-Official/YARC-Launcher/releases/download/v0.2.0/yarc-launcher_0.2.0_amd64.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTW9ULzJ4cUluYzFZK3hjYXEwME96ZXg5dVJTbmx2QWp0ODdvdFlLaGpMa0NQYTdEL1ZKWFhuZ25icjd3NlBiczI4QW1RdFo0U2E4Sk9UNzQvK3hJWGRHWEtXV1VLTWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjkwMTQ3ODcwCWZpbGU6WUFSQyBMYXVuY2hlcl8wLjIuMF94NjRfZW4tVVMubXNpLnppcApKTGx6cStoN1pHL1BmYWVueVNoWnA1MElzc0FzM0l1QWRIaElsTmd2U0JBZjlKS3F1eTJHVTBUbElsczFMaGxIZ2ZCUTYwN0NQZTE3Wk9kUitYMnNEQT09Cg==",
+      "url": "https://github.com/YARC-Official/YARC-Launcher/releases/download/v0.2.0/YARC.Launcher_0.2.0_x64_en-US.msi.zip"
+    }
+  }
+}
