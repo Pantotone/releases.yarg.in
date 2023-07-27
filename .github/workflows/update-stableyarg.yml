@@ -5,6 +5,9 @@ on:
     types: [ updateStableYARG, updateAll ]
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   updateStableYARG:
     name: "Update Stable YARG"
