@@ -22,10 +22,10 @@ jobs:
         with:
           repository: "YARC-Official/Official-Setlist-Public"
           sparse-checkout: setlists
-          path: api/setlist
+          path: api
 
       - name: "[temporary] List all files"
-        run: ls && ls api && ls api/setlist
+        run: ls && ls api && ls api/setlists
 
       # - name: "Commit and save changes"
       #   run: |
