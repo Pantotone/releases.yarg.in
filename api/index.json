@@ -6,5 +6,6 @@
         "/StableYARG/releases.json": "Latest 100 releases related to YARC-Official/YARG, sorted by publishing time",
         "/NightlyYARG/releases.json": "Latest 100 releases related to YARC-Official/YARG-BleedingEdge, sorted by publishing time",
         "/setlists/[setlistId]": "Setlist information"
-    }
+    },
+    "caseSensitive": true
 }
