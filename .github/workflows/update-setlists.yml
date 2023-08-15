@@ -16,6 +16,9 @@ jobs:
     steps: 
       - name: "Checkout"
         uses: actions/checkout@v3
+        with: 
+          fetch-depth: 0
+          ref: publish
 
       - name: "Fetch files from YARC-Official/Official-Setlist-Public"
         uses: actions/checkout@v3
