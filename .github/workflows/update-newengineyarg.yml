@@ -14,16 +14,17 @@ jobs:
     runs-on: "ubuntu-latest"
 
     steps: 
-      - name: "Checkout main branch to temporary folder"
+      - name: "Checkout main branch to /Main folder"
         uses: actions/checkout@v3
         with:
-          path: ${{ runner.temp }}/MainBranch
+          path: "Main"
 
       - name: "Checkout publish branch"
         uses: actions/checkout@v3
         with: 
           fetch-depth: 0
           ref: publish
+          clean: false
 
       - name: "Setup Node"
         uses: actions/setup-node@v3
@@ -35,7 +36,7 @@ jobs:
         run: npm i
 
       - name: "Generate new releases.json"
-        run: node ${{ runner.temp }}/MainBranch/methods/UpdateNewEngineYARG.js
+        run: node Main/methods/UpdateNewEngineYARG.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
