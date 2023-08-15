@@ -15,7 +15,7 @@ jobs:
 
     steps: 
       - name: "Checkout main branch to temporary folder"
-        run: ( cd ${{ runner.temp }} && git clone ${{ github.repositoryUrl }}.git )
+        run: ( cd ${{ runner.temp }} && git clone ${{ github.repositoryUrl }} )
 
       - name: "Checkout publish branch"
         uses: actions/checkout@v3
