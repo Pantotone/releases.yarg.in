@@ -14,7 +14,12 @@ jobs:
     runs-on: "ubuntu-latest"
 
     steps: 
-      - name: "Checkout"
+      - name: "Checkout main branch to /Main folder"
+        uses: actions/checkout@v3
+        with:
+          path: "Main"
+
+      - name: "Checkout publish branch"
         uses: actions/checkout@v3
         with: 
           fetch-depth: 0
@@ -30,7 +35,7 @@ jobs:
         run: npm i
 
       - name: "Generate new releases.json"
-        run: node methods/UpdateNewEngineYARG.js
+        run: node Main/methods/UpdateNewEngineYARG.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
