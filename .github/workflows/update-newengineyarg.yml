@@ -15,9 +15,7 @@ jobs:
 
     steps: 
       - name: "Checkout main branch to temporary folder"
-        uses: actions/checkout@v3
-        with:
-          path: ${{ runner.temp }}/MainBranch
+        run: ( cd ${{ runner.temp }} && git clone ${{ github.repositoryUrl }}.git )
 
       - name: "Checkout publish branch"
         uses: actions/checkout@v3
@@ -35,7 +33,7 @@ jobs:
         run: npm i
 
       - name: "Generate new releases.json"
-        run: node ${{ runner.temp }}/MainBranch/methods/UpdateNewEngineYARG.js
+        run: node ${{ runner.temp }}/${{ github.repository.name }}/methods/UpdateNewEngineYARG.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
