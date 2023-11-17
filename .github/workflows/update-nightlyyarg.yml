@@ -14,8 +14,16 @@ jobs:
     runs-on: "ubuntu-latest"
 
     steps: 
-      - name: "Checkout"
-        uses: actions/checkout@v3
+      - name: "Checkout main branch"
+        uses: actions/checkout@v4
+        with: 
+          path: main
+
+      - name: "Checkout publish branch"
+        uses: actions/checkout@v4
+        with: 
+          ref: publish
+          path: publish
 
       - name: "Setup Node"
         uses: actions/setup-node@v3
@@ -27,15 +35,16 @@ jobs:
         run: npm i
 
       - name: "Generate new releases.json"
-        run: node methods/UpdateNightlyYARG.js
+        run: node main/methods/UpdateNightlyYARG.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: "Commit and save changes"
-        run: |
+        run: | 
+          cd publish
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add api/NightlyYARG/releases.json
-          git commit -m "chore: update NightlyYARG/release.json"
+          git add NightlyYARG/releases.json
+          git commit -m "ci: update NightlyYARG/release.json"
           git push
       
