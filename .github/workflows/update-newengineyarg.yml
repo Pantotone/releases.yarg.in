@@ -1,4 +1,4 @@
-name: Update New Engine YARG
+name: 🔁 Update New Engine YARG
 
 on:
   repository_dispatch:
@@ -10,38 +10,11 @@ permissions:
 
 jobs:
   updateNewEngineYARG:
-    name: "Update New Engine YARG"
-    runs-on: "ubuntu-latest"
-
-    steps: 
-      - name: "Checkout main branch to temporary folder"
-        run: ( cd ${{ runner.temp }} && git clone ${{ github.repositoryUrl }} )
-
-      - name: "Checkout publish branch"
-        uses: actions/checkout@v3
-        with: 
-          fetch-depth: 0
-          ref: publish
-
-      - name: "Setup Node"
-        uses: actions/setup-node@v3
-        with:
-          node-version: latest
-          cache: npm
-
-      - name: "Install dependencies"
-        run: npm i
-
-      - name: "Generate new releases.json"
-        run: node ${{ runner.temp }}/${{ github.repository.name }}/methods/UpdateNewEngineYARG.js
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: "Commit and save changes"
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add api/NewEngine/releases.json
-          git commit -m "chore: update NewEngine/release.json"
-          git push
-      
+    name: "🔁 Update New Engine YARG"
+    uses: ./.github/workflows/run-script.yml
+    secrets: inherit
+    permissions:
+      contents: write
+    with:
+      method: "UpdateNewEngineYARG"
+      description: "Update New Engine YARG's releases"

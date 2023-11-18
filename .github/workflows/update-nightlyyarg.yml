@@ -1,4 +1,4 @@
-name: Update Nightly YARG
+name: 🔁 Update Nightly YARG
 
 on:
   repository_dispatch:
@@ -10,10 +10,11 @@ permissions:
 
 jobs:
   updateNightlyYARG:
+    name: "🔁 Update Nightly"
     uses: ./.github/workflows/run-script.yml
     secrets: inherit
     permissions:
       contents: write
     with:
       method: "UpdateNightlyYARG"
-      description: "Update Nightly"
+      description: "Update Nightly YARG's releases"

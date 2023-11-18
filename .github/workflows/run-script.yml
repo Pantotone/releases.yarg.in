@@ -1,4 +1,4 @@
-name: Script Runner
+name: ⚙️ Script Runner
 
 on:
   workflow_call:
@@ -15,7 +15,7 @@ permissions:
 
 jobs:
   runUpdater:
-    name: "Run ${{ inputs.method }}"
+    name: "⚙️ Run ${{ inputs.method }}"
     runs-on: "ubuntu-latest"
 
     steps: 

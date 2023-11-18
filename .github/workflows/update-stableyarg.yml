@@ -1,4 +1,4 @@
-name: Update Stable YARG
+name: 🔁 Update Stable YARG
 
 on:
   repository_dispatch:
@@ -10,35 +10,11 @@ permissions:
 
 jobs:
   updateStableYARG:
-    name: "Update Stable YARG"
-    runs-on: "ubuntu-latest"
-
-    steps: 
-      - name: "Checkout"
-        uses: actions/checkout@v3
-        with: 
-          fetch-depth: 0
-          ref: publish
-
-      - name: "Setup Node"
-        uses: actions/setup-node@v3
-        with:
-          node-version: latest
-          cache: npm
-
-      - name: "Install dependencies"
-        run: npm i
-
-      - name: "Generate new releases.json"
-        run: node methods/UpdateStableYARG.js
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: "Commit and save changes"
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add api/StableYARG/releases.json
-          git commit -m "chore: update StableYARG/release.json"
-          git push
-      
+    name: "🔁 Update Stable YARG"
+    uses: ./.github/workflows/run-script.yml
+    secrets: inherit
+    permissions:
+      contents: write
+    with:
+      method: "UpdateStableYARG"
+      description: "Update Stable YARG's releases"

@@ -1,4 +1,4 @@
-name: Update Setlists
+name: 🔁 Update Setlists
 
 on:
   repository_dispatch:
@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   updateSetlists:
-    name: "Update Setlists"
+    name: "🔁 Update Setlists"
     runs-on: "ubuntu-latest"
 
     steps: 
