@@ -30,9 +30,10 @@ jobs:
         with:
           node-version: latest
           cache: npm
+          cache-dependency-path: main/package-lock.json
 
       - name: "Install dependencies"
-        run: npm i
+        run: (cd main && npm i)
 
       - name: "Generate new releases.json"
         run: node main/methods/UpdateNightlyYARG.js
