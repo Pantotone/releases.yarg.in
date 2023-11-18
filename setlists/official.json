@@ -1,9 +1,9 @@
 {
 	"id": "official",
-	"version": "2023-07-18-0",
+	"version": "2023-08-21-0",
 	"releaseDate": "2023-07-10T00:00:00.000Z",
 	"downloads": [
-		"https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2023-07-18-0/official_0.7z"
+		"https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2023-08-21-0/official_0.7z"
 	],
 	"locales": {
 		"en-US": {
@@ -41,6 +41,36 @@
 			"artist": "Höwler",
 			"length": 323600,
 			"releaseDate": "2023-07-10T00:00:00.000Z"
+		},
+		{
+			"title": "In My Head",
+			"artist": "Halfway to Michigan",
+			"length": 151770,
+			"releaseDate": "2023-08-21T00:00:00.000Z"
+		},
+		{
+			"title": "John, Take Me With You",
+			"artist": "JW Francis",
+			"length": 217000,
+			"releaseDate": "2023-08-21T00:00:00.000Z"
+		},
+		{
+			"title": "The Game",
+			"artist": "RinRin",
+			"length": 226000,
+			"releaseDate": "2023-08-21T00:00:00.000Z"
+		},
+		{
+			"title": "Buds",
+			"artist": "Troubled Minds",
+			"length": 179634,
+			"releaseDate": "2023-08-21T00:00:00.000Z"
+		},
+		{
+			"title": "Time",
+			"artist": "Vandalheart",
+			"length": 250034,
+			"releaseDate": "2023-08-21T00:00:00.000Z"
 		}
 	],
 	"organizer": "ItzSynth",
@@ -72,6 +102,10 @@
 		{
 			"name": "ItzSynth",
 			"url": "https://youtube.com/@SynthesizeTime"
+		},
+		{
+			"name": "Miscellany",
+			"url": ""
 		},
 		{
 			"name": "Tris",
