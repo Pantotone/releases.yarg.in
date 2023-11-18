@@ -14,21 +14,28 @@ jobs:
     runs-on: "ubuntu-latest"
 
     steps: 
-      - name: "Checkout"
-        uses: actions/checkout@v3
+      - name: "Checkout publish branch"
+        uses: actions/checkout@v4
+        with:
+          ref: publish
+          path: publish
 
       - name: "Fetch files from YARC-Official/Official-Setlist-Public"
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           repository: "YARC-Official/Official-Setlist-Public"
           sparse-checkout: setlists
-          path: api
+          path: setlists
 
+      - name: "Copy files from setlist repo to publish/setlist folder"
+        run: cp -r -v setlists/setlists/* publish/setlists/
+          
       - name: "Commit and save changes"
         run: |
+          cd publish
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add api/setlists/*
+          git add setlists/*
           git commit -m "chore: update setlists"
           git push
       
