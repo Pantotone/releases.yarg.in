@@ -10,42 +10,10 @@ permissions:
 
 jobs:
   updateNightlyYARG:
-    name: "Update Nightly YARG"
-    runs-on: "ubuntu-latest"
-
-    steps: 
-      - name: "Checkout main branch"
-        uses: actions/checkout@v4
-        with: 
-          path: main
-
-      - name: "Checkout publish branch"
-        uses: actions/checkout@v4
-        with: 
-          ref: publish
-          path: publish
-
-      - name: "Setup Node"
-        uses: actions/setup-node@v3
-        with:
-          node-version: latest
-          cache: npm
-          cache-dependency-path: main/package-lock.json
-
-      - name: "Install dependencies"
-        run: (cd main && npm i)
-
-      - name: "Generate new releases.json"
-        run: node main/methods/UpdateNightlyYARG.js
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: "Commit and save changes"
-        run: | 
-          cd publish
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add api/NightlyYARG/releases.json
-          git commit -m "ci: update NightlyYARG/release.json"
-          git push
-      
+    uses: ./.github/workflows/run-script.yml
+    secrets: inherit
+    permissions:
+      contents: write
+    with:
+      method: "UpdateNightlyYARG"
+      description: "Update Nightly"
