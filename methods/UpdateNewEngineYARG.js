@@ -1,5 +1,5 @@
 import fs from "fs/promises";
-import { GetSortedReleases } from "../utils/GetReleases.js";
+import { GetSortedReleases } from "../utils/Github.js";
 import { NEWENGINEYARG_RELEASES_PATH } from "../utils/const.js";
 
 const data = await GetSortedReleases("YARC-Official", "YARG-NewEngine");

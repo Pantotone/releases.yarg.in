@@ -18,12 +18,13 @@ export async function GithubGraphQL(query, variables) {
 /**
  * @param {string} repositoryAuthor 
  * @param {string} repositoryName 
+ * @param {number} [quantity] - How many releases will be returned.
  */
-export async function GetSortedReleases(repositoryAuthor, repositoryName) {
+export async function GetSortedReleases(repositoryAuthor, repositoryName, quantity = 100) {
     const data = await GithubGraphQL(`
-        query($owner: String!, $repo: String!) {
+        query($owner: String!, $repo: String!, $quantity: Int!) {
             repository(owner: $owner, name: $repo) {
-                    releases(last: 100, orderBy: {field: CREATED_AT, direction: DESC}) {
+                    releases(last: $quantity, orderBy: {field: CREATED_AT, direction: DESC}) {
                 nodes {
                     tagName,
                     publishedAt
@@ -33,7 +34,8 @@ export async function GetSortedReleases(repositoryAuthor, repositoryName) {
         }    
     `, {
         owner: repositoryAuthor,
-        repo: repositoryName
+        repo: repositoryName,
+        quantity
     });
 
     return data;
