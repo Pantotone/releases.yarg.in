@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  updateNightlyYARG:
+  generateNightlyChangelog:
     name: "📋 Generate changelog"
     uses: ./.github/workflows/run-script.yml
     secrets: inherit
