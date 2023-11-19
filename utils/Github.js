@@ -24,7 +24,7 @@ export async function GetSortedReleases(repositoryAuthor, repositoryName, quanti
     const data = await GithubGraphQL(`
         query($owner: String!, $repo: String!, $quantity: Int!) {
             repository(owner: $owner, name: $repo) {
-                    releases(last: $quantity, orderBy: {field: CREATED_AT, direction: DESC}) {
+                    releases(first: $quantity, orderBy: {field: CREATED_AT, direction: DESC}) {
                 nodes {
                     tagName,
                     publishedAt
