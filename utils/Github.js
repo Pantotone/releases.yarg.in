@@ -40,3 +40,46 @@ export async function GetSortedReleases(repositoryAuthor, repositoryName, quanti
 
     return data;
 }
+
+/**
+ * 
+ * @param {string} repositoryAuthor 
+ * @param {string} repositoryName 
+ * @param {string} branch 
+ * @param {string} since 
+ * @param {string} [until] 
+ * @returns 
+ */
+export async function GetCommits(repositoryAuthor, repositoryName, branch, since, until) {
+    const data = await GithubGraphQL(`
+        query GetCommits($owner: String!, $repo: String!, $branch: String!, $since: GitTimestamp!, $until: GitTimestamp) {
+            repository(owner: $owner, name: $repo) {
+                ref(qualifiedName:$branch) {
+                target {
+                ... on Commit {
+                    history(first: 100, since:$since, until:$until) {
+                    nodes {
+                        oid,
+                        author {
+                            user {
+                                login
+                            }
+                        },
+                        messageHeadline
+                    }
+                    }
+                }
+                }
+            }
+            }
+        }
+    `, {
+        owner: repositoryAuthor,
+        repo: repositoryName,
+        branch,
+        since,
+        until
+    });
+
+    return data.repository.ref.target.history.nodes;
+}

@@ -5,5 +5,6 @@ export const LAUNCHER_UPDATE_ORIGIN_URL = "https://gist.githubusercontent.com/El
 export const STATIC_PATH = "publish";
 export const STABLEYARG_RELEASES_PATH = path.join(STATIC_PATH, "StableYARG", "releases.json");
 export const NIGHTLYYARG_RELEASES_PATH = path.join(STATIC_PATH, "NightlyYARG", "releases.json");
+export const NIGHTLYYARG_CHANGELOG_FOLDER = path.join(STATIC_PATH, "changelogs", "NightlyYARG");
 export const NEWENGINEYARG_RELEASES_PATH = path.join(STATIC_PATH, "NewEngine", "releases.json");
 export const LAUNCHER_UPDATE_PATH = path.join(STATIC_PATH, "launcher", "update.json");

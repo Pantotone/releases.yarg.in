@@ -1,0 +1,20 @@
+name: 📋 Generate Nightly YARG changelog
+
+on:
+  repository_dispatch:
+    types: [ generateNightlyChangelog, generateAllChangelog ]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  updateNightlyYARG:
+    name: "📋 Generate changelog"
+    uses: ./.github/workflows/run-script.yml
+    secrets: inherit
+    permissions:
+      contents: write
+    with:
+      method: "GenerateNightlyChangelog"
+      description: "Generate Nightly YARG changelog"
