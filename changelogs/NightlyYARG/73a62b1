@@ -1,0 +1,20 @@
+[
+  {
+    "oid": "73a62b1f6cde37dffdbaeab7e938a421a307b037",
+    "author": {
+      "user": {
+        "login": "EliteAsian123"
+      }
+    },
+    "messageHeadline": "Fixed album and artist filter"
+  },
+  {
+    "oid": "0fea2a5e36144e0d4b2897b855c397a0cad58b72",
+    "author": {
+      "user": {
+        "login": "EscapeNumber001"
+      }
+    },
+    "messageHeadline": "Minor bugfixes (#379)"
+  }
+]
