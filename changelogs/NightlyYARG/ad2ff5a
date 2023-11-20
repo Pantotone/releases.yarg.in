@@ -1,0 +1,38 @@
+[
+  {
+    "oid": "ad2ff5af8ff69a77a16cc86bde2dba18e6b4515b",
+    "author": {
+      "user": {
+        "login": "EliteAsian123"
+      }
+    },
+    "messageHeadline": "Potentially fixed MacOS setlist detection"
+  },
+  {
+    "oid": "e188dea83f935b0c2260c24c123c09d92343545b",
+    "author": {
+      "user": {
+        "login": "EliteAsian123"
+      }
+    },
+    "messageHeadline": "Update README.md"
+  },
+  {
+    "oid": "4d668594a1293acb311fdb95d053cc3b39a46dc3",
+    "author": {
+      "user": {
+        "login": "EliteAsian123"
+      }
+    },
+    "messageHeadline": "Removed DtxCs as it was not used"
+  },
+  {
+    "oid": "71f5847345f33036d5f0a9b8deb135cbe06f4442",
+    "author": {
+      "user": {
+        "login": "EliteAsian123"
+      }
+    },
+    "messageHeadline": "Remove RawAssets folder (unused)"
+  }
+]
