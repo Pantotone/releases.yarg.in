@@ -1,0 +1,47 @@
+[
+  {
+    "oid": "da30293be036b146b49dbf9bf065f19f344ca7e1",
+    "author": {
+      "user": {
+        "login": "EliteAsian123"
+      }
+    },
+    "messageHeadline": "Fixed vocals getting FCs everytime"
+  },
+  {
+    "oid": "ec2981ef1ec76508356ee72d855a5f9e379a4a31",
+    "author": {
+      "user": {
+        "login": "EliteAsian123"
+      }
+    },
+    "messageHeadline": "Fixed highscore SQL query"
+  },
+  {
+    "oid": "26773bee170ad2e1b8a27a2f120b4f46d6f0f1f2",
+    "author": {
+      "user": {
+        "login": "EliteAsian123"
+      }
+    },
+    "messageHeadline": "Keep track of preset type so the player doesn't import the wrong type"
+  },
+  {
+    "oid": "1ce788a112d4264c426c51247fef6f7f36f1a11c",
+    "author": {
+      "user": {
+        "login": "EliteAsian123"
+      }
+    },
+    "messageHeadline": "Added functionality for import and export button via .preset files"
+  },
+  {
+    "oid": "aa36f0a3f9e1987d813cc50a6d9b2d50e4a3dd23",
+    "author": {
+      "user": {
+        "login": "EliteAsian123"
+      }
+    },
+    "messageHeadline": "Updated preset UI to add more buttons"
+  }
+]
