@@ -1,0 +1,74 @@
+[
+  {
+    "oid": "1dc473fcf962f7758caf8b034d855de133ae5c8e",
+    "author": {
+      "user": {
+        "login": "EliteAsian123"
+      }
+    },
+    "messageHeadline": "Basics for color picker in color profile settings"
+  },
+  {
+    "oid": "fb07ba55900a2742d9e122f8c1de40154b97dbd1",
+    "author": {
+      "user": {
+        "login": "EliteAsian123"
+      }
+    },
+    "messageHeadline": "Added simple version of color setting"
+  },
+  {
+    "oid": "e507bca314f2136e07d5498e48f7d460ffb36c23",
+    "author": {
+      "user": {
+        "login": "EliteAsian123"
+      }
+    },
+    "messageHeadline": "Simplified setting visual initialization"
+  },
+  {
+    "oid": "a950f339d4d552c184a89b6d79746261ddd8e2e4",
+    "author": {
+      "user": {
+        "login": "TheNathannator"
+      }
+    },
+    "messageHeadline": "Various input handling/binding improvements (#604)"
+  },
+  {
+    "oid": "65171ab99e8533f62164293f10ff7fbd45b0818b",
+    "author": {
+      "user": {
+        "login": "EliteAsian123"
+      }
+    },
+    "messageHeadline": "Moved loading phrase from song select to difficulty screen (#603)"
+  },
+  {
+    "oid": "910e09556cc9dd4d486c234520869ac8c2d6a2cd",
+    "author": {
+      "user": {
+        "login": "RileyTheFox"
+      }
+    },
+    "messageHeadline": "Update YARG.Core (Fix case sensitive ini entries, Dynamic window chan…"
+  },
+  {
+    "oid": "bf7dd3465d8a8533ecac4be762ae8950de73c4c1",
+    "author": {
+      "user": {
+        "login": "RileyTheFox"
+      }
+    },
+    "messageHeadline": "Use correct note speed when slowing down in quickplay"
+  },
+  {
+    "oid": "bd84d9a0bf22f85f1a6e4ccf3e7602f0a69e04d4",
+    "author": {
+      "user": {
+        "login": "RileyTheFox"
+      }
+    },
+    "messageHeadline": "Adjust hit window size on note speed change (e.g song speed change in…"
+  }
+]
