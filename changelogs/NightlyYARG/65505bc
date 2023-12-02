@@ -1,0 +1,20 @@
+[
+  {
+    "oid": "65505bc6915afa52766b582068e0211a93c1154c",
+    "author": {
+      "user": {
+        "login": "EliteAsian123"
+      }
+    },
+    "messageHeadline": "Improved color selection visual"
+  },
+  {
+    "oid": "713916491ab2c8f41e1835c3af12572fe648ab6c",
+    "author": {
+      "user": {
+        "login": "EliteAsian123"
+      }
+    },
+    "messageHeadline": "Removed old setting prefabs"
+  }
+]
