@@ -1,0 +1,38 @@
+[
+  {
+    "oid": "a1513d1ddb1c8b2bcd2815f09b8d3eaedf268fdb",
+    "author": {
+      "user": {
+        "login": "EliteAsian123"
+      }
+    },
+    "messageHeadline": "Added back drum bounce"
+  },
+  {
+    "oid": "265749043feb49f83ef9db427f27a5da5a0a9fb2",
+    "author": {
+      "user": {
+        "login": "EliteAsian123"
+      }
+    },
+    "messageHeadline": "\"Show Advanced Music Library Options\" setting + the advanced options"
+  },
+  {
+    "oid": "dc5acbc5b8e26fa19b904b8e8c41a08df7676735",
+    "author": {
+      "user": {
+        "login": "EliteAsian123"
+      }
+    },
+    "messageHeadline": "Prevent the whole settings file from being reset if there's one error"
+  },
+  {
+    "oid": "9fe68123a8ff20ff4db3049b745ca62fc7ead573",
+    "author": {
+      "user": {
+        "login": "TheNathannator"
+      }
+    },
+    "messageHeadline": "Clean up some settings things (#610)"
+  }
+]
