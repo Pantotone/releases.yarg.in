@@ -1,0 +1,20 @@
+[
+  {
+    "oid": "7a898232ad8beecf9b2ff3d519ff98034b235c59",
+    "author": {
+      "user": {
+        "login": "sonicfind"
+      }
+    },
+    "messageHeadline": "Fix incorrect clickable music library item behavior"
+  },
+  {
+    "oid": "d0cdb3eb4cc873c450d19b3053c909643b208aca",
+    "author": {
+      "user": {
+        "login": "sonicfind"
+      }
+    },
+    "messageHeadline": ".Ini delay edge case YARG.Core update (long live Prevail)"
+  }
+]
