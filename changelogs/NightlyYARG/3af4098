@@ -1,0 +1,20 @@
+[
+  {
+    "oid": "3af4098ff668bf2a0247add54e9ef99e2b27144f",
+    "author": {
+      "user": {
+        "login": "TheNathannator"
+      }
+    },
+    "messageHeadline": "Fix scrollview's viewport being 2 units short of the scroll bar"
+  },
+  {
+    "oid": "c00c7660f2a2f3e31aa1db12ffbf87d1d8647d0c",
+    "author": {
+      "user": {
+        "login": "TheNathannator"
+      }
+    },
+    "messageHeadline": "Update PlasticBand-Unity to v0.4.4"
+  }
+]
