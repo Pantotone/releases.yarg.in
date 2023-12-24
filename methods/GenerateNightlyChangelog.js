@@ -18,5 +18,13 @@ const previousTimestamp = releases[1]?.publishedAt;
 
 const commits = await GetCommits("YARC-Official", "YARG", "dev", previousTimestamp, currentTimestamp);
 
+const formatted = commits.map(commit => {
+    return {
+        sha: commit.oid,
+        author: commit.author.user.login,
+        summary: commit.messageHeadline
+    }
+});
+
 const savePath = path.join(NIGHTLYYARG_CHANGELOG_FOLDER, currentTag);
-await fs.writeFile(savePath, JSON.stringify(commits, null, 2));
+await fs.writeFile(savePath, JSON.stringify(formatted, null, 2));
