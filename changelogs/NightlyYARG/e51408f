@@ -1,0 +1,29 @@
+[
+  {
+    "oid": "e51408fbfff0c7776761048eb533a541688ce2b2",
+    "author": {
+      "user": {
+        "login": "EliteAsian123"
+      }
+    },
+    "messageHeadline": "Added song info display back, along with a setting to keep it persistent"
+  },
+  {
+    "oid": "7161f41a5ceec9124903548d1ee659d9851d4834",
+    "author": {
+      "user": {
+        "login": "EliteAsian123"
+      }
+    },
+    "messageHeadline": "Fixed presets being deleted when they are renamed"
+  },
+  {
+    "oid": "9279fe81b052f06fad2c5f913f5110aa1f673a5e",
+    "author": {
+      "user": {
+        "login": "EliteAsian123"
+      }
+    },
+    "messageHeadline": "Update YARG.Core"
+  }
+]
