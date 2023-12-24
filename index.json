@@ -2,6 +2,7 @@
     "YARGin?": true,
     
     "availableRoutes": {
+        "/changelogs/NightlyYARG/[version]": "Changelog for Nightly YARG",
         "/launcher/update.json": "Used by YARC Launcher for over-the-air updates.",
         "/StableYARG/releases.json": "Latest 100 releases related to YARC-Official/YARG, sorted by publishing time",
         "/NightlyYARG/releases.json": "Latest 100 releases related to YARC-Official/YARG-BleedingEdge, sorted by publishing time",
