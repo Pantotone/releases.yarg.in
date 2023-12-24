@@ -1,11 +1,7 @@
 [
   {
-    "oid": "ff17394296c4c5df0426bed35bc5d479d9e57d75",
-    "author": {
-      "user": {
-        "login": "EliteAsian123"
-      }
-    },
-    "messageHeadline": "Circle Theme (#606)"
+    "sha": "ff17394296c4c5df0426bed35bc5d479d9e57d75",
+    "author": "EliteAsian123",
+    "summary": "Circle Theme (#606)"
   }
 ]

@@ -1,29 +1,17 @@
 [
   {
-    "oid": "cdebc947fcf09d5c27981b87ddf5c0504120f2e5",
-    "author": {
-      "user": {
-        "login": "RileyTheFox"
-      }
-    },
-    "messageHeadline": "Update YARG.Core to fix auto hitting hopo bug"
+    "sha": "cdebc947fcf09d5c27981b87ddf5c0504120f2e5",
+    "author": "RileyTheFox",
+    "summary": "Update YARG.Core to fix auto hitting hopo bug"
   },
   {
-    "oid": "dc9abbe13b4ef1340cd614b712817bc276f2ed86",
-    "author": {
-      "user": {
-        "login": "EliteAsian123"
-      }
-    },
-    "messageHeadline": "Fixed sustain colors not updating"
+    "sha": "dc9abbe13b4ef1340cd614b712817bc276f2ed86",
+    "author": "EliteAsian123",
+    "summary": "Fixed sustain colors not updating"
   },
   {
-    "oid": "8812084f90914bca1de6d40b96693af8b4c8cd21",
-    "author": {
-      "user": {
-        "login": "EliteAsian123"
-      }
-    },
-    "messageHeadline": "Fixed note flare appearing before fade"
+    "sha": "8812084f90914bca1de6d40b96693af8b4c8cd21",
+    "author": "EliteAsian123",
+    "summary": "Fixed note flare appearing before fade"
   }
 ]

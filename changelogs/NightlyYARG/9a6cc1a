@@ -1,11 +1,7 @@
 [
   {
-    "oid": "9a6cc1a5fa62a452c5b7fdab9cbf3a3a16b928ef",
-    "author": {
-      "user": {
-        "login": "TheNathannator"
-      }
-    },
-    "messageHeadline": "Add git-blame revision ignore file"
+    "sha": "9a6cc1a5fa62a452c5b7fdab9cbf3a3a16b928ef",
+    "author": "TheNathannator",
+    "summary": "Add git-blame revision ignore file"
   }
 ]

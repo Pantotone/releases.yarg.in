@@ -1,29 +1,17 @@
 [
   {
-    "oid": "2e96d8ce9b1c8fb5c1cc32ab5304102f3b457f50",
-    "author": {
-      "user": {
-        "login": "sonicfind"
-      }
-    },
-    "messageHeadline": "Use accurate semitone algorithm"
+    "sha": "2e96d8ce9b1c8fb5c1cc32ab5304102f3b457f50",
+    "author": "sonicfind",
+    "summary": "Use accurate semitone algorithm"
   },
   {
-    "oid": "7c2219f188b65bf9115b341ae2ccfbc7eb850bdf",
-    "author": {
-      "user": {
-        "login": "sonicfind"
-      }
-    },
-    "messageHeadline": "Update to use generalized stream extensions"
+    "sha": "7c2219f188b65bf9115b341ae2ccfbc7eb850bdf",
+    "author": "sonicfind",
+    "summary": "Update to use generalized stream extensions"
   },
   {
-    "oid": "61afecef4375019489111ca7ff151a1600100ff9",
-    "author": {
-      "user": {
-        "login": "TheNathannator"
-      }
-    },
-    "messageHeadline": "Refactor bindings format to be versionable, more flexible, and less w…"
+    "sha": "61afecef4375019489111ca7ff151a1600100ff9",
+    "author": "TheNathannator",
+    "summary": "Refactor bindings format to be versionable, more flexible, and less w…"
   }
 ]

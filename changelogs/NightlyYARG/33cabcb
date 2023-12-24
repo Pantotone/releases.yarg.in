@@ -1,11 +1,7 @@
 [
   {
-    "oid": "33cabcb79254c4b1c51cbcfb29cc6743b02257cb",
-    "author": {
-      "user": {
-        "login": "EliteAsian123"
-      }
-    },
-    "messageHeadline": "New replay viewer (#618)"
+    "sha": "33cabcb79254c4b1c51cbcfb29cc6743b02257cb",
+    "author": "EliteAsian123",
+    "summary": "New replay viewer (#618)"
   }
 ]

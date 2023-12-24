@@ -1,20 +1,12 @@
 [
   {
-    "oid": "1fefdbe1d4979b8042bfad664791753e093f3d87",
-    "author": {
-      "user": {
-        "login": "EliteAsian123"
-      }
-    },
-    "messageHeadline": "Sort resolutions from high to low"
+    "sha": "1fefdbe1d4979b8042bfad664791753e093f3d87",
+    "author": "EliteAsian123",
+    "summary": "Sort resolutions from high to low"
   },
   {
-    "oid": "8924c5aee70ed83f91267834507a9debf977ad45",
-    "author": {
-      "user": {
-        "login": "TheNathannator"
-      }
-    },
-    "messageHeadline": "Refactor dropdown settings for cleanup/extensibility (#615)"
+    "sha": "8924c5aee70ed83f91267834507a9debf977ad45",
+    "author": "TheNathannator",
+    "summary": "Refactor dropdown settings for cleanup/extensibility (#615)"
   }
 ]

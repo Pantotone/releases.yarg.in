@@ -1,11 +1,7 @@
 [
   {
-    "oid": "a029c0742a47f11409062df479b2b1908878de24",
-    "author": {
-      "user": {
-        "login": "EliteAsian123"
-      }
-    },
-    "messageHeadline": "Fixed potential errors"
+    "sha": "a029c0742a47f11409062df479b2b1908878de24",
+    "author": "EliteAsian123",
+    "summary": "Fixed potential errors"
   }
 ]

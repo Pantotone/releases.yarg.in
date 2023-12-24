@@ -1,47 +1,27 @@
 [
   {
-    "oid": "15dd0cca4928a2efcef2e41417a7e690f6bf3fe5",
-    "author": {
-      "user": {
-        "login": "TheNathannator"
-      }
-    },
-    "messageHeadline": "Fix song speed changes causing desyncs"
+    "sha": "15dd0cca4928a2efcef2e41417a7e690f6bf3fe5",
+    "author": "TheNathannator",
+    "summary": "Fix song speed changes causing desyncs"
   },
   {
-    "oid": "67b1792a0d8157b21bbe3117f877bb9454c78ee1",
-    "author": {
-      "user": {
-        "login": "TheNathannator"
-      }
-    },
-    "messageHeadline": "Fix time going backwards when unpausing with Esc/Resume"
+    "sha": "67b1792a0d8157b21bbe3117f877bb9454c78ee1",
+    "author": "TheNathannator",
+    "summary": "Fix time going backwards when unpausing with Esc/Resume"
   },
   {
-    "oid": "c667e76c6137fdd1360e92011262024abc8c3c6a",
-    "author": {
-      "user": {
-        "login": "TheNathannator"
-      }
-    },
-    "messageHeadline": "Check for unexpected input/visual time changes when unpausing or chan…"
+    "sha": "c667e76c6137fdd1360e92011262024abc8c3c6a",
+    "author": "TheNathannator",
+    "summary": "Check for unexpected input/visual time changes when unpausing or chan…"
   },
   {
-    "oid": "7faeba0aeb7fd19c929163c4f3d8238b59f5a3b1",
-    "author": {
-      "user": {
-        "login": "TheNathannator"
-      }
-    },
-    "messageHeadline": "Adjust a bunch of song runner time logging"
+    "sha": "7faeba0aeb7fd19c929163c4f3d8238b59f5a3b1",
+    "author": "TheNathannator",
+    "summary": "Adjust a bunch of song runner time logging"
   },
   {
-    "oid": "742c214c82853a1648f448a58ac201fbb3cacfd9",
-    "author": {
-      "user": {
-        "login": "TheNathannator"
-      }
-    },
-    "messageHeadline": "Fix debounce queuing out-of-order game inputs"
+    "sha": "742c214c82853a1648f448a58ac201fbb3cacfd9",
+    "author": "TheNathannator",
+    "summary": "Fix debounce queuing out-of-order game inputs"
   }
 ]

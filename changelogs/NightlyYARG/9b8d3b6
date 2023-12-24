@@ -1,20 +1,12 @@
 [
   {
-    "oid": "9b8d3b6815563a7498a31e779ecaf6a9c858ad33",
-    "author": {
-      "user": {
-        "login": "EliteAsian123"
-      }
-    },
-    "messageHeadline": "Fixed curved material not being copied"
+    "sha": "9b8d3b6815563a7498a31e779ecaf6a9c858ad33",
+    "author": "EliteAsian123",
+    "summary": "Fixed curved material not being copied"
   },
   {
-    "oid": "05b18938357b3e8c186a80966f5d3916851b5b60",
-    "author": {
-      "user": {
-        "login": "EliteAsian123"
-      }
-    },
-    "messageHeadline": "Fixed circular theme starpower color"
+    "sha": "05b18938357b3e8c186a80966f5d3916851b5b60",
+    "author": "EliteAsian123",
+    "summary": "Fixed circular theme starpower color"
   }
 ]

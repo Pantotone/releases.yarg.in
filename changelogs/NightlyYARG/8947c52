@@ -1,29 +1,17 @@
 [
   {
-    "oid": "8947c5263c0a43b13f67ce3070d1e2e7c97d7c79",
-    "author": {
-      "user": {
-        "login": "EliteAsian123"
-      }
-    },
-    "messageHeadline": "Disable the fade shader while in the editor so you can see what's hap…"
+    "sha": "8947c5263c0a43b13f67ce3070d1e2e7c97d7c79",
+    "author": "EliteAsian123",
+    "summary": "Disable the fade shader while in the editor so you can see what's hap…"
   },
   {
-    "oid": "2f61ed272d2d4466d579c78f8ec580598b6dc67a",
-    "author": {
-      "user": {
-        "login": "EliteAsian123"
-      }
-    },
-    "messageHeadline": "Fix live preset reloading"
+    "sha": "2f61ed272d2d4466d579c78f8ec580598b6dc67a",
+    "author": "EliteAsian123",
+    "summary": "Fix live preset reloading"
   },
   {
-    "oid": "f5a419df17d0ee9025dab9f6ea6b90cf944b4208",
-    "author": {
-      "user": {
-        "login": "EliteAsian123"
-      }
-    },
-    "messageHeadline": "Refactored preset settings"
+    "sha": "f5a419df17d0ee9025dab9f6ea6b90cf944b4208",
+    "author": "EliteAsian123",
+    "summary": "Refactored preset settings"
   }
 ]
