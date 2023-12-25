@@ -1,0 +1,12 @@
+[
+  {
+    "sha": "3bbf4e5b37af05a2b634b6c4fcea9a0214596dd8",
+    "author": "TheNathannator",
+    "summary": "Clean up navigation group selection handling and fix various issues (…"
+  },
+  {
+    "sha": "6c0071ce444c971e113afd57146eaaf065409f0b",
+    "author": "EliteAsian123",
+    "summary": "Fixed mid-song replay saving"
+  }
+]
