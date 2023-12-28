@@ -1,0 +1,32 @@
+[
+  {
+    "sha": "9cc2deed0542e803d3d2c50cdc8bf04591aa1feb",
+    "author": "EliteAsian123",
+    "summary": "Styling"
+  },
+  {
+    "sha": "e1bab738b2c2d88a8a1a86ea7c3a8d137dc9de5c",
+    "author": "EliteAsian123",
+    "summary": "Fixed errors when using bots"
+  },
+  {
+    "sha": "3294a5d13525ab9a3e3d80320dc26f6e6ad25186",
+    "author": "EliteAsian123",
+    "summary": "Update YARG.Core and Gameplay scene (unity moment)"
+  },
+  {
+    "sha": "21803debdde1e0caf67e86599aaa158ab059af3e",
+    "author": "EliteAsian123",
+    "summary": "Prevent \"Imported Replays\" tab from not working if there's a replay w…"
+  },
+  {
+    "sha": "41b590daa928b68985d1d0f52357cc44ad6dbf0f",
+    "author": "TheFatBastid",
+    "summary": "Added support for some Santroller LEDs (#626)"
+  },
+  {
+    "sha": "38e045915e21ed90a05d690362fe089f70fed5e8",
+    "author": "TheNathannator",
+    "summary": "Take two: Clean up navigation group selection handling and fix variou…"
+  }
+]
