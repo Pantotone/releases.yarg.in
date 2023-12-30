@@ -1,0 +1,12 @@
+[
+  {
+    "sha": "f936593dbc38dbf6cab2f3171125f387f1d2b0ad",
+    "author": "EliteAsian123",
+    "summary": "Added whammy animations back in"
+  },
+  {
+    "sha": "0a861027f65fba39ae340ffaa3d720be39aa231b",
+    "author": "EliteAsian123",
+    "summary": "Fixed game soft-locking after it trying to use the harmony index on s…"
+  }
+]
