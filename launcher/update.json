@@ -1,19 +1,19 @@
 {
-  "version": "0.2.6",
-  "notes": "Some bug fixes.",
-  "pub_date": "2023-12-17T17:27:38.369Z",
+  "version": "0.3.0",
+  "notes": "Games and setlists can now be uninstalled right from the launcher.",
+  "pub_date": "2024-01-01T20:37:15.269Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTW9ULzJ4cUluYzI4bHRoL2N3U2xlY2IwekxkTTJ1TGVac1ZEVGl0STUrVlFxUUozd2FaR1gyZVBwZkJENk9TeW9hTnpZeERiS1dZQ00zMWF1T0dZNTZwdUMzc3FlYWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAyODMzODQyCWZpbGU6eWFyYy1sYXVuY2hlcl8wLjIuNl9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKVFVIR0JFTzJKMGsxR3A1TnBtN3JlSTJwcitDNjRiTWswNTNlWmJ0YU9pRW9yc3o3Vlc2dXdFKzlGblhTQVdNSVVVd0pKU21ZV3dMcU5QbERkNnJTRFE9PQo=",
-      "url": "https://github.com/YARC-Official/YARC-Launcher/releases/download/v0.2.6/yarc-launcher_0.2.6_amd64.AppImage.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTW9ULzJ4cUluYzFISE0vQW5JOFhxNDhVWTBYNkgvZjZOYmhqVmxkeUpVWnZRb3I2TFZPQjVQRHNwd1c0bkU4TlFOcDRxNEFlekJ3dVpIT1h3U3J0WEtuZjhwbFoxWWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAyODMzOTc0CWZpbGU6WUFSQyBMYXVuY2hlcl8wLjIuNl94NjRfZW4tVVMubXNpLnppcAp5VCt3MjJkMkdpNmZ0YTc2VGpteThsRHNPMm5CSjgxZXhmVE8zTWpXcHBRLzZVUlZhT1BOZ0plajVidE9IbFNyalo5alYxYzJhR3pyMHlvZVBsM1VCQT09Cg==",
-      "url": "https://github.com/YARC-Official/YARC-Launcher/releases/download/v0.2.6/YARC.Launcher_0.2.6_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTW9ULzJ4cUluY3hIS2I3NlYzaDdOS0NTUlJqaTVWcVR5NU1CaVVyVHl1R0FtZ1hEcUpsNlVVR05IRkJ6NHFMN3ZhUGFWeFY0aktyeXg1ZlBoRklHSTd1TWU1eXJPTHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA0MTQxMjM4CWZpbGU6eWFyYy1sYXVuY2hlcl8wLjMuMF9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKS3YvWk95TVc5TFhIM0ozWmxMQzczSTNFM0R2eXI4YW9Zc1RkbHJZemlxSkhGTjhrL0I2Ynp4cExaNVp6WEpBSE5ENDFIL1B6ckVqZms4SitMMzRYQnc9PQo=",
+      "url": "https://github.com/YARC-Official/YARC-Launcher/releases/download/v0.3.0/yarc-launcher_0.3.0_amd64.AppImage.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTW9ULzJ4cUluYzgrV0dpNitIUkNGRWo3UnNPcHoycXcyZVliNXYwZk9sNm95Z1JQTFMyQ3p5OGxtb1ZLQWozYm1JM2VKbnM4ZlFqTFNqUmljUFh6SHdZTTZZMnZ3YXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzAyODM0MDU2CWZpbGU6WUFSQyBMYXVuY2hlci5hcHAudGFyLmd6ClNEeXlvTXR0VjR0TERGek1BZE9QamhZU25FdFU5UlFRTWdKdjlaWitjYytQYjlHZjNjUkR6WFB3ZGdreEQyUlFlYjF3NGsxYURJQmE0OG0zdCsxSkRBPT0K",
-      "url": "https://github.com/YARC-Official/YARC-Launcher/releases/download/v0.2.6/YARC.Launcher_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTW9ULzJ4cUluYzFSa1hGK3RMUTE2ZzBhd2pSSkk5RXhTU2pHZ2RGZTJOemhycng1QzZ1Z0w1WStrMFhKU0pPUFVPekp1TENsTGptVGkwaVBWcU5ZWXJ0WU9CdytpWFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA0MTQxMjkzCWZpbGU6WUFSQyBMYXVuY2hlci5hcHAudGFyLmd6Ck5ERlB2S25kU3U1OWhaY2QyOEgxSnlWaHpWY256bnBvbzNjZEt1N1h6cHdsYmQyZmVId0ZFTncxTGd3WmQxRnVPRXhhaWVaRXZZTkI3TEk2bk9Kb0N3PT0K",
+      "url": "https://github.com/YARC-Official/YARC-Launcher/releases/download/v0.3.0/YARC.Launcher_x64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTW9ULzJ4cUluYzRqUEtqTmx2ZXFzRWhZQVlqWlpRZGExS3ZRTE1hWXlucWJBS3Y2NlFCY0JHVjJSZnNYU1dyZ0xYdUtpUXFwQTNHbHRMRmZINlUyS3UwdUN2d1RXeEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA0MTQxNDMwCWZpbGU6WUFSQyBMYXVuY2hlcl8wLjMuMF94NjRfZW4tVVMubXNpLnppcApDV2tNRUZoSEJQb3RYU2p6V2hHemFuSlpvR21idWdxekI1RG9jaUNrcVViUmluOVoxSmNTRThmSlVZNkJReXBKdFVnKzRTUTF3N3hicUhaeEp1U0xEdz09Cg==",
+      "url": "https://github.com/YARC-Official/YARC-Launcher/releases/download/v0.3.0/YARC.Launcher_0.3.0_x64_en-US.msi.zip"
     }
   }
 }
