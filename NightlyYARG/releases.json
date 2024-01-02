@@ -1,5 +1,9 @@
 [
   {
+    "tagName": "e04ae02",
+    "publishedAt": "2024-01-02T00:57:17Z"
+  },
+  {
     "tagName": "b679a8c",
     "publishedAt": "2024-01-01T00:55:55Z"
   },
@@ -394,9 +398,5 @@
   {
     "tagName": "3ec5bef",
     "publishedAt": "2023-06-20T02:01:53Z"
-  },
-  {
-    "tagName": "bc3ff34",
-    "publishedAt": "2023-06-19T20:55:01Z"
   }
 ]
