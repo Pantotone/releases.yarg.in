@@ -1,12 +1,14 @@
-[
-  {
-    "sha": "321e251682692be8509253ddf57dccad68c4dd16",
-    "author": "jgoyvaerts",
-    "summary": "Fix UI not refreshing after refreshing songs (#619)"
-  },
-  {
-    "sha": "a0c7943e0be6c0c7b76ead506fbcbdf2e5d145de",
-    "author": "EliteAsian123",
-    "summary": "Update YARG.Core"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "321e251682692be8509253ddf57dccad68c4dd16",
+      "author": "jgoyvaerts",
+      "summary": "Fix UI not refreshing after refreshing songs (#619)"
+    },
+    {
+      "sha": "a0c7943e0be6c0c7b76ead506fbcbdf2e5d145de",
+      "author": "EliteAsian123",
+      "summary": "Update YARG.Core"
+    }
+  ]
+}

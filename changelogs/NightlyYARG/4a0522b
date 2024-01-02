@@ -1,7 +1,9 @@
-[
-  {
-    "sha": "4a0522b53bd7c12dbbaeb77b8217bd9680dc6d9a",
-    "author": "sonicfind",
-    "summary": "Implement sng file support (#600)"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "4a0522b53bd7c12dbbaeb77b8217bd9680dc6d9a",
+      "author": "sonicfind",
+      "summary": "Implement sng file support (#600)"
+    }
+  ]
+}

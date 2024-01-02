@@ -1,12 +1,14 @@
-[
-  {
-    "sha": "e04ae02106a2ec6bd35b0a26baf123265f077213",
-    "author": "TheNathannator",
-    "summary": "Fix devices being assigned to multiple profiles on resolve if those p…"
-  },
-  {
-    "sha": "8c7bd6c662f468dbe212fb884d4a1762112561b0",
-    "author": "TheNathannator",
-    "summary": "Fix lyrics bar being active when there are no lyrics"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "e04ae02106a2ec6bd35b0a26baf123265f077213",
+      "author": "TheNathannator",
+      "summary": "Fix devices being assigned to multiple profiles on resolve if those p…"
+    },
+    {
+      "sha": "8c7bd6c662f468dbe212fb884d4a1762112561b0",
+      "author": "TheNathannator",
+      "summary": "Fix lyrics bar being active when there are no lyrics"
+    }
+  ]
+}

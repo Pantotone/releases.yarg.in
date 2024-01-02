@@ -1,17 +1,19 @@
-[
-  {
-    "sha": "f38f3254887726da6c1fa0615999883c1d4d79a0",
-    "author": "TheNathannator",
-    "summary": "Update building instructions to fix/clarify some things"
-  },
-  {
-    "sha": "a188de7867b3651dead4254c7ab7ced8c3bc1a79",
-    "author": "TheNathannator",
-    "summary": "this got reset for some reason lol"
-  },
-  {
-    "sha": "c4c2661b307aa962b5f0251e30721a4a95c70505",
-    "author": "TheNathannator",
-    "summary": "Fix RB drumkit hits not always registering (update PlasticBand-Unity …"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "f38f3254887726da6c1fa0615999883c1d4d79a0",
+      "author": "TheNathannator",
+      "summary": "Update building instructions to fix/clarify some things"
+    },
+    {
+      "sha": "a188de7867b3651dead4254c7ab7ced8c3bc1a79",
+      "author": "TheNathannator",
+      "summary": "this got reset for some reason lol"
+    },
+    {
+      "sha": "c4c2661b307aa962b5f0251e30721a4a95c70505",
+      "author": "TheNathannator",
+      "summary": "Fix RB drumkit hits not always registering (update PlasticBand-Unity …"
+    }
+  ]
+}

@@ -1,7 +1,9 @@
-[
-  {
-    "sha": "6686ece22597c48ee7ec1e4700bc2acc7942e7f2",
-    "author": "EliteAsian123",
-    "summary": "Seperated the profile list and the profile info menus into different …"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "6686ece22597c48ee7ec1e4700bc2acc7942e7f2",
+      "author": "EliteAsian123",
+      "summary": "Seperated the profile list and the profile info menus into different …"
+    }
+  ]
+}

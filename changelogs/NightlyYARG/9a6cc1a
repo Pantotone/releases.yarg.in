@@ -1,7 +1,9 @@
-[
-  {
-    "sha": "9a6cc1a5fa62a452c5b7fdab9cbf3a3a16b928ef",
-    "author": "TheNathannator",
-    "summary": "Add git-blame revision ignore file"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "9a6cc1a5fa62a452c5b7fdab9cbf3a3a16b928ef",
+      "author": "TheNathannator",
+      "summary": "Add git-blame revision ignore file"
+    }
+  ]
+}

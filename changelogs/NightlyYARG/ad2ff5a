@@ -1,22 +1,24 @@
-[
-  {
-    "sha": "ad2ff5af8ff69a77a16cc86bde2dba18e6b4515b",
-    "author": "EliteAsian123",
-    "summary": "Potentially fixed MacOS setlist detection"
-  },
-  {
-    "sha": "e188dea83f935b0c2260c24c123c09d92343545b",
-    "author": "EliteAsian123",
-    "summary": "Update README.md"
-  },
-  {
-    "sha": "4d668594a1293acb311fdb95d053cc3b39a46dc3",
-    "author": "EliteAsian123",
-    "summary": "Removed DtxCs as it was not used"
-  },
-  {
-    "sha": "71f5847345f33036d5f0a9b8deb135cbe06f4442",
-    "author": "EliteAsian123",
-    "summary": "Remove RawAssets folder (unused)"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "ad2ff5af8ff69a77a16cc86bde2dba18e6b4515b",
+      "author": "EliteAsian123",
+      "summary": "Potentially fixed MacOS setlist detection"
+    },
+    {
+      "sha": "e188dea83f935b0c2260c24c123c09d92343545b",
+      "author": "EliteAsian123",
+      "summary": "Update README.md"
+    },
+    {
+      "sha": "4d668594a1293acb311fdb95d053cc3b39a46dc3",
+      "author": "EliteAsian123",
+      "summary": "Removed DtxCs as it was not used"
+    },
+    {
+      "sha": "71f5847345f33036d5f0a9b8deb135cbe06f4442",
+      "author": "EliteAsian123",
+      "summary": "Remove RawAssets folder (unused)"
+    }
+  ]
+}

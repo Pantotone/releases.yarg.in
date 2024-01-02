@@ -1,12 +1,14 @@
-[
-  {
-    "sha": "7a898232ad8beecf9b2ff3d519ff98034b235c59",
-    "author": "sonicfind",
-    "summary": "Fix incorrect clickable music library item behavior"
-  },
-  {
-    "sha": "d0cdb3eb4cc873c450d19b3053c909643b208aca",
-    "author": "sonicfind",
-    "summary": ".Ini delay edge case YARG.Core update (long live Prevail)"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "7a898232ad8beecf9b2ff3d519ff98034b235c59",
+      "author": "sonicfind",
+      "summary": "Fix incorrect clickable music library item behavior"
+    },
+    {
+      "sha": "d0cdb3eb4cc873c450d19b3053c909643b208aca",
+      "author": "sonicfind",
+      "summary": ".Ini delay edge case YARG.Core update (long live Prevail)"
+    }
+  ]
+}

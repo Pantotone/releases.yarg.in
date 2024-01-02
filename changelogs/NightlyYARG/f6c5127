@@ -1,7 +1,9 @@
-[
-  {
-    "sha": "f6c5127756f235c6aefde9aed7a250537b971f20",
-    "author": "EliteAsian123",
-    "summary": "Engine presets (#617)"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "f6c5127756f235c6aefde9aed7a250537b971f20",
+      "author": "EliteAsian123",
+      "summary": "Engine presets (#617)"
+    }
+  ]
+}

@@ -1,7 +1,9 @@
-[
-  {
-    "sha": "6cc10ed6b63ed9a08734df1e71da7232c9eab88d",
-    "author": "jgoyvaerts",
-    "summary": "Default initial selection of the DifficultyMenu to the current value …"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "6cc10ed6b63ed9a08734df1e71da7232c9eab88d",
+      "author": "jgoyvaerts",
+      "summary": "Default initial selection of the DifficultyMenu to the current value …"
+    }
+  ]
+}

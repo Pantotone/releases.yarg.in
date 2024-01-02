@@ -1,12 +1,14 @@
-[
-  {
-    "sha": "3af4098ff668bf2a0247add54e9ef99e2b27144f",
-    "author": "TheNathannator",
-    "summary": "Fix scrollview's viewport being 2 units short of the scroll bar"
-  },
-  {
-    "sha": "c00c7660f2a2f3e31aa1db12ffbf87d1d8647d0c",
-    "author": "TheNathannator",
-    "summary": "Update PlasticBand-Unity to v0.4.4"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "3af4098ff668bf2a0247add54e9ef99e2b27144f",
+      "author": "TheNathannator",
+      "summary": "Fix scrollview's viewport being 2 units short of the scroll bar"
+    },
+    {
+      "sha": "c00c7660f2a2f3e31aa1db12ffbf87d1d8647d0c",
+      "author": "TheNathannator",
+      "summary": "Update PlasticBand-Unity to v0.4.4"
+    }
+  ]
+}

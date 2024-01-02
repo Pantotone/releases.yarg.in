@@ -1,7 +1,9 @@
-[
-  {
-    "sha": "fdfd01cd0726b4a5c469f888df60759868cf9398",
-    "author": "EliteAsian123",
-    "summary": "Update YARG.Core for replay fix"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "fdfd01cd0726b4a5c469f888df60759868cf9398",
+      "author": "EliteAsian123",
+      "summary": "Update YARG.Core for replay fix"
+    }
+  ]
+}

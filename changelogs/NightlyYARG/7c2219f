@@ -1,17 +1,19 @@
-[
-  {
-    "sha": "2e96d8ce9b1c8fb5c1cc32ab5304102f3b457f50",
-    "author": "sonicfind",
-    "summary": "Use accurate semitone algorithm"
-  },
-  {
-    "sha": "7c2219f188b65bf9115b341ae2ccfbc7eb850bdf",
-    "author": "sonicfind",
-    "summary": "Update to use generalized stream extensions"
-  },
-  {
-    "sha": "61afecef4375019489111ca7ff151a1600100ff9",
-    "author": "TheNathannator",
-    "summary": "Refactor bindings format to be versionable, more flexible, and less w…"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "2e96d8ce9b1c8fb5c1cc32ab5304102f3b457f50",
+      "author": "sonicfind",
+      "summary": "Use accurate semitone algorithm"
+    },
+    {
+      "sha": "7c2219f188b65bf9115b341ae2ccfbc7eb850bdf",
+      "author": "sonicfind",
+      "summary": "Update to use generalized stream extensions"
+    },
+    {
+      "sha": "61afecef4375019489111ca7ff151a1600100ff9",
+      "author": "TheNathannator",
+      "summary": "Refactor bindings format to be versionable, more flexible, and less w…"
+    }
+  ]
+}

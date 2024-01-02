@@ -1,17 +1,19 @@
-[
-  {
-    "sha": "e51408fbfff0c7776761048eb533a541688ce2b2",
-    "author": "EliteAsian123",
-    "summary": "Added song info display back, along with a setting to keep it persistent"
-  },
-  {
-    "sha": "7161f41a5ceec9124903548d1ee659d9851d4834",
-    "author": "EliteAsian123",
-    "summary": "Fixed presets being deleted when they are renamed"
-  },
-  {
-    "sha": "9279fe81b052f06fad2c5f913f5110aa1f673a5e",
-    "author": "EliteAsian123",
-    "summary": "Update YARG.Core"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "e51408fbfff0c7776761048eb533a541688ce2b2",
+      "author": "EliteAsian123",
+      "summary": "Added song info display back, along with a setting to keep it persistent"
+    },
+    {
+      "sha": "7161f41a5ceec9124903548d1ee659d9851d4834",
+      "author": "EliteAsian123",
+      "summary": "Fixed presets being deleted when they are renamed"
+    },
+    {
+      "sha": "9279fe81b052f06fad2c5f913f5110aa1f673a5e",
+      "author": "EliteAsian123",
+      "summary": "Update YARG.Core"
+    }
+  ]
+}

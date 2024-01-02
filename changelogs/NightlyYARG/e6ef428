@@ -1,7 +1,9 @@
-[
-  {
-    "sha": "e6ef428f490ea7b610d85f2209009629db78bf1f",
-    "author": "EliteAsian123",
-    "summary": "Added button to open and close replay controls in bottom corner"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "e6ef428f490ea7b610d85f2209009629db78bf1f",
+      "author": "EliteAsian123",
+      "summary": "Added button to open and close replay controls in bottom corner"
+    }
+  ]
+}

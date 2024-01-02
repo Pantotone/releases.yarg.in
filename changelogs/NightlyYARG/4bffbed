@@ -1,47 +1,49 @@
-[
-  {
-    "sha": "4bffbed8204bfac54143e06ee6f18c1c6848fdf1",
-    "author": "TheNathannator",
-    "summary": "Add ticks per beat to debug display as well"
-  },
-  {
-    "sha": "7f3dd3f6af92767b77a629d2acf78cc5f7d29b37",
-    "author": "JSanchez78657",
-    "summary": "Added separate tracks for each harmony. (#609)"
-  },
-  {
-    "sha": "f4e51c26fc6994a1d2bd8a7f324994ed4ab49d83",
-    "author": "RileyTheFox",
-    "summary": "Set whammy timer parameter for guitar and update debug text to use ne…"
-  },
-  {
-    "sha": "e3ac932095d27ba3aed943a064e9a9911c42f5ec",
-    "author": "RileyTheFox",
-    "summary": "Update YARG.Core (Star Power drain rework)"
-  },
-  {
-    "sha": "fd5995b43801be1658c6dcb1142a66c6eb2c057c",
-    "author": "EliteAsian123",
-    "summary": "Minor adjustments"
-  },
-  {
-    "sha": "74b878fb8b9d8ae8f7b9b0e519255a9a0078771c",
-    "author": "EliteAsian123",
-    "summary": "Added circular sustain particles!"
-  },
-  {
-    "sha": "f99f606298a76fb3ffaa2a785c2f35e3586644ba",
-    "author": "EliteAsian123",
-    "summary": "Added sustain animations to the circular theme"
-  },
-  {
-    "sha": "55548d6d61023305e46f33be85ab052f67b47e9e",
-    "author": "EliteAsian123",
-    "summary": "Added sustain animations to rectangular frets"
-  },
-  {
-    "sha": "04a926c954313ec1fd1911df58fc9de03524d57c",
-    "author": "EliteAsian123",
-    "summary": "Add track preview back in \"Graphics\" tab"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "4bffbed8204bfac54143e06ee6f18c1c6848fdf1",
+      "author": "TheNathannator",
+      "summary": "Add ticks per beat to debug display as well"
+    },
+    {
+      "sha": "7f3dd3f6af92767b77a629d2acf78cc5f7d29b37",
+      "author": "JSanchez78657",
+      "summary": "Added separate tracks for each harmony. (#609)"
+    },
+    {
+      "sha": "f4e51c26fc6994a1d2bd8a7f324994ed4ab49d83",
+      "author": "RileyTheFox",
+      "summary": "Set whammy timer parameter for guitar and update debug text to use ne…"
+    },
+    {
+      "sha": "e3ac932095d27ba3aed943a064e9a9911c42f5ec",
+      "author": "RileyTheFox",
+      "summary": "Update YARG.Core (Star Power drain rework)"
+    },
+    {
+      "sha": "fd5995b43801be1658c6dcb1142a66c6eb2c057c",
+      "author": "EliteAsian123",
+      "summary": "Minor adjustments"
+    },
+    {
+      "sha": "74b878fb8b9d8ae8f7b9b0e519255a9a0078771c",
+      "author": "EliteAsian123",
+      "summary": "Added circular sustain particles!"
+    },
+    {
+      "sha": "f99f606298a76fb3ffaa2a785c2f35e3586644ba",
+      "author": "EliteAsian123",
+      "summary": "Added sustain animations to the circular theme"
+    },
+    {
+      "sha": "55548d6d61023305e46f33be85ab052f67b47e9e",
+      "author": "EliteAsian123",
+      "summary": "Added sustain animations to rectangular frets"
+    },
+    {
+      "sha": "04a926c954313ec1fd1911df58fc9de03524d57c",
+      "author": "EliteAsian123",
+      "summary": "Add track preview back in \"Graphics\" tab"
+    }
+  ]
+}

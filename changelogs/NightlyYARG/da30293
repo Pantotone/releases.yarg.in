@@ -1,27 +1,29 @@
-[
-  {
-    "sha": "da30293be036b146b49dbf9bf065f19f344ca7e1",
-    "author": "EliteAsian123",
-    "summary": "Fixed vocals getting FCs everytime"
-  },
-  {
-    "sha": "ec2981ef1ec76508356ee72d855a5f9e379a4a31",
-    "author": "EliteAsian123",
-    "summary": "Fixed highscore SQL query"
-  },
-  {
-    "sha": "26773bee170ad2e1b8a27a2f120b4f46d6f0f1f2",
-    "author": "EliteAsian123",
-    "summary": "Keep track of preset type so the player doesn't import the wrong type"
-  },
-  {
-    "sha": "1ce788a112d4264c426c51247fef6f7f36f1a11c",
-    "author": "EliteAsian123",
-    "summary": "Added functionality for import and export button via .preset files"
-  },
-  {
-    "sha": "aa36f0a3f9e1987d813cc50a6d9b2d50e4a3dd23",
-    "author": "EliteAsian123",
-    "summary": "Updated preset UI to add more buttons"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "da30293be036b146b49dbf9bf065f19f344ca7e1",
+      "author": "EliteAsian123",
+      "summary": "Fixed vocals getting FCs everytime"
+    },
+    {
+      "sha": "ec2981ef1ec76508356ee72d855a5f9e379a4a31",
+      "author": "EliteAsian123",
+      "summary": "Fixed highscore SQL query"
+    },
+    {
+      "sha": "26773bee170ad2e1b8a27a2f120b4f46d6f0f1f2",
+      "author": "EliteAsian123",
+      "summary": "Keep track of preset type so the player doesn't import the wrong type"
+    },
+    {
+      "sha": "1ce788a112d4264c426c51247fef6f7f36f1a11c",
+      "author": "EliteAsian123",
+      "summary": "Added functionality for import and export button via .preset files"
+    },
+    {
+      "sha": "aa36f0a3f9e1987d813cc50a6d9b2d50e4a3dd23",
+      "author": "EliteAsian123",
+      "summary": "Updated preset UI to add more buttons"
+    }
+  ]
+}

@@ -1,12 +1,14 @@
-[
-  {
-    "sha": "4d36eb9cd8753c45ed8244d73e3f6f98fbc2ce39",
-    "author": "EliteAsian123",
-    "summary": "Added mute on miss back"
-  },
-  {
-    "sha": "da0127c8ffc896c060da47b6f2b7719025e3c34d",
-    "author": "EliteAsian123",
-    "summary": "Split up GameManager file because it was getting kinda large"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "4d36eb9cd8753c45ed8244d73e3f6f98fbc2ce39",
+      "author": "EliteAsian123",
+      "summary": "Added mute on miss back"
+    },
+    {
+      "sha": "da0127c8ffc896c060da47b6f2b7719025e3c34d",
+      "author": "EliteAsian123",
+      "summary": "Split up GameManager file because it was getting kinda large"
+    }
+  ]
+}

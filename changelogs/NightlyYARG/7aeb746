@@ -1,22 +1,24 @@
-[
-  {
-    "sha": "7aeb746c6fcd7ef396ea23b5c4decdef8c725927",
-    "author": "EliteAsian123",
-    "summary": "Made `badsongs.txt` always generate in the persistent data path"
-  },
-  {
-    "sha": "1ae84f4b33b43bba35db7d4800042d45abc110a0",
-    "author": "EliteAsian123",
-    "summary": "Fixed typos + score screen scroll bar"
-  },
-  {
-    "sha": "e264ef19a488bf6f90df31a99c77e8877079aa82",
-    "author": "EliteAsian123",
-    "summary": "Changed Anti-Ghosting icon into Ghosting icon"
-  },
-  {
-    "sha": "f10c07b2f1cbb68935e954e29fe7a521b628184e",
-    "author": "EliteAsian123",
-    "summary": "Modifier icons on score screen"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "7aeb746c6fcd7ef396ea23b5c4decdef8c725927",
+      "author": "EliteAsian123",
+      "summary": "Made `badsongs.txt` always generate in the persistent data path"
+    },
+    {
+      "sha": "1ae84f4b33b43bba35db7d4800042d45abc110a0",
+      "author": "EliteAsian123",
+      "summary": "Fixed typos + score screen scroll bar"
+    },
+    {
+      "sha": "e264ef19a488bf6f90df31a99c77e8877079aa82",
+      "author": "EliteAsian123",
+      "summary": "Changed Anti-Ghosting icon into Ghosting icon"
+    },
+    {
+      "sha": "f10c07b2f1cbb68935e954e29fe7a521b628184e",
+      "author": "EliteAsian123",
+      "summary": "Modifier icons on score screen"
+    }
+  ]
+}

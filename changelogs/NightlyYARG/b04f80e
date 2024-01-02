@@ -1,12 +1,14 @@
-[
-  {
-    "sha": "b04f80ec14e12b5ff452aea3c7ba0cccbbd68aee",
-    "author": "EliteAsian123",
-    "summary": "New profile \"Overview\" tab"
-  },
-  {
-    "sha": "0c86e76fce25bc719fc0211922d07c4b23698b16",
-    "author": "EliteAsian123",
-    "summary": "Fixed dropdowns not serializing (FINALLY)"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "b04f80ec14e12b5ff452aea3c7ba0cccbbd68aee",
+      "author": "EliteAsian123",
+      "summary": "New profile \"Overview\" tab"
+    },
+    {
+      "sha": "0c86e76fce25bc719fc0211922d07c4b23698b16",
+      "author": "EliteAsian123",
+      "summary": "Fixed dropdowns not serializing (FINALLY)"
+    }
+  ]
+}

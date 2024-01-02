@@ -1,12 +1,14 @@
-[
-  {
-    "sha": "0fe6d00dfd5f7e9db28afc4fa78198d23bf164e4",
-    "author": "TheNathannator",
-    "summary": "Fix device bindings not always deserializing correctly"
-  },
-  {
-    "sha": "dc142713b37f9e281f78c0c102ada726d091f843",
-    "author": "TheNathannator",
-    "summary": "Fix user index not actually being ignored when hashing XInput devices"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "0fe6d00dfd5f7e9db28afc4fa78198d23bf164e4",
+      "author": "TheNathannator",
+      "summary": "Fix device bindings not always deserializing correctly"
+    },
+    {
+      "sha": "dc142713b37f9e281f78c0c102ada726d091f843",
+      "author": "TheNathannator",
+      "summary": "Fix user index not actually being ignored when hashing XInput devices"
+    }
+  ]
+}

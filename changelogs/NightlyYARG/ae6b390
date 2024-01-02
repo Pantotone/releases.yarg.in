@@ -1,7 +1,9 @@
-[
-  {
-    "sha": "ae6b390d20e3d71958d87c954a49b658a3e443a8",
-    "author": "jgoyvaerts",
-    "summary": "Add \"New Highscore\" text notification while playing (#627)"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "ae6b390d20e3d71958d87c954a49b658a3e443a8",
+      "author": "jgoyvaerts",
+      "summary": "Add \"New Highscore\" text notification while playing (#627)"
+    }
+  ]
+}

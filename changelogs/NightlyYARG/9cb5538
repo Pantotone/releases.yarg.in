@@ -1,7 +1,9 @@
-[
-  {
-    "sha": "9cb5538d016f7b4a787342e0331734732a838bed",
-    "author": "EliteAsian123",
-    "summary": "Color picker dialog (only sliders so far)"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "9cb5538d016f7b4a787342e0331734732a838bed",
+      "author": "EliteAsian123",
+      "summary": "Color picker dialog (only sliders so far)"
+    }
+  ]
+}

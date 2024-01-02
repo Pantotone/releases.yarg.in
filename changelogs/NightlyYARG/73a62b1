@@ -1,12 +1,14 @@
-[
-  {
-    "sha": "73a62b1f6cde37dffdbaeab7e938a421a307b037",
-    "author": "EliteAsian123",
-    "summary": "Fixed album and artist filter"
-  },
-  {
-    "sha": "0fea2a5e36144e0d4b2897b855c397a0cad58b72",
-    "author": "EscapeNumber001",
-    "summary": "Minor bugfixes (#379)"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "73a62b1f6cde37dffdbaeab7e938a421a307b037",
+      "author": "EliteAsian123",
+      "summary": "Fixed album and artist filter"
+    },
+    {
+      "sha": "0fea2a5e36144e0d4b2897b855c397a0cad58b72",
+      "author": "EscapeNumber001",
+      "summary": "Minor bugfixes (#379)"
+    }
+  ]
+}

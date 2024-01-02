@@ -1,12 +1,14 @@
-[
-  {
-    "sha": "866e248c76f8cb0e0b0c397f21d97e96dd63b797",
-    "author": "EliteAsian123",
-    "summary": "Split up settings preview builders into an interface"
-  },
-  {
-    "sha": "1cee693b60dc7e6a4c43ef21a6282d275cd3b990",
-    "author": "EliteAsian123",
-    "summary": "BaseSettingVisual changes to allow for arbitrary reference values"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "866e248c76f8cb0e0b0c397f21d97e96dd63b797",
+      "author": "EliteAsian123",
+      "summary": "Split up settings preview builders into an interface"
+    },
+    {
+      "sha": "1cee693b60dc7e6a4c43ef21a6282d275cd3b990",
+      "author": "EliteAsian123",
+      "summary": "BaseSettingVisual changes to allow for arbitrary reference values"
+    }
+  ]
+}

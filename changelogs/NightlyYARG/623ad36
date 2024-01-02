@@ -1,17 +1,19 @@
-[
-  {
-    "sha": "623ad36377fc43dbd743ed2526c3bac75ba99317",
-    "author": "EliteAsian123",
-    "summary": "Change license to LGPL-3.0 (or later) (#601)"
-  },
-  {
-    "sha": "e7329f14e2a2b25fd80b12140cb1596bfb9e55de",
-    "author": "EliteAsian123",
-    "summary": "lol (fixed Ouvert export)"
-  },
-  {
-    "sha": "3669579c1da1efaa70dbf05bed7d2cb546ea2024",
-    "author": "EliteAsian123",
-    "summary": "Don't break game if OpenSource fails to download"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "623ad36377fc43dbd743ed2526c3bac75ba99317",
+      "author": "EliteAsian123",
+      "summary": "Change license to LGPL-3.0 (or later) (#601)"
+    },
+    {
+      "sha": "e7329f14e2a2b25fd80b12140cb1596bfb9e55de",
+      "author": "EliteAsian123",
+      "summary": "lol (fixed Ouvert export)"
+    },
+    {
+      "sha": "3669579c1da1efaa70dbf05bed7d2cb546ea2024",
+      "author": "EliteAsian123",
+      "summary": "Don't break game if OpenSource fails to download"
+    }
+  ]
+}

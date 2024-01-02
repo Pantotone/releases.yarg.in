@@ -1,7 +1,9 @@
-[
-  {
-    "sha": "0fcad37bff353084957b77c3e82fe4505de43a20",
-    "author": "RileyTheFox",
-    "summary": "Update YARG.Core for anti ghost fix"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "0fcad37bff353084957b77c3e82fe4505de43a20",
+      "author": "RileyTheFox",
+      "summary": "Update YARG.Core for anti ghost fix"
+    }
+  ]
+}

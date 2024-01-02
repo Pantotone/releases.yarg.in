@@ -1,7 +1,9 @@
-[
-  {
-    "sha": "eca2ea7a38efbc078bb29e56cce3d5b81dc540c4",
-    "author": "TheNathannator",
-    "summary": "Update YARG.Core (rich text utils cleanup)"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "eca2ea7a38efbc078bb29e56cce3d5b81dc540c4",
+      "author": "TheNathannator",
+      "summary": "Update YARG.Core (rich text utils cleanup)"
+    }
+  ]
+}

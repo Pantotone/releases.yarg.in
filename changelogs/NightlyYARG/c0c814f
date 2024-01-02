@@ -1,7 +1,9 @@
-[
-  {
-    "sha": "c0c814f9fa2c34669fb649423b7c64e6ac2a2244",
-    "author": "TheNathannator",
-    "summary": "Use new lyrics data in lyrics display, and remove manual stripping of…"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "c0c814f9fa2c34669fb649423b7c64e6ac2a2244",
+      "author": "TheNathannator",
+      "summary": "Use new lyrics data in lyrics display, and remove manual stripping of…"
+    }
+  ]
+}

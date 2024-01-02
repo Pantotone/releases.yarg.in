@@ -1,27 +1,29 @@
-[
-  {
-    "sha": "d18391739039ddc2dae7d177295248ba66b62a8e",
-    "author": "EliteAsian123",
-    "summary": "Create preset file immediately after copying it"
-  },
-  {
-    "sha": "b452b883a62fa72bb1868546037a0a5b08dd0a16",
-    "author": "EliteAsian123",
-    "summary": "Don't show errors when deleting presets"
-  },
-  {
-    "sha": "1acb4fe5c203963ecc22b0d54472f2628685456f",
-    "author": "EliteAsian123",
-    "summary": "Fix mouse wheel scrolling on the practice menu"
-  },
-  {
-    "sha": "b0c9fd3d39f779034f04d27c90210c0772291aa9",
-    "author": "EliteAsian123",
-    "summary": "Fixed help bar disappearing when first entering the profile info menu"
-  },
-  {
-    "sha": "e12077ca6f61afbd9eb343da9cffc11c92c466d1",
-    "author": "EliteAsian123",
-    "summary": "Update YARG.Core"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "d18391739039ddc2dae7d177295248ba66b62a8e",
+      "author": "EliteAsian123",
+      "summary": "Create preset file immediately after copying it"
+    },
+    {
+      "sha": "b452b883a62fa72bb1868546037a0a5b08dd0a16",
+      "author": "EliteAsian123",
+      "summary": "Don't show errors when deleting presets"
+    },
+    {
+      "sha": "1acb4fe5c203963ecc22b0d54472f2628685456f",
+      "author": "EliteAsian123",
+      "summary": "Fix mouse wheel scrolling on the practice menu"
+    },
+    {
+      "sha": "b0c9fd3d39f779034f04d27c90210c0772291aa9",
+      "author": "EliteAsian123",
+      "summary": "Fixed help bar disappearing when first entering the profile info menu"
+    },
+    {
+      "sha": "e12077ca6f61afbd9eb343da9cffc11c92c466d1",
+      "author": "EliteAsian123",
+      "summary": "Update YARG.Core"
+    }
+  ]
+}

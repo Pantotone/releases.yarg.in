@@ -1,7 +1,9 @@
-[
-  {
-    "sha": "b679a8c5359c94ed22c26cfc7c29cc0431cb885e",
-    "author": "EliteAsian123",
-    "summary": "Hide song info text in practice mode"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "b679a8c5359c94ed22c26cfc7c29cc0431cb885e",
+      "author": "EliteAsian123",
+      "summary": "Hide song info text in practice mode"
+    }
+  ]
+}

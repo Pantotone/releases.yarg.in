@@ -1,22 +1,24 @@
-[
-  {
-    "sha": "a1513d1ddb1c8b2bcd2815f09b8d3eaedf268fdb",
-    "author": "EliteAsian123",
-    "summary": "Added back drum bounce"
-  },
-  {
-    "sha": "265749043feb49f83ef9db427f27a5da5a0a9fb2",
-    "author": "EliteAsian123",
-    "summary": "\"Show Advanced Music Library Options\" setting + the advanced options"
-  },
-  {
-    "sha": "dc5acbc5b8e26fa19b904b8e8c41a08df7676735",
-    "author": "EliteAsian123",
-    "summary": "Prevent the whole settings file from being reset if there's one error"
-  },
-  {
-    "sha": "9fe68123a8ff20ff4db3049b745ca62fc7ead573",
-    "author": "TheNathannator",
-    "summary": "Clean up some settings things (#610)"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "a1513d1ddb1c8b2bcd2815f09b8d3eaedf268fdb",
+      "author": "EliteAsian123",
+      "summary": "Added back drum bounce"
+    },
+    {
+      "sha": "265749043feb49f83ef9db427f27a5da5a0a9fb2",
+      "author": "EliteAsian123",
+      "summary": "\"Show Advanced Music Library Options\" setting + the advanced options"
+    },
+    {
+      "sha": "dc5acbc5b8e26fa19b904b8e8c41a08df7676735",
+      "author": "EliteAsian123",
+      "summary": "Prevent the whole settings file from being reset if there's one error"
+    },
+    {
+      "sha": "9fe68123a8ff20ff4db3049b745ca62fc7ead573",
+      "author": "TheNathannator",
+      "summary": "Clean up some settings things (#610)"
+    }
+  ]
+}

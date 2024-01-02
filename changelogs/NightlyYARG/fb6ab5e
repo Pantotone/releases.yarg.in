@@ -1,22 +1,24 @@
-[
-  {
-    "sha": "fb6ab5e3a8131ef6724312bb836296aa0ae57719",
-    "author": "EliteAsian123",
-    "summary": "Fixed vocal players not having score"
-  },
-  {
-    "sha": "d78c8db01eb52132616c0aca8dd4bd9a9e2597fb",
-    "author": "Insomnautika",
-    "summary": "Main menu colored text highlight. (#631)"
-  },
-  {
-    "sha": "1e1b08a60ef2aa5b91baf394ae2e972aa7ac52ad",
-    "author": "AnthonyAlmanza",
-    "summary": "Added a button to SongView/Primary Text to click (#633)"
-  },
-  {
-    "sha": "e7b5da7510af78ab7630f4a14e652ebb9cd64b56",
-    "author": "jgoyvaerts",
-    "summary": "Fix idle mouse causing wrong initial selection of menu options (#628)"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "fb6ab5e3a8131ef6724312bb836296aa0ae57719",
+      "author": "EliteAsian123",
+      "summary": "Fixed vocal players not having score"
+    },
+    {
+      "sha": "d78c8db01eb52132616c0aca8dd4bd9a9e2597fb",
+      "author": "Insomnautika",
+      "summary": "Main menu colored text highlight. (#631)"
+    },
+    {
+      "sha": "1e1b08a60ef2aa5b91baf394ae2e972aa7ac52ad",
+      "author": "AnthonyAlmanza",
+      "summary": "Added a button to SongView/Primary Text to click (#633)"
+    },
+    {
+      "sha": "e7b5da7510af78ab7630f4a14e652ebb9cd64b56",
+      "author": "jgoyvaerts",
+      "summary": "Fix idle mouse causing wrong initial selection of menu options (#628)"
+    }
+  ]
+}

@@ -1,7 +1,9 @@
-[
-  {
-    "sha": "9623aff44770b2627f463ef89aa0a86a6fbc246f",
-    "author": "EliteAsian123",
-    "summary": "Found a better solution"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "9623aff44770b2627f463ef89aa0a86a6fbc246f",
+      "author": "EliteAsian123",
+      "summary": "Found a better solution"
+    }
+  ]
+}

@@ -1,27 +1,29 @@
-[
-  {
-    "sha": "eb3e008c190016440193e83cb45c2cf507b05c59",
-    "author": "TheFatBastid",
-    "summary": "Update CircularTheme.prefab (#611)"
-  },
-  {
-    "sha": "41a68479eab1137b7bcda6d2b2d35c1a561e1943",
-    "author": "EliteAsian123",
-    "summary": "Fixed practice HUD positioning"
-  },
-  {
-    "sha": "6ab1f74e089a1fb0e498180feba7ec43ef034de3",
-    "author": "EliteAsian123",
-    "summary": "Forgot to remove unused variables"
-  },
-  {
-    "sha": "c19c4ffdb515cc954b505d5d411e952051b0827e",
-    "author": "EliteAsian123",
-    "summary": "Slightly decreased rectangle theme open HOPO emission"
-  },
-  {
-    "sha": "9fb36e9ffdef3b63fa85a9a325a54c38b1d314d3",
-    "author": "EliteAsian123",
-    "summary": "Allow themes to have custom emission values"
-  }
-]
+{
+  "commits": [
+    {
+      "sha": "eb3e008c190016440193e83cb45c2cf507b05c59",
+      "author": "TheFatBastid",
+      "summary": "Update CircularTheme.prefab (#611)"
+    },
+    {
+      "sha": "41a68479eab1137b7bcda6d2b2d35c1a561e1943",
+      "author": "EliteAsian123",
+      "summary": "Fixed practice HUD positioning"
+    },
+    {
+      "sha": "6ab1f74e089a1fb0e498180feba7ec43ef034de3",
+      "author": "EliteAsian123",
+      "summary": "Forgot to remove unused variables"
+    },
+    {
+      "sha": "c19c4ffdb515cc954b505d5d411e952051b0827e",
+      "author": "EliteAsian123",
+      "summary": "Slightly decreased rectangle theme open HOPO emission"
+    },
+    {
+      "sha": "9fb36e9ffdef3b63fa85a9a325a54c38b1d314d3",
+      "author": "EliteAsian123",
+      "summary": "Allow themes to have custom emission values"
+    }
+  ]
+}
