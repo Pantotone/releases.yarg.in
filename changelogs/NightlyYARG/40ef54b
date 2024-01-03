@@ -1,0 +1,14 @@
+{
+  "commits": [
+    {
+      "sha": "40ef54b3d6f2d5c3b9bdced15dca905141ad1b8b",
+      "author": "EliteAsian123",
+      "summary": "Scale hit window with song speed"
+    },
+    {
+      "sha": "2bb8fd1201948d5d6ffa86bf17cb7ac858afcb8b",
+      "author": "EliteAsian123",
+      "summary": "Fixed some styling"
+    }
+  ]
+}
