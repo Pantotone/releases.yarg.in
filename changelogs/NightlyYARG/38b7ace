@@ -1,0 +1,19 @@
+{
+  "commits": [
+    {
+      "sha": "38b7acedbeed149df58b4ac64baf65b7baad2ac3",
+      "author": "EliteAsian123",
+      "summary": "Removed obsolete prefabs folder"
+    },
+    {
+      "sha": "624dd8af37f7b87361bb980a5ff630fbcf680f5c",
+      "author": "EliteAsian123",
+      "summary": "Removed obsolete script folder"
+    },
+    {
+      "sha": "4097dc96f7a9af26141bb48ca6084ae31bbb6afd",
+      "author": "EliteAsian123",
+      "summary": "Removed old ScoreManager, and fixed recommended songs"
+    }
+  ]
+}
