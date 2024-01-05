@@ -1,0 +1,14 @@
+{
+  "commits": [
+    {
+      "sha": "334608c9591681cc8a3306dcdf70c1e282d9acd2",
+      "author": "TheNathannator",
+      "summary": "Update PlasticBand-Unity to v0.4.5"
+    },
+    {
+      "sha": "719cc333e3974f82dc2a914d32cd2d5bdaf643d3",
+      "author": "EliteAsian123",
+      "summary": "Fixed YARGCoreBuilder installing the wrong version of beta packages"
+    }
+  ]
+}
