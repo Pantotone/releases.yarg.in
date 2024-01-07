@@ -1,0 +1,14 @@
+{
+  "commits": [
+    {
+      "sha": "b8aed3f8faaeab505422b2ed81eaa7c3fc8603fa",
+      "author": "TheNathannator",
+      "summary": "Update PlasticBand-Unity to v0.5.0"
+    },
+    {
+      "sha": "9d6a7216f19f044f1e5915e4d338e8ceb7bbb35a",
+      "author": "EliteAsian123",
+      "summary": "Update YARG.Core"
+    }
+  ]
+}
