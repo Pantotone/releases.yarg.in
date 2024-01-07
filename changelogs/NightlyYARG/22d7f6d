@@ -1,0 +1,14 @@
+{
+  "commits": [
+    {
+      "sha": "22d7f6de3ec7fc14f4e39fa470742ae3f4b137f2",
+      "author": "EliteAsian123",
+      "summary": "Optimized player preset fetching and updated replay serialization"
+    },
+    {
+      "sha": "66ae16465cf1adec5ea2ccaf8b901c52b3b62af1",
+      "author": "Insomnautika",
+      "summary": "Box Highlight Under Help Bar Buttons when Mouse Hovering (#642)"
+    }
+  ]
+}
