@@ -1,0 +1,9 @@
+{
+  "commits": [
+    {
+      "sha": "acda9e89a5a212adb6a280bed1835198fb246e9e",
+      "author": "EliteAsian123",
+      "summary": "Added missing \"Community\" translation for credits"
+    }
+  ]
+}
