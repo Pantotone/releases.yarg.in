@@ -1,0 +1,19 @@
+{
+  "commits": [
+    {
+      "sha": "853562f12f35dbb74d83b73b5e7af896cd4b04e0",
+      "author": "EliteAsian123",
+      "summary": "Added more venue lighting animations"
+    },
+    {
+      "sha": "81dcb281f2e0c655c80291bdf5ef7af97a102d78",
+      "author": "EliteAsian123",
+      "summary": "Reimplemented basic venue lighting"
+    },
+    {
+      "sha": "93622ce52869721553da060bdfa1a89c26915082",
+      "author": "EliteAsian123",
+      "summary": "Moved `Venue` folder to `Authoring` folder"
+    }
+  ]
+}
