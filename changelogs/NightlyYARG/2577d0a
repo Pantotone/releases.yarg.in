@@ -1,0 +1,9 @@
+{
+  "commits": [
+    {
+      "sha": "2577d0ac3310b5659dc9b1576573fb4da9ceddcc",
+      "author": "sonicfind",
+      "summary": "Fix crowd stem being played in preview audio"
+    }
+  ]
+}
