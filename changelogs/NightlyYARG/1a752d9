@@ -1,0 +1,44 @@
+{
+  "commits": [
+    {
+      "sha": "1a752d98dee739fc0f89342bbf699b16d9952da0",
+      "author": "TheNathannator",
+      "summary": "Fix white dithering artifacts in pause menu background"
+    },
+    {
+      "sha": "f66fb486556b6ea0afe7645f8f154403e70e7223",
+      "author": "sonicfind",
+      "summary": "Additional minor recommended & random song optimizations"
+    },
+    {
+      "sha": "dd6a4df6f02dcffce32bcf79b2f37f89cc7e3898",
+      "author": "sonicfind",
+      "summary": "Check that: only capitalize Genre"
+    },
+    {
+      "sha": "07b0ef4a314adcce4d26b9a8979c1d22e813d9dc",
+      "author": "EliteAsian123",
+      "summary": "Update YARG.Core"
+    },
+    {
+      "sha": "32d46a51921791ff6c4421e99c339e481f38e9dc",
+      "author": "EliteAsian123",
+      "summary": "Added missing \"Vocals.StarPower\" translation"
+    },
+    {
+      "sha": "9c3336af2386bfdc1bb3bac59649eb7a1b8b9792",
+      "author": "EliteAsian123",
+      "summary": "Added bass groove back"
+    },
+    {
+      "sha": "530cc834762c118151c42a40a26d72eea04cd9dc",
+      "author": "sonicfind",
+      "summary": "Fix stall when generating Recommended Song list"
+    },
+    {
+      "sha": "d25b12fe672cff93912d33e1a4094dfc1d9722ec",
+      "author": "sonicfind",
+      "summary": "Only capitalize genre & source music library categories"
+    }
+  ]
+}
