@@ -1,0 +1,19 @@
+{
+  "commits": [
+    {
+      "sha": "551aa631ddf6432d64021674d2a9dc0d6631441e",
+      "author": "TheNathannator",
+      "summary": "Adjust how base engine stats are exposed on players"
+    },
+    {
+      "sha": "69502986e3d864c853019a8f75298bbb4ee82b14",
+      "author": "TheNathannator",
+      "summary": "Update YARG.Core"
+    },
+    {
+      "sha": "4738b243f6a029524df2aa3a8f2e2ca4c29b9aaa",
+      "author": "TheNathannator",
+      "summary": "Fix dictionary access error when recommending top-played artist songs"
+    }
+  ]
+}
