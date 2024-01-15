@@ -1,0 +1,14 @@
+{
+  "commits": [
+    {
+      "sha": "ae7a6b67d1290161a5eb5d7c3930bfb50b021750",
+      "author": "TheNathannator",
+      "summary": "Update YARG.Core"
+    },
+    {
+      "sha": "93be83204f9b8bd3b49c9febdfd84f0c3fb65eea",
+      "author": "TheNathannator",
+      "summary": "Move more lyric flag handling to YARG.Core, and implement handling of…"
+    }
+  ]
+}
