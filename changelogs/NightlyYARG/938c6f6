@@ -1,0 +1,14 @@
+{
+  "commits": [
+    {
+      "sha": "938c6f630a42ef33d8b4311ed3d9564af47c73dd",
+      "author": "jgoyvaerts",
+      "summary": "Fix CurrentNavigationGroup not updating correctly when leaving the Se…"
+    },
+    {
+      "sha": "353514809d1d11e224f8b0265834c5bf38668bc5",
+      "author": "EliteAsian123",
+      "summary": "Prevent the game from breaking if a song has all talkies"
+    }
+  ]
+}
