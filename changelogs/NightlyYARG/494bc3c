@@ -1,0 +1,19 @@
+{
+  "commits": [
+    {
+      "sha": "494bc3cfd37a5c7a575c1bd5e46ebe204d535069",
+      "author": "TheNathannator",
+      "summary": "Update YARG.Core (some SP fixes)"
+    },
+    {
+      "sha": "e461db1044891a6ae843530967c4a60f20c23fe9",
+      "author": "TheNathannator",
+      "summary": "Updates needed for sustain scoring addition (#649)"
+    },
+    {
+      "sha": "112322b518c26f2edd586cc1aae9f2dfa9e8df03",
+      "author": "TheNathannator",
+      "summary": "Update YARG.Core (guitar sustains!)"
+    }
+  ]
+}
