@@ -1,0 +1,34 @@
+{
+  "commits": [
+    {
+      "sha": "bbfc69eb52771cf93adbe14381d5002d770df4a2",
+      "author": "EliteAsian123",
+      "summary": "Prevent users from playing a song with everyone sitting out"
+    },
+    {
+      "sha": "58005ffd8cde421b5b515d650e49c64a65dbfef9",
+      "author": "EliteAsian123",
+      "summary": "Controller support for settings buttons"
+    },
+    {
+      "sha": "d5a07ceac1623cf734e4c2778d4cf03117617007",
+      "author": "EliteAsian123",
+      "summary": "Fixed wrapping"
+    },
+    {
+      "sha": "775818ed58102035558c6fb85870651bf5bddec6",
+      "author": "EliteAsian123",
+      "summary": "Added controller support for dialogs"
+    },
+    {
+      "sha": "05ad93387700163933d795cfe37ad38c56f2e23f",
+      "author": "EliteAsian123",
+      "summary": "Fixed replays erroring when loading in"
+    },
+    {
+      "sha": "dd3b91437c134a5f5b405be332d61daf936d81d2",
+      "author": "EliteAsian123",
+      "summary": "Added score inconsistency warning when loading into replay"
+    }
+  ]
+}
