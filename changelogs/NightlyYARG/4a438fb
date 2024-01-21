@@ -1,0 +1,24 @@
+{
+  "commits": [
+    {
+      "sha": "4a438fbac3da84d4b7385a9befd5847915bb013f",
+      "author": "EliteAsian123",
+      "summary": "\"Unpitched Only\" modifier"
+    },
+    {
+      "sha": "9c95405f902463aa5c058ffc2488df405dee6ded",
+      "author": "EliteAsian123",
+      "summary": "Replace guitar thresholds when using bass"
+    },
+    {
+      "sha": "48a2c82d72ef4d38161fe27b77cae1de471368cb",
+      "author": "EliteAsian123",
+      "summary": "Fixed star power activation notes note being rendered correctly in se…"
+    },
+    {
+      "sha": "6fcc5a57bee363da3e1c1e3cdcf17f9fc939c4cb",
+      "author": "EliteAsian123",
+      "summary": "Fixed color dialogs"
+    }
+  ]
+}
