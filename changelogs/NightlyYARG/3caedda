@@ -1,0 +1,14 @@
+{
+  "commits": [
+    {
+      "sha": "3caedda19d854135f6449d7bcd1f91eecd6be315",
+      "author": "TheNathannator",
+      "summary": "Implement collective debounce across all controls on a button binding…"
+    },
+    {
+      "sha": "b593eec8bf87e83600fea466784b8950c4a31223",
+      "author": "EliteAsian123",
+      "summary": "Fixed vocal video and input calibration issues"
+    }
+  ]
+}
