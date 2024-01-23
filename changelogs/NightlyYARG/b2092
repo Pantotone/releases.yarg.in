@@ -1,0 +1,9 @@
+{
+  "commits": [
+    {
+      "sha": "5bf748b27f1b02cd2655c035b665aa2b65fcaacd",
+      "author": "TheNathannator",
+      "summary": "Add bind view for MIDI note controls"
+    }
+  ]
+}
