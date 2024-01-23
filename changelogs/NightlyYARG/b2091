@@ -1,0 +1,14 @@
+{
+  "commits": [
+    {
+      "sha": "614dbb502df84dd02c3e5f89ff66656d7584435e",
+      "author": "TheNathannator",
+      "summary": "Average out frame times for FPS display"
+    },
+    {
+      "sha": "fc73ce6966cb6b3769bd52ee95c771760ef8a4f8",
+      "author": "EliteAsian123",
+      "summary": "Changed main menu message and added back social icons"
+    }
+  ]
+}
