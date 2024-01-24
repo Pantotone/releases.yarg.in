@@ -1,0 +1,9 @@
+{
+  "commits": [
+    {
+      "sha": "f0f8da9af485fe06854d6711aa1c37811232e16a",
+      "author": "TheNathannator",
+      "summary": "Switch to a modified version of Minis to fix some e-kits not working …"
+    }
+  ]
+}
