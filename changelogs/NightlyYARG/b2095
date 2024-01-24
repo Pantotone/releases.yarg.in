@@ -1,0 +1,19 @@
+{
+  "commits": [
+    {
+      "sha": "d86337dc4ffc80bfebdfe69ca04f6b3bba4e5c31",
+      "author": "EliteAsian123",
+      "summary": "Update YARG.Core to fix some bugs"
+    },
+    {
+      "sha": "110fbe32d54d9298aff9a74f0dc902611bddb7c0",
+      "author": "jgoyvaerts",
+      "summary": "Add Full Combo text notification (#655)"
+    },
+    {
+      "sha": "7349111c263c2cc621909e84e4f24d72d5eb9089",
+      "author": "EliteAsian123",
+      "summary": "Fixed drum stem muting when using mute on miss"
+    }
+  ]
+}
