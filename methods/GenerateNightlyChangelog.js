@@ -18,10 +18,15 @@ const previousTimestamp = releases[1]?.publishedAt;
 
 const commits = await GetCommits("YARC-Official", "YARG", "dev", previousTimestamp, currentTimestamp);
 const formattedCommits = commits.map(commit => {
+    const separator = "\n\n";
+    const summary = commit.message.split(separator)[0];
+    const description = commit.message.substring(summary.length + separator.length);
+
     return {
         sha: commit.oid,
         author: commit.author.user.login,
-        summary: commit.messageHeadline
+        summary,
+        description,
     }
 });
 

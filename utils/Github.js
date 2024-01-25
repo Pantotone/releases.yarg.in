@@ -66,6 +66,7 @@ export async function GetCommits(repositoryAuthor, repositoryName, branch, since
                             }
                         },
                         messageHeadline
+                        message
                     }
                     }
                 }
