@@ -3,32 +3,38 @@
     {
       "sha": "acef5281b9839da05019792013c4c1ba7fe7e8b6",
       "author": "sonicfind",
-      "summary": "Fix incorrect Expert+ options in the difficulty menu"
+      "summary": "Fix incorrect Expert+ options in the difficulty menu",
+      "description": "The bug that made expert+ never appear was fixed in the core repo, so this is no longer necessary."
     },
     {
       "sha": "9d4766c4208c1a77d575a9e639bcd98402d81636",
       "author": "EliteAsian123",
-      "summary": "Updated README styling"
+      "summary": "Updated README styling",
+      "description": ""
     },
     {
       "sha": "7816279e6f8b9755f0f8531f52f2b4dc63305d77",
       "author": "sonicfind",
-      "summary": "Apply directory playlist changes"
+      "summary": "Apply directory playlist changes",
+      "description": "The toggle will need to be added later (preferably to the song manager screen)\n\n+ Update YARG.Core"
     },
     {
       "sha": "7114ea2b12394526c086eb4d9ae9f1a6e655b6e4",
       "author": "jgoyvaerts",
-      "summary": "Fix frets not displaying correctly when pressed/released when the gam…"
+      "summary": "Fix frets not displaying correctly when pressed/released when the game is paused (#656)",
+      "description": "YARG-114"
     },
     {
       "sha": "553f29389b8df864a3d0b9b9ef229fe4b868e046",
       "author": "EliteAsian123",
-      "summary": "Update CONTRIBUTING.md"
+      "summary": "Update CONTRIBUTING.md",
+      "description": ""
     },
     {
       "sha": "ae0e9cea9178b7a5ddea27099b75e44fea529df1",
       "author": "jgoyvaerts",
-      "summary": "Fix Full Combo showing up multiple times if a drum song ends in a cho…"
+      "summary": "Fix Full Combo showing up multiple times if a drum song ends in a chord (#657)",
+      "description": ""
     }
   ]
 }
