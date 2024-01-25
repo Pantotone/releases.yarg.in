@@ -1,0 +1,28 @@
+{
+  "commits": [
+    {
+      "sha": "c5c97a77861f4af4f7fb4b0c906ff73cd0756fa9",
+      "author": "TheNathannator",
+      "summary": "Update YARG.Core",
+      "description": ""
+    },
+    {
+      "sha": "b33fdf8bde901519aa3d582a7239501c9ea9f587",
+      "author": "TheNathannator",
+      "summary": "Scale up vocal note width a little bit",
+      "description": ""
+    },
+    {
+      "sha": "d9ac26db6461279c0fadb3c1fc32e90e8fcf5be6",
+      "author": "TheNathannator",
+      "summary": "Ensure replay save errors are handled correctly",
+      "description": ""
+    },
+    {
+      "sha": "5f198eca3c9bc21e63827a03942576d6a8e913f5",
+      "author": "sonicfind",
+      "summary": "Apply PartValues update",
+      "description": "+ YARG.Core"
+    }
+  ]
+}
