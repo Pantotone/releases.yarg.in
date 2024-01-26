@@ -1,0 +1,34 @@
+{
+  "commits": [
+    {
+      "sha": "b2ee0bd2a697ebfbcb64ec98419c25ce1bd75de8",
+      "author": "EliteAsian123",
+      "summary": "Increased minimum semitone range on vocals",
+      "description": ""
+    },
+    {
+      "sha": "8b6fd75a1907e662eae35eed06646e83f9d6c610",
+      "author": "sonicfind",
+      "summary": "Implement difficulty fallback for songs without certain difficulties",
+      "description": "+ YARG.Core"
+    },
+    {
+      "sha": "f10fc53f4271a598871791c4d042c04c8784b297",
+      "author": "EliteAsian123",
+      "summary": "Update YARG.Core to fix total note calculation",
+      "description": ""
+    },
+    {
+      "sha": "25cb8991bf95b631d21da0bcc4791defdd900ebd",
+      "author": "RileyTheFox",
+      "summary": "Remove debug logs accidentally left in",
+      "description": ""
+    },
+    {
+      "sha": "f2fccfed4e151f0474ece3a077db1006b0032f13",
+      "author": "RileyTheFox",
+      "summary": "Fix microphone monitoring getting increasingly delayed over time (YARG-120)",
+      "description": ""
+    }
+  ]
+}
