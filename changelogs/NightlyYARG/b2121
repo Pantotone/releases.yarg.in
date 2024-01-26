@@ -1,0 +1,64 @@
+{
+  "commits": [
+    {
+      "sha": "1a198e3f85f756c476e8bfbea18d2f852f633ffe",
+      "author": "TheNathannator",
+      "summary": "Fix preview audio files not looping",
+      "description": ""
+    },
+    {
+      "sha": "a476739445000c27d84c47a4499a2f9cd2089dfe",
+      "author": "TheNathannator",
+      "summary": "Fix practice audio not pausing after a loop of the last section",
+      "description": ""
+    },
+    {
+      "sha": "b3ab349cbe071fd3f1eb1093ef174ea8e32c724e",
+      "author": "TheNathannator",
+      "summary": "Fix replay saving not averaging band scores",
+      "description": ""
+    },
+    {
+      "sha": "d83d92b158ebe106cda4bbf2ace8e526a9a29a67",
+      "author": "TheNathannator",
+      "summary": "Move star progress calculation to engine",
+      "description": ""
+    },
+    {
+      "sha": "eb618304f2d3a47c27abadd8ef6e5353f491ee27",
+      "author": "TheNathannator",
+      "summary": "Fix SP phrase and solo bonus stat issues",
+      "description": ""
+    },
+    {
+      "sha": "568de45fbbadb8058f0c3249daa67072af2e5d36",
+      "author": "sonicfind",
+      "summary": "Apply AvailableParts update from core",
+      "description": ""
+    },
+    {
+      "sha": "0f5382a9a918721302614428d1b80b7aa5b492e3",
+      "author": "EliteAsian123",
+      "summary": "Fixed replays",
+      "description": ""
+    },
+    {
+      "sha": "8f8264422b75c688a440fb54072e985e5bcf3b38",
+      "author": "EliteAsian123",
+      "summary": "Fix gold star progress not showing up",
+      "description": ""
+    },
+    {
+      "sha": "8e96779c978b5e20026531d3e02c6632adbf129c",
+      "author": "RileyTheFox",
+      "summary": "Suppress sample channel playback if played multiple times too quickly",
+      "description": ""
+    },
+    {
+      "sha": "e01474f00cd24713b94159dc22e982f5dccfe6ae",
+      "author": "RileyTheFox",
+      "summary": "Fix microphones not being removed from profiles",
+      "description": ""
+    }
+  ]
+}
