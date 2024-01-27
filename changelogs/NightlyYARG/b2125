@@ -1,0 +1,28 @@
+{
+  "commits": [
+    {
+      "sha": "45a4be22c4b5870d0936ca74afeddb7f8ca77dc0",
+      "author": "EliteAsian123",
+      "summary": "Update YARG.Core to fix scoring parity with stable",
+      "description": ""
+    },
+    {
+      "sha": "c242fea11f2fb83738ea4dc0e8601bff4e9c2fe3",
+      "author": "EliteAsian123",
+      "summary": "Fix warning log spam",
+      "description": ""
+    },
+    {
+      "sha": "bb9e8940425fcccf886fbc98fbcff84011b91b4f",
+      "author": "EliteAsian123",
+      "summary": "Update YARG.Core to fix sustain points at low FPS",
+      "description": ""
+    },
+    {
+      "sha": "2a20cd7fff05c0abc1ab2faded6c367a16061b0f",
+      "author": "EliteAsian123",
+      "summary": "Prevent range errors if stars jumps to gold",
+      "description": ""
+    }
+  ]
+}
