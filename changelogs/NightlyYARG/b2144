@@ -1,0 +1,118 @@
+{
+  "commits": [
+    {
+      "sha": "8af197b2e74b6eb6139440e4de16df5c7ec0588d",
+      "author": "TheNathannator",
+      "summary": "Only apply chord HOPO cancellation to natural HOPOs",
+      "description": ""
+    },
+    {
+      "sha": "b54472c2c3c17d4600b6eced608e6422ad497e49",
+      "author": "TheNathannator",
+      "summary": "Use ZString package for formatting text to text boxes in gameplay (#641)",
+      "description": "* Use ZString package for formatting text to text boxes in gameplay\r\nReduces per-frame string allocations\r\n\r\n* Use ZString for FPS/memory display"
+    },
+    {
+      "sha": "1d0411e5c032d4004de948e15aaba1725e4ffb04",
+      "author": "TheNathannator",
+      "summary": "Fix chord HOPO cancellation applying to chords",
+      "description": ""
+    },
+    {
+      "sha": "feb37c3bb66ee814339b4d2baa4203c4ddf04740",
+      "author": "TheNathannator",
+      "summary": "Actually fix warning log spam",
+      "description": ""
+    },
+    {
+      "sha": "702fefa5fb02726d1a8f3d5a85b9d99b816bc7d9",
+      "author": "TheNathannator",
+      "summary": "Cache chart event comparison delegates",
+      "description": ""
+    },
+    {
+      "sha": "8aed615082d648abf263c1e5525c286c6283a1bc",
+      "author": "TheNathannator",
+      "summary": "Fix beat event offset not being applied correctly",
+      "description": ""
+    },
+    {
+      "sha": "e392ccac5146aca3b1662135b8ed5f48000c291c",
+      "author": "TheNathannator",
+      "summary": "Refactor beat event handler",
+      "description": ""
+    },
+    {
+      "sha": "90df085c0c74cd77fd8d821adf0b3d8fa1a75731",
+      "author": "TheNathannator",
+      "summary": "Add song load/exit logging",
+      "description": ""
+    },
+    {
+      "sha": "e11aa3b12e1fdffeb857ce65cd020ac61cb0121a",
+      "author": "TheNathannator",
+      "summary": "Adjust a couple bits of audio manager logging/error handling",
+      "description": ""
+    },
+    {
+      "sha": "ad27232dccc1dcc4aa42a3b8c8288d6bc4bc7b58",
+      "author": "TheNathannator",
+      "summary": "Make some excess logging editor-only",
+      "description": ""
+    },
+    {
+      "sha": "f7185fc25d9f938150a97d1458128a257d17b6e6",
+      "author": "TheNathannator",
+      "summary": "Add EditorDebug class to assist in editor-only logging",
+      "description": ""
+    },
+    {
+      "sha": "d45b2f27535d8e743bf9b825a8fb5b5259691cd7",
+      "author": "TheNathannator",
+      "summary": "Fix some incorrect HOPO marking in .mid charts",
+      "description": ""
+    },
+    {
+      "sha": "1ed231aeae5401d1a7ccf611e97373471d32c9b7",
+      "author": "TheNathannator",
+      "summary": "Remove unnecessary #if directive in RunCommand",
+      "description": ""
+    },
+    {
+      "sha": "a34d3c42a00856f45d6b8ea8fd0bec3a6196a387",
+      "author": "TheNathannator",
+      "summary": "Don't forget to dispose command processes",
+      "description": ""
+    },
+    {
+      "sha": "aeb8c4ea97051d02c6f10cc4dc22bd016ec467b1",
+      "author": "TheNathannator",
+      "summary": "Adjust progress bar updates in YARG.Core builder",
+      "description": ""
+    },
+    {
+      "sha": "6d32955978dab80bb017f4acc09883a13d29d3c0",
+      "author": "TheNathannator",
+      "summary": "Make YARG.Core builder commands cancellable",
+      "description": ""
+    },
+    {
+      "sha": "2ba8e939d75f258d47a953d58475b29efc89b4f5",
+      "author": "TheNathannator",
+      "summary": "Don't rebuild YARG.Core during assembly reloads",
+      "description": ""
+    },
+    {
+      "sha": "16a93f22c65cf61ed563adf7307914b49ab882be",
+      "author": "sonicfind",
+      "summary": "Don't attempt to load ini entry audio without any stems",
+      "description": "+ Also, just use a straight Dictionary over IDictionary. Maybe ReadOnlyDictionary later."
+    },
+    {
+      "sha": "39f9f95a4447a6dd0e94ab6abe18ca2045377b97",
+      "author": "sonicfind",
+      "summary": "Deconstruct result of GetBackgroundStream()",
+      "description": ""
+    }
+  ]
+}
