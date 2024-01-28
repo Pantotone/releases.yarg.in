@@ -1,0 +1,34 @@
+{
+  "commits": [
+    {
+      "sha": "ef603e63ec86bf6229dba68719f1291f898f5050",
+      "author": "EliteAsian123",
+      "summary": "Store `.fbx` files using LFS",
+      "description": ""
+    },
+    {
+      "sha": "cba75ae84df038e79f9e72a321bc9c02b9c8319d",
+      "author": "EliteAsian123",
+      "summary": "Added vocal star power bar pulse back",
+      "description": ""
+    },
+    {
+      "sha": "476835725a061dfa07fc835282a21498b9c4d097",
+      "author": "sonicfind",
+      "summary": "Change MostPlayed song list algorithm",
+      "description": "Was a bit hard to follow and caused more allocations than necessary."
+    },
+    {
+      "sha": "e91941ddd80ab6ed9bb7369ba07b8157af47cf99",
+      "author": "sonicfind",
+      "summary": "Ensure SNG videos fully load before attempting to play",
+      "description": ""
+    },
+    {
+      "sha": "e62063b52c971d6625add8f170e5cd8aea77ceb6",
+      "author": "sonicfind",
+      "summary": "MusicLibrary Search Updates",
+      "description": "+ Allow instrument filters to be used for more than just the first slot (oops, forgot about that)\n+ No longer override the set sort with the sort of the first filter\n+ Some code rearrangement"
+    }
+  ]
+}
