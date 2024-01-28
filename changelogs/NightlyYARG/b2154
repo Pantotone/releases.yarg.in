@@ -1,0 +1,34 @@
+{
+  "commits": [
+    {
+      "sha": "04431276552a3f492c9163198d07eb90d23ed47e",
+      "author": "TheNathannator",
+      "summary": "Refactor/fix beat event handler once more",
+      "description": ""
+    },
+    {
+      "sha": "9dc49ee9b524c10cbadc1203ef0869c878ca68cd",
+      "author": "TheNathannator",
+      "summary": "Fix music library preview not stopping on non-song menu items",
+      "description": ""
+    },
+    {
+      "sha": "f5ee9c76b4e493a3adfdbad72eee2bf778a1829c",
+      "author": "TheNathannator",
+      "summary": "Don't run beat actions before they reach the start of the song",
+      "description": ""
+    },
+    {
+      "sha": "473e567cbf1ea6a9908eb1df1eecdbbfc11f36a6",
+      "author": "TheNathannator",
+      "summary": "Clean up beat event tick calculation, fixes incorrect event rates",
+      "description": ""
+    },
+    {
+      "sha": "2a51fdc2b6e653b43caf2969c9e0e0c5e49db234",
+      "author": "poliwhirlge",
+      "summary": "Display actual name of source in Music Library when sorted by source (#659)",
+      "description": "* Display actual name of source in Music Library when sorted by source\r\n\r\n* Append id to unknown sources"
+    }
+  ]
+}
