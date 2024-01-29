@@ -1,0 +1,28 @@
+{
+  "commits": [
+    {
+      "sha": "de7edef3ca26c1fdfc9f39c61b722224b224e6c1",
+      "author": "EliteAsian123",
+      "summary": "Show song speed in score screen",
+      "description": ""
+    },
+    {
+      "sha": "f8c7f5617ba9bc93fc70631bbe4e2b1f112a279d",
+      "author": "EliteAsian123",
+      "summary": "Fix confirm deletion dialog color",
+      "description": ""
+    },
+    {
+      "sha": "fabff8932172da68c133092932824ccd2549769b",
+      "author": "TheNathannator",
+      "summary": "Add beatline-based beat events",
+      "description": ""
+    },
+    {
+      "sha": "1253ff02c29b8f10ac30884be212558688571e63",
+      "author": "TheNathannator",
+      "summary": "Add other progress modes for beat events",
+      "description": ""
+    }
+  ]
+}
