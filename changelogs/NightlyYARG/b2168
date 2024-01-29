@@ -1,0 +1,46 @@
+{
+  "commits": [
+    {
+      "sha": "51ac0cfee505e9b60f2ba7b4608cf3dd3f10f5b5",
+      "author": "TheNathannator",
+      "summary": "Some additional sanity checks",
+      "description": ""
+    },
+    {
+      "sha": "b52f828c5908c9cbdbddcb77e9bf5e38210b2375",
+      "author": "TheNathannator",
+      "summary": "Fix combo meter showing full when at 0 combo during SP",
+      "description": ""
+    },
+    {
+      "sha": "a464a3025dc52e3432d9e673ef00c64d89816cfd",
+      "author": "RileyTheFox",
+      "summary": "Re-implement various sound effects from v0.11 (#660)",
+      "description": "* HasStem function\r\n\r\n* Change reverb state function\r\n\r\n* Reverb for guitar player\r\n\r\n* Use StreamHandle and ReverbStreamHandle properties\r\n\r\n* Fix stem muting\r\n\r\n* Add combo miss sound back\r\n\r\n* Adjust reverb slightly\r\n\r\n* Update YARG.Core for Overstrum SFX definitions\r\n\r\n* Select random overstrum sound (does not play yet)\r\n\r\n* Alter logging for missing sfx samples\r\n\r\n* Uncomment overstrum play call\r\n\r\n* Whoops\r\n\r\n* Fix drums stem muting/reverbing\r\n\r\n* Only reverb Song stem if no instrument stems are present\r\n\r\n* Update YARG.Core"
+    },
+    {
+      "sha": "f440967f92e94f3b26523bd540e26840f15f9cef",
+      "author": "TheNathannator",
+      "summary": "Fix a couple .mid chart parsing issues",
+      "description": ""
+    },
+    {
+      "sha": "dd06f558d90db7a19ca29e1ee9c27554a8f899bd",
+      "author": "TheNathannator",
+      "summary": "End song manually when exceeding song length\nNecessary for [end] events",
+      "description": ""
+    },
+    {
+      "sha": "6a319206258fce96b79c844046539105bccb9942",
+      "author": "TheNathannator",
+      "summary": "Factor chart length and [end] event into song length",
+      "description": ""
+    },
+    {
+      "sha": "48353f2e8fc45bffa8b61949d1dbb9deab4b39c3",
+      "author": "TheNathannator",
+      "summary": "Move beatline generation handling to Core\nAlso remove redundant last-section length addition, that's also handled by Core now",
+      "description": ""
+    }
+  ]
+}
