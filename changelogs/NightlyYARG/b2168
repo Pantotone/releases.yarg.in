@@ -27,8 +27,8 @@
     {
       "sha": "dd06f558d90db7a19ca29e1ee9c27554a8f899bd",
       "author": "TheNathannator",
-      "summary": "End song manually when exceeding song length\nNecessary for [end] events",
-      "description": ""
+      "summary": "End song manually when exceeding song length",
+      "description": "Necessary for [end] events"
     },
     {
       "sha": "6a319206258fce96b79c844046539105bccb9942",
@@ -39,8 +39,8 @@
     {
       "sha": "48353f2e8fc45bffa8b61949d1dbb9deab4b39c3",
       "author": "TheNathannator",
-      "summary": "Move beatline generation handling to Core\nAlso remove redundant last-section length addition, that's also handled by Core now",
-      "description": ""
+      "summary": "Move beatline generation handling to Core",
+      "description": "Also remove redundant last-section length addition, that's also handled by Core now"
     }
   ]
 }
