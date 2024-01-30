@@ -1,0 +1,52 @@
+{
+  "commits": [
+    {
+      "sha": "3c12f657e5a69040c316e4873be3ff5541ddec54",
+      "author": "TheNathannator",
+      "summary": "Fix the very start of song audio being skipped",
+      "description": ""
+    },
+    {
+      "sha": "169df748d62b851e95702c877e2d54492e9c097b",
+      "author": "TheNathannator",
+      "summary": "Don't resume audio when unpausing if it's already ended",
+      "description": ""
+    },
+    {
+      "sha": "1e544fb5385de8e05cf8ec29edebd7d3f74cb281",
+      "author": "TheNathannator",
+      "summary": "Fix song starting ahead of the beginning when loading lags out",
+      "description": ""
+    },
+    {
+      "sha": "de27fc2b2939cf82c3ed6296cfc323b5f670729e",
+      "author": "TheNathannator",
+      "summary": "Don't seek when starting audio now that it's threaded",
+      "description": ""
+    },
+    {
+      "sha": "6d847d8404ba8d86d88e8b56a3dea2af0561cf9a",
+      "author": "TheNathannator",
+      "summary": "Fix deadlock when quitting/restarting before audio starts",
+      "description": ""
+    },
+    {
+      "sha": "3256ae2674eea42473ad43fbbe78bc7ecc2788e7",
+      "author": "TheNathannator",
+      "summary": "Don't start song audio when pausing before it's started",
+      "description": ""
+    },
+    {
+      "sha": "5bf64bdf50986f7d4c275e6aa9ef2e740951c3c1",
+      "author": "EliteAsian123",
+      "summary": "Update YARG.Core to reduce volume of sound effects",
+      "description": ""
+    },
+    {
+      "sha": "b91fb9034b8185f70f62684fe6d8f98c5a19c553",
+      "author": "sonicfind",
+      "summary": "Reintroduce MusicLibrary instrument difficulty sorting",
+      "description": "Instrument sorting will explicitly override the current sort setting"
+    }
+  ]
+}
