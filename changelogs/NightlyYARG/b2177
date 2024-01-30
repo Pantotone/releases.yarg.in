@@ -1,0 +1,58 @@
+{
+  "commits": [
+    {
+      "sha": "b0f679cea094da3746c4549f6462e9241f6a58a1",
+      "author": "sonicfind",
+      "summary": "Minor MusicLibrary fixes",
+      "description": "+ Fix Band instrument filtering\n+ Fix current selection after changing a filter being placed on a header\n+ Update YARG.Core"
+    },
+    {
+      "sha": "8e570501d4919481fc03a268f73e4eb438230c77",
+      "author": "sonicfind",
+      "summary": "Use SngFilestream's new `Name` variable for writing temp decrypted background videos",
+      "description": "+ Add `Hidden` attribute to said file"
+    },
+    {
+      "sha": "3137c991dd4e0ec6f533f52f1a253867cf2a2197",
+      "author": "sonicfind",
+      "summary": "Only display \"Custom/Unknown\" headers for undefined sources",
+      "description": "+ Renamed `SongSource.GetSource` to `GetSourceOrDefault`\n+ Alter `TryGetSource` to not return the default (which is now cached)\n+ Add `GetDefaultGameName` getter"
+    },
+    {
+      "sha": "0ff2eeab3141ab6ba7fd126030b4f4ff76d9a343",
+      "author": "RileyTheFox",
+      "summary": "Change \"Refresh Songs\" to \"Scan Songs\" in Settings Menu",
+      "description": ""
+    },
+    {
+      "sha": "94b155a0671fad5e3b65f594ea86ac9b2d64950b",
+      "author": "RileyTheFox",
+      "summary": "Update YARG.Core for 140ms timing window (from 150ms)",
+      "description": ""
+    },
+    {
+      "sha": "0b13bd10edc1a6ba61d7c4a18b2f0f6f1aa24cba",
+      "author": "RileyTheFox",
+      "summary": "Add overstrum sfx to repo. Made by broaska",
+      "description": ""
+    },
+    {
+      "sha": "b6cee196f57a6c9bf727c6f8ebf415ad47fd7c05",
+      "author": "RileyTheFox",
+      "summary": "Include overstrum_4 in sound effect play code",
+      "description": ""
+    },
+    {
+      "sha": "2e91441f35fc90ddb482759e887a9eb2b99c3cd2",
+      "author": "RileyTheFox",
+      "summary": "Update YARG.Core for overstrum_4 and strum leniency changes",
+      "description": ""
+    },
+    {
+      "sha": "3e6683fca36943eb94f158e11fd2e890f774d9a6",
+      "author": "EliteAsian123",
+      "summary": "Fixed HUD overlapping the vocals track in replay mode",
+      "description": ""
+    }
+  ]
+}
