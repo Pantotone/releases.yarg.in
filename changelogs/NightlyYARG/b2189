@@ -1,0 +1,28 @@
+{
+  "commits": [
+    {
+      "sha": "96955a28cb8de8a7bc63e35327abd6f5dc958609",
+      "author": "sonicfind",
+      "summary": "Fix wrong index refresh behavior",
+      "description": ""
+    },
+    {
+      "sha": "9f3f508f4cc2a3d4875cb86b6cca82249b083d95",
+      "author": "sonicfind",
+      "summary": "Ensure proper MusicLibrary refresh after scanning",
+      "description": "Without a refresh, the music library will hold onto outdated entry data. For any entry that was updated, trying to load the song, even after a rescan, would fail (but only for the first time)."
+    },
+    {
+      "sha": "4aef060ed817679ba8be49b5283d797748d12d98",
+      "author": "EliteAsian123",
+      "summary": "Update YARG.Core to adjust drums hit window",
+      "description": ""
+    },
+    {
+      "sha": "1b50881dad5c9053c1e4e3dd5fdf85186e86193f",
+      "author": "RileyTheFox",
+      "summary": "Update YARG.Core",
+      "description": ""
+    }
+  ]
+}
