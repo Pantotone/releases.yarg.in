@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "a946f0c73699dceb60592080feaf8e5c8518b60f",
+      "author": "EliteAsian123",
+      "summary": "Display album art in Discord rich presence using Chorus Encore API (thanks!)",
+      "description": ""
+    }
+  ]
+}
