@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "d29742e4aed62cf19ee05e5dca3f9033f759fd72",
+      "author": "EliteAsian123",
+      "summary": "Added back basic in-song timer for Discord Rich Presence",
+      "description": ""
+    }
+  ]
+}
