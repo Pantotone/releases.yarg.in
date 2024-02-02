@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "493e9d98fc33fc36242239be1abd0737e1f59544",
+      "author": "JayDiddyThaGOAT",
+      "summary": "Added Bass.ChannelGetData call to Stem Mixer (#662)",
+      "description": "Co-authored-by: JayDiddyThaGOAT <jaydiddy1996@gmail.com>"
+    }
+  ]
+}
