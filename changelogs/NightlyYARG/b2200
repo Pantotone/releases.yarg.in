@@ -1,0 +1,52 @@
+{
+  "commits": [
+    {
+      "sha": "a4c5cfd5566f00e08cb89b52b17ddf18f3666544",
+      "author": "sonicfind",
+      "summary": "Update YARG.Core to support ini \"tags = cover\"",
+      "description": ""
+    },
+    {
+      "sha": "b6576f71cb093cb7d9ef1afa12d945304c525230",
+      "author": "sonicfind",
+      "summary": "Fix compile error",
+      "description": ""
+    },
+    {
+      "sha": "670b028d9fa4f0e8a79ce3d41f646cfdd98de7fc",
+      "author": "sonicfind",
+      "summary": "Implement \"Date Added\" sorting",
+      "description": ""
+    },
+    {
+      "sha": "421e1ee80a6b51fdf880b760153c4e21092180b0",
+      "author": "sonicfind",
+      "summary": "Use Lists over Dictionaries to hold sorted songs",
+      "description": "The cache already holds the categories in a sorted order. Holding the filtering-optimal versions in lists doesn't change that fact while having better locality."
+    },
+    {
+      "sha": "e1381c4d6da700a893b78596bfa96a2ea06a77b4",
+      "author": "sonicfind",
+      "summary": "Additional music library refreshing fixes",
+      "description": "+ Don't reset recommendedSongs except for on refreshes\n+ final index refresh fix"
+    },
+    {
+      "sha": "ae0f0d0385c88c6705661e2e0e5be91ff0d87616",
+      "author": "RileyTheFox",
+      "summary": "Fix practice speed changing while paused",
+      "description": ""
+    },
+    {
+      "sha": "b25696090ab0d988e4ba6dd128413e092e1bb289",
+      "author": "RileyTheFox",
+      "summary": "Fix settings being wiped when saving before they are loaded",
+      "description": ""
+    },
+    {
+      "sha": "be0175132c32818dffec5fdb7294cf3d278294ed",
+      "author": "RileyTheFox",
+      "summary": "Reset last combo on practice reset",
+      "description": ""
+    }
+  ]
+}
