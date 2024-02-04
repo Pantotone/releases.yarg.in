@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "8b3fc87c76a3da442ac40c10d87e468d68e073a9",
+      "author": "TheNathannator",
+      "summary": "Fix MIDI input not being frame independent",
+      "description": ""
+    }
+  ]
+}
