@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "1eaaddd493be49bf663e9189dbbd885c6ce2f3d0",
+      "author": "EliteAsian123",
+      "summary": "Added Git LFS link to build instructions",
+      "description": ""
+    }
+  ]
+}
