@@ -1,0 +1,34 @@
+{
+  "commits": [
+    {
+      "sha": "0890bcf91b0f97d8d4ce519d1c4211c495f5f445",
+      "author": "TheNathannator",
+      "summary": "Fix error when loading lyric events with empty text",
+      "description": ""
+    },
+    {
+      "sha": "0f1fbe831c2516cd475cc2eb564c8425df5dba9c",
+      "author": "TheNathannator",
+      "summary": "Fix errors when pressing inputs during song load",
+      "description": ""
+    },
+    {
+      "sha": "f01c70743515ea48fa18984136f96d761ee368f4",
+      "author": "TheNathannator",
+      "summary": "Various debounce reworks and fixes (#663)",
+      "description": "* Refactor debounce to fix various issues\r\n\r\n* Remove raw pressed indicators on button bindings\r\nDoesn't work properly with debounce in IndividualButtonBinding\r\n\r\n* Fix various other consistency issues with debounce\r\n\r\n* Update debounce for all buttons when receiving inputs\r\nShould fix issues with collective debounce at low framerates\r\n\r\n* Use input time for debounce instead of separate stopwatches\r\n\r\n* Clarify a comment\r\n\r\n* Allow configuring when debounce activates\r\nDefaults to only activating on presses"
+    },
+    {
+      "sha": "2ef106255dcc64dc13b1529d0b18b7ea2dcfd2ba",
+      "author": "sonicfind",
+      "summary": "Fix song updates creation time not allowing songs to load",
+      "description": ""
+    },
+    {
+      "sha": "0c63331fcc60daaad16658f7b80e3abfb6aeb164",
+      "author": "sonicfind",
+      "summary": "Use SortStr for clickable filters",
+      "description": ""
+    }
+  ]
+}
