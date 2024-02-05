@@ -1,0 +1,34 @@
+{
+  "commits": [
+    {
+      "sha": "3c67b9f9c3f963646453342a76e35cc7412161db",
+      "author": "TheNathannator",
+      "summary": "Fix beat events being out of sync",
+      "description": ""
+    },
+    {
+      "sha": "9d68f2b4587dd01b7300ec56d95391b83d7044dd",
+      "author": "TheNathannator",
+      "summary": "Fix sustains not resetting their animations when dropped",
+      "description": ""
+    },
+    {
+      "sha": "89cfc9a7b262b077d6d0addd5b5f4bdc975477a5",
+      "author": "TheNathannator",
+      "summary": "Add option to disable global backgrounds",
+      "description": ""
+    },
+    {
+      "sha": "d88cf73ced38eeb38dfe9030857b0e1803234e79",
+      "author": "TheNathannator",
+      "summary": "Fix engine time assert when seeking backwards in a replay",
+      "description": "Keeping delays consistent is not worth the time discrepancy"
+    },
+    {
+      "sha": "d585c876c192940088a6bdc87a827e4f042bef46",
+      "author": "TheNathannator",
+      "summary": "Fix SP rarely instantly filling up and not draining",
+      "description": ""
+    }
+  ]
+}
