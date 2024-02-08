@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "af924bc1c2ccb765a287d73115c470b63a994383",
+      "author": "jgoyvaerts",
+      "summary": "Fix frets not being released correctly when restarting a practice section (#668)",
+      "description": ""
+    }
+  ]
+}
