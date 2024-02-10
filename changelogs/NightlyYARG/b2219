@@ -1,0 +1,40 @@
+{
+  "commits": [
+    {
+      "sha": "4c70d6f055cfeb221968bc6cd9a50b4e734b1080",
+      "author": "EliteAsian123",
+      "summary": "Merge pull request #671 from jgoyvaerts/smallFixes",
+      "description": "Bugfixes and improvements"
+    },
+    {
+      "sha": "0d1699213503ab482ff44eb60aae98646bb9c0e2",
+      "author": "EliteAsian123",
+      "summary": "Update YARG.Core",
+      "description": ""
+    },
+    {
+      "sha": "b15840cdd6953295031443d53804fb2abc56a878",
+      "author": "EliteAsian123",
+      "summary": "New notes (#676)",
+      "description": "* Added new models and textures (strum only)\r\n\r\n* Flip note models around (whoops)\r\n\r\n* Added noise back to shader\r\n\r\n* Adjusted every gameplay material's sorting layer to prevent clipping\r\n\r\n* Updated main note shader\r\n\r\n* Added HOPO materials\r\n\r\n* Fixed tap notes (shine layer still needed)\r\n\r\n* Updated note texture\r\n\r\n* Finished tap notes\r\n\r\n* Fixed drum notes\r\n\r\n* Added new frets in (new animations needed)\r\n\r\n* Updated fret animations\r\n\r\n* Added new cymbal\r\n\r\n* Adjusted cymbal scaling\r\n\r\n* New track trims\r\n\r\n* (Broken) kick notes\r\n\r\n* Take kick frets from theme + add kick frets\r\n\r\n* Fixed setting preview\r\n\r\n* Fixed circle theme\r\n\r\n* Updated fret inner color strength\r\n\r\n* Small adjustments\r\n\r\n* Finished up drums\r\n\r\n* Final adjustments\r\n\r\n* Fixed FC ring shader\r\n\r\n* Removed all unused materials, textures and meshes\r\n\r\n* Update inner fret max fade\r\n\r\n* Updated kick fret texture\r\n\r\n* Fret animation adjustments\r\n\r\n* Update YARG.Core"
+    },
+    {
+      "sha": "fface78f747a52cb43b28fe170514c7b74358e6e",
+      "author": "jgoyvaerts",
+      "summary": "Fix inputs not being handled correctly during pause menu for non-guitar instruments",
+      "description": ""
+    },
+    {
+      "sha": "98f43ccfb971a5a5bf18abdc82fffa103bb1e2ce",
+      "author": "jgoyvaerts",
+      "summary": "Reduce default volume of overstrum sound effect by 9 dB",
+      "description": ""
+    },
+    {
+      "sha": "51d456d526912ba11744bd91341293f25fe4e078",
+      "author": "jgoyvaerts",
+      "summary": "Fix Music Player not respecting volume setting after playing a Yarg song",
+      "description": ""
+    }
+  ]
+}
