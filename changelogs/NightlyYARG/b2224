@@ -1,0 +1,34 @@
+{
+  "commits": [
+    {
+      "sha": "114cd902563122f9343483d0583ba24316e5a003",
+      "author": "TheNathannator",
+      "summary": "Fix number slider textboxes being unintuitive to type in",
+      "description": "Don't format or validate the text until after the edit is finished"
+    },
+    {
+      "sha": "e739aa2af41bb01b25738644ea0abbc56103e95c",
+      "author": "TheNathannator",
+      "summary": "Fix vocal shifts not applying until the next lyric is reached",
+      "description": ""
+    },
+    {
+      "sha": "2b14144701f3055e3067f9f0aa0db0ba12fa9671",
+      "author": "TheNathannator",
+      "summary": "Fix song length being way larger than it should be on some charts",
+      "description": ""
+    },
+    {
+      "sha": "9832fa776ea2e223cacef75bad92f4f56aed594a",
+      "author": "EliteAsian123",
+      "summary": "Show the correct instrument on the preview when in the presets screen",
+      "description": ""
+    },
+    {
+      "sha": "604cc706bcc702a9a4bfc9e4eaa6efa04542dd67",
+      "author": "EliteAsian123",
+      "summary": "Change \"Edit Profile\" button text to \"Edit Profile and Binds\"",
+      "description": ""
+    }
+  ]
+}
