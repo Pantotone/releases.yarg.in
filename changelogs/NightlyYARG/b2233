@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "c7f0586603264f6c5462ed7725aedf2fb56106e3",
+      "author": "Supersonicboss1",
+      "summary": "Fix vocals players after the first not being forced to sit out if there are no vocals parts (#680)",
+      "description": "* Ensure all vocals players sit out if there is no vocals part\r\n\r\n* Prevent looping through all players for vocals if the parts do not exist"
+    },
+    {
+      "sha": "d097d2791c7a5ac960b16446816267201c1464f5",
+      "author": "jgoyvaerts",
+      "summary": "Music library sidebar fixes (#669)",
+      "description": "* Clear sidebar when no song is selected\r\n\r\n* Make Sidebar titles clickable so they also apply the filter\r\n\r\nFixes YARG-138"
+    }
+  ]
+}
