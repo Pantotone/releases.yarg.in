@@ -1,0 +1,46 @@
+{
+  "commits": [
+    {
+      "sha": "67b8ba11806555fab9f8be1c0ce2b6322e7d4804",
+      "author": "EliteAsian123",
+      "summary": "Adjusted indicator stripe positioning",
+      "description": ""
+    },
+    {
+      "sha": "3dd1763dae6b77983430e31868cff658dfa7c903",
+      "author": "sonicfind",
+      "summary": "Update Core with YARGBinaryReader removal",
+      "description": "+ Address namespace change for Endian enum"
+    },
+    {
+      "sha": "a4e50be8faab810ae6e6df4a5ae95d6b12d0bcb6",
+      "author": "EliteAsian123",
+      "summary": "Added back option to practice mode selection",
+      "description": ""
+    },
+    {
+      "sha": "d38a5cc579a6b7935143df678e4ae261f86d6318",
+      "author": "sonicfind",
+      "summary": "Minor additional recommended fixup",
+      "description": ""
+    },
+    {
+      "sha": "70a714db5d9594e0c80def8de81f246e931f0978",
+      "author": "EliteAsian123",
+      "summary": "Merge pull request #678 from YARC-Official/Recommended-algo",
+      "description": "Alter recommendedSongs alogrithm to lessen repetitiveness between different sessions"
+    },
+    {
+      "sha": "33a24608c026d80174f37dd6f8eda7c808e6f742",
+      "author": "sonicfind",
+      "summary": "Address nullable warning",
+      "description": ""
+    },
+    {
+      "sha": "49ad743de946a3e65b383d65ea06713e4599b4f2",
+      "author": "sonicfind",
+      "summary": "Alter recommendedSongs alogrithm to lessen repetitiveness between different sessions",
+      "description": ""
+    }
+  ]
+}
