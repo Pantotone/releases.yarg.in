@@ -1,0 +1,22 @@
+{
+  "commits": [
+    {
+      "sha": "af294fe39aa63e696fd715e3866cf9f5bb2277bf",
+      "author": "EliteAsian123",
+      "summary": "DMX support (from #670), \"All Settings\" tab, and more setting categories   (#682)",
+      "description": "* DMX support, \"Advanced\" tab, Stagekit toggle (#670)\r\n\r\n* DMX support\r\n\r\nAdded scan (dmx over ethernet) support. Added an advanced settings tab. Added ability to turn off the stage kit.\r\n\r\n* fixed var names\r\n\r\n* Moved things to correct spots\r\n\r\n* Refactored into a MonoSingleton\r\n\r\n* Added README to note changes\r\n\r\n---------\r\n\r\nCo-authored-by: EliteAsian <29520859+EliteAsian123@users.noreply.github.com>\r\n\r\n* Fix some things up\r\n\r\n* Make it so settings don't use tab in unlocalized name\r\n\r\n* Started \"All Settings\" menu\r\n\r\n* Split up advanced settings into their own categories and added some more buttons\r\n\r\n* Fixed a small bug that Jaden would totally fine 10 seconds after this update releases\r\n\r\n* Updated setting category view to concept\r\n\r\n* Updated search bar\r\n\r\n* Updated placeholder text styling\r\n\r\n* Added basic search functionality\r\n\r\n* Limit number of results\r\n\r\n* Fixed scrolling on scroll views\r\n\r\n* Make the search results clickable\r\n\r\n* Added more icons\r\n\r\n* Prevent SacnController from initializing twice\r\n\r\n---------\r\n\r\nCo-authored-by: TheFatBastid <tfb@sof.ws>"
+    },
+    {
+      "sha": "9adf954971086eeb481b7231773f4c6d7c7ce8a4",
+      "author": "EliteAsian123",
+      "summary": "New sustain textures",
+      "description": ""
+    },
+    {
+      "sha": "3377282972be32739aff63f516fdd2f6c9f53e6d",
+      "author": "EliteAsian123",
+      "summary": "Updated solo box texture",
+      "description": ""
+    }
+  ]
+}
