@@ -1,0 +1,28 @@
+{
+  "commits": [
+    {
+      "sha": "3ec74366e34fd3a751f76b09f6c52f8176b671d8",
+      "author": "EliteAsian123",
+      "summary": "Change version to `v0.12.1`",
+      "description": ""
+    },
+    {
+      "sha": "d8090aedd1de86e79ff0acb9526800fa538a01d9",
+      "author": "EliteAsian123",
+      "summary": "Update YARG.Core to enhance song update scanning funcitonality",
+      "description": ""
+    },
+    {
+      "sha": "58e6c5f3a73c8019d8517f8ad51ca926bf21dce8",
+      "author": "EliteAsian123",
+      "summary": "Updated score box texture",
+      "description": ""
+    },
+    {
+      "sha": "0ed1c5f2ef9f597a4a090a9fee6421f47ffd4bf6",
+      "author": "RileyTheFox",
+      "summary": "Fix sustain bursts dropping sustains",
+      "description": ""
+    }
+  ]
+}
