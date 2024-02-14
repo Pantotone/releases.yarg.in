@@ -1,0 +1,46 @@
+{
+  "commits": [
+    {
+      "sha": "7b283aeb76aa3725240fc59e329f2263a998184d",
+      "author": "TheNathannator",
+      "summary": "okay then Unity",
+      "description": ""
+    },
+    {
+      "sha": "23d7a3adcf90d1e41504069e94fbde3d6d599cb5",
+      "author": "TheNathannator",
+      "summary": "FIx .chart disco flip events not working",
+      "description": ""
+    },
+    {
+      "sha": "95d47a0198a0dce14d4c0783a47f67747ec32159",
+      "author": "TheNathannator",
+      "summary": "Fix PS3 ION drumkits not working (PlasticBand-Unity v0.5.1)",
+      "description": ""
+    },
+    {
+      "sha": "d06bfbe5ed684a76e1e52af60b0d8f6b314f04e8",
+      "author": "EliteAsian123",
+      "summary": "Changed order of DMX settings",
+      "description": ""
+    },
+    {
+      "sha": "be617f43f33f8c6058fd29cb03e6f59fd9a7c8fd",
+      "author": "EliteAsian123",
+      "summary": "Updated DMX setting descriptions",
+      "description": ""
+    },
+    {
+      "sha": "38f8d730b4a89a5ef07fd5f00fd7b2ebcd55fbd4",
+      "author": "EliteAsian123",
+      "summary": "Minor SacnController refactors",
+      "description": ""
+    },
+    {
+      "sha": "2b1b2523c0351372b1f12d9003fd83de51b73030",
+      "author": "TheFatBastid",
+      "summary": "Added DMX support for Fog and Strobe, added a few setting descriptions (#685)",
+      "description": ""
+    }
+  ]
+}
