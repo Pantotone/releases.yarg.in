@@ -1,0 +1,52 @@
+{
+  "commits": [
+    {
+      "sha": "29cd2c2eae619d2d8f230850f4f176e1cfeb3441",
+      "author": "sonicfind",
+      "summary": "Update YARG.Core for *hopefully* the last songUpdate fix necessary",
+      "description": "Praying to God on that one"
+    },
+    {
+      "sha": "3b2ab47512799ea8e8746bad1e8fc63ae4dde821",
+      "author": "RileyTheFox",
+      "summary": "Update Rider package to 3.0.27",
+      "description": ""
+    },
+    {
+      "sha": "e9b445aeae365677ac8d448a1521718fbcbc43df",
+      "author": "RileyTheFox",
+      "summary": "Add reduced and disabled highway star power effects (YARG-156)",
+      "description": ""
+    },
+    {
+      "sha": "a56e79b7198e9333820c2919d708336a11650530",
+      "author": "RileyTheFox",
+      "summary": "Hide profile sidebar if profile is not connected (YARG-166)",
+      "description": ""
+    },
+    {
+      "sha": "a7f2d751a3dbd104dcd73a6767731e0f2964a9ef",
+      "author": "RileyTheFox",
+      "summary": "Support floored float input in song speed input",
+      "description": ""
+    },
+    {
+      "sha": "89c019812958b393a80c01cbe51174533429e187",
+      "author": "RileyTheFox",
+      "summary": "Remember song speed in between songs (YARG-157)",
+      "description": ""
+    },
+    {
+      "sha": "1fcd58bc529436e882428c2bb136893b99119915",
+      "author": "RileyTheFox",
+      "summary": "Fix last note of last section not being included (Fix YARG-184)",
+      "description": ""
+    },
+    {
+      "sha": "cdd515f475948bcdfd6467a89efed379ed85e98e",
+      "author": "EliteAsian123",
+      "summary": "Fixed setting descriptions in the preset tab not showing up",
+      "description": ""
+    }
+  ]
+}
