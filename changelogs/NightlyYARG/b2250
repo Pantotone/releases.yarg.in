@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "a31e673668b2bf29f6ad2a4a69ba2b83bedcf7f8",
+      "author": "TheNathannator",
+      "summary": "Add global binding add/remove events",
+      "description": ""
+    },
+    {
+      "sha": "86ecd2cb9656683d7ccf6a0145db246c09a8d985",
+      "author": "TheNathannator",
+      "summary": "Fix regular text events on vocals being parsed as lyrics",
+      "description": ""
+    }
+  ]
+}
