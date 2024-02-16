@@ -1,0 +1,22 @@
+{
+  "commits": [
+    {
+      "sha": "4d9b2b7292e01fed98dc7901a95ce86ca0ba2018",
+      "author": "RileyTheFox",
+      "summary": "Update YARG.Core for solo notes hit cap",
+      "description": ""
+    },
+    {
+      "sha": "82fc227c42e733204c3919b6e40004a202cd578a",
+      "author": "raphaelgoulart",
+      "summary": "Auto-generate fog events if there are none (#684)",
+      "description": "* Auto-generate fog events if there are none\n\n* minor styling changes"
+    },
+    {
+      "sha": "d9dff0c8575426fdfec633449fa7a5db04aea2df",
+      "author": "RileyTheFox",
+      "summary": "Update YARG.Core for extended sustain logic fix",
+      "description": ""
+    }
+  ]
+}
