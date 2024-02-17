@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "0639f59b12d2ac3ed7b9b59b0c7549d0be84be1b",
+      "author": "vinaykapadia",
+      "summary": "Move \"Random Song\" to top of Popup Menu (#688)",
+      "description": "Co-authored-by: Vinay Kapadia <dev@vkapadia.com>"
+    },
+    {
+      "sha": "3e112525cb0ab922ac1cae54e2b8cdbb9d0e1a74",
+      "author": "sanjay900",
+      "summary": "Update star power haptics in UpdateBaseVisuals instead of OnStarPowerPhraseHit (#687)",
+      "description": ""
+    }
+  ]
+}
