@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "a9ec8f581c113775c95cc46f97d7871b75b91d9f",
+      "author": "EliteAsian123",
+      "summary": "Fixed `MinimumStemVolume`",
+      "description": ""
+    }
+  ]
+}
