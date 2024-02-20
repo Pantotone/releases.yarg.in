@@ -1,0 +1,22 @@
+{
+  "commits": [
+    {
+      "sha": "9a5db107f0ea0704ceee3cdbe35970aa8f4d3bf0",
+      "author": "sonicfind",
+      "summary": "Apply AvailableParts changes",
+      "description": "+ Update YARG.Core"
+    },
+    {
+      "sha": "166d7b9a0c4a4ba9eec272b3fce180f9613cb72e",
+      "author": "sonicfind",
+      "summary": "Update To Handle/Utilize Refactored SongEntry Structrure (#693)",
+      "description": "See the YARG.Core submodule linked to this commit for an extended look into other changes made under the hood.\r\n\r\n* Update YARG.Core with SongEntry hierarchy changes\r\n\r\ncore\r\n\r\n* Fix references from SongMetadata to SongEntry\r\n\r\n* Update AlbumArt generation code\r\n\r\n* Update VenueLoader\r\n\r\n* Restructure Loading for GameManager\r\n\r\n+ Adds an overload to LoadingManager.Queue that accepts any task that can safely run in parallel. Ex: chart loading.\r\n\r\n+ Use said overload to allow chart and audio loading to run in parallel.\r\n\r\n+ Rearrange some chart finalization until after both audio & chart loaded *explicitly* sequentially.\r\n\r\n* Refactor AudioManager interface & BassAudioManager enviroment\r\n\r\n+ Removes specializations and subtypes tailored for Mogg.\r\n\r\n+ Alter LoadSong() to now handle any entry type with a single set of channels & mixers. Side effect is that Moggs no longer require an extra SplitStream step to function properly.\r\n\r\n+ Heavily utilize generics to interlock the multiple audio interfaces together. We force any stemchannel or stemMixer to observe a relationship with an audiomanager. Additionally, multiple functions that used managers now require an active instance of a manager to be passed as a parameter.\r\n\r\n* Use more optimal splitstreams for single sourcestream Mogg audio\r\n\r\nUtilizes the AudioMixer type from Core to supply BassAudioMixer with a single sourcestream when Moggs are played.\r\nUnlike the old setup however, all source stereo channels for a single stem are bundled together into a single Bass channel (instead of needing two).\r\n\r\n+ Remove some now unnecessary IAudioMixer interface functions.\r\n+ Replace IAudioManager load function `void` returns with `bool` to signal success or failure. Allows us to dodge having to throw exceptions.\r\n+ Utilize DisposableCounter to safely dispose of Bass resources if a failure occurs during load\r\n\r\n* Uncomment pause & resume calls for seek\r\n\r\nSaw a single case of desync. That's enough for me.\r\n\r\n* Alter `LoadingManager.Queue()` overload to take a UniTask instead of Action\r\n\r\nForces the caller to explicitly make a call that produces the Unitask before sending it to the queue.\r\n\r\nIn this case, explicitly calling the thread pool.\r\n\r\n* Replace IAudioMixer GetChannels() with singular GetChannel()\r\n\r\nStems no longer need to be split for Moggs, so grabbing multiple channels is unnecessary.\r\n\r\n* Guarantee a current replay sets `Song` sequentially before loading the chart\r\n\r\n* Apply AvailableParts update\r\n\r\n* Address nullable warnings"
+    },
+    {
+      "sha": "4bb0d51e558f6a4bef73aaa4770174db14ad70a4",
+      "author": "vinaykapadia",
+      "summary": "Remove \" \" from Album-Artist. (#695)",
+      "description": "Co-authored-by: Vinay Kapadia <dev@vkapadia.com>"
+    }
+  ]
+}
