@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "92676b226f37950547ceb32eb4086137d78dd16b",
+      "author": "sonicfind",
+      "summary": "YARG.Core update: Fix custom CON sources & CONs sharing parse paramaters",
+      "description": ""
+    }
+  ]
+}
