@@ -1,0 +1,22 @@
+{
+  "commits": [
+    {
+      "sha": "02f989537e417a1482de0ebb0ccbc555c98a161d",
+      "author": "vinaykapadia",
+      "summary": "Fix \"Go To Currently Playing\" to use refactored SongEntry. (#698)",
+      "description": "Co-authored-by: Vinay Kapadia <dev@vkapadia.com>"
+    },
+    {
+      "sha": "1b128045a926ee1ec7dbd69b7906fd1337e51890",
+      "author": "EliteAsian123",
+      "summary": "Updated help bar button prefab for select and start",
+      "description": ""
+    },
+    {
+      "sha": "ec311c08b6f5bf41ef888e883a90506626d284f2",
+      "author": "vinaykapadia",
+      "summary": "YARG-176 Add button to go to currently-playing song in music player (#690)",
+      "description": "* YARG-176 Add button to go to currently-playing song in music player\r\n\r\n* Adding NowPlaying save to MusicPlayer.\r\n\r\n---------\r\n\r\nCo-authored-by: Vinay Kapadia <dev@vkapadia.com>"
+    }
+  ]
+}
