@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "489f35f214099985bd851de65e7e637186506c35",
+      "author": "grishhung",
+      "summary": "Add remaining text notifications and setting for note streak frequency (#691)",
+      "description": "* Add remaining text notifications and setting for note streak frequency\r\n\r\n* Remove unnecessary variable initializations\r\n\r\n* Change CRLF to LF\r\n\r\n* Make BASS GROOVE specific to bass and remove unnecessary New Variables Group Asset\r\n\r\n* Change CRLF to LF again\r\n\r\n* Shorten note streak settings labels\r\n\r\n* Use pattern matching boolean operators\r\n\r\n* Change OVERDRIVE to STAR POWER and condense logic\r\n\r\n* Change \"HIGHSCORE\" to \"HIGH SCORE\"\r\n\r\n* Update Settings_en-US.asset\r\n\r\n---------\r\n\r\nCo-authored-by: RileyTheFox <jacobchambers@hotmail.co.uk>"
+    }
+  ]
+}
