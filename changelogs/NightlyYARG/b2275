@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "053e050f7bca02b38f7b237a8e761648ce7dfd76",
+      "author": "sonicfind",
+      "summary": "Fix drums not loading for RBCONs",
+      "description": ""
+    },
+    {
+      "sha": "a9a47c4de15cc644663fc37a5b6637c466d2e8bb",
+      "author": "vinaykapadia",
+      "summary": "Starpower SFX only on multitrack songs. (#699)",
+      "description": "* Starpower SFX only on multitrack songs.\r\n\r\n* PR Comments\r\n\r\n---------\r\n\r\nCo-authored-by: Vinay Kapadia <dev@vkapadia.com>"
+    }
+  ]
+}
