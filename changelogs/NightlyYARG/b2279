@@ -1,0 +1,22 @@
+{
+  "commits": [
+    {
+      "sha": "c465e6e0bf0ef2d332e1c4d3ff7ef7b15acfac01",
+      "author": "RileyTheFox",
+      "summary": "Fix sync thread breaking everything when exiting practice",
+      "description": ""
+    },
+    {
+      "sha": "c6f951b17fe8d815a07d1f20a306155383f0445e",
+      "author": "RileyTheFox",
+      "summary": "Fix notifications being queued during solos",
+      "description": ""
+    },
+    {
+      "sha": "f76a0c63c6be7b67711df96c6577cc7e737e7609",
+      "author": "RileyTheFox",
+      "summary": "Update YARG.Core to fix sustain ticks not updating stars earned",
+      "description": "Also support mapping video and image backgrounds to sngs"
+    }
+  ]
+}
