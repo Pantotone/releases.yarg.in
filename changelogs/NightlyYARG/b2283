@@ -1,0 +1,28 @@
+{
+  "commits": [
+    {
+      "sha": "abf431af6bf74af24beade0def0302c2fd1a5178",
+      "author": "sonicfind",
+      "summary": "Fix incorrect extracted upgrades path name being queried (Use: `songs_upgrades`)",
+      "description": ""
+    },
+    {
+      "sha": "e4913a4f1b3fada679f97c0a0a014f98796f5281",
+      "author": "RileyTheFox",
+      "summary": "Rework back functionality on practice section select",
+      "description": ""
+    },
+    {
+      "sha": "db4fb56ddfca6ba90c171bbf552fcf020b9e5fd3",
+      "author": "RileyTheFox",
+      "summary": "Fixed replay controller breaking section restart in practice",
+      "description": ""
+    },
+    {
+      "sha": "04a4cae67cef8ac2df4ea4045c0f76d55f26994f",
+      "author": "RileyTheFox",
+      "summary": "Disable TMP missing character log spam",
+      "description": ""
+    }
+  ]
+}
