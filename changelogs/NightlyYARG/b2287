@@ -1,0 +1,22 @@
+{
+  "commits": [
+    {
+      "sha": "649cdca645ae7d3fef2623877c76940749648f5c",
+      "author": "EliteAsian123",
+      "summary": "Forgot to revert change",
+      "description": ""
+    },
+    {
+      "sha": "53c14799289dc92f5d25bbfd0385326941090099",
+      "author": "EliteAsian123",
+      "summary": "Take video and input calibration into account for the hit window",
+      "description": ""
+    },
+    {
+      "sha": "14c966bab8449667b7dc00169604eccf6018a35f",
+      "author": "EliteAsian123",
+      "summary": "Make toasts use unscaled time",
+      "description": ""
+    }
+  ]
+}
