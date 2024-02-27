@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "4fd2d8cecf66e8309ef0478cadb392cdaca5c84f",
+      "author": "sonicfind",
+      "summary": "Fix incorrect serialization of profiles to replays",
+      "description": ""
+    }
+  ]
+}
