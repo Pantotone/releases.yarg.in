@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "2f0e415215ee45a90a69f0cb8b9a06286bdbc990",
+      "author": "TheFatBastid",
+      "summary": "Fixed small Stage Kit oversight. (#705)",
+      "description": "Cues were being killed (stopped), but the LEDs were not actually being turned off. Would cause the LEDs to look like they were 'hanging unresponsive.' No LEDs are ever on when Strobe Fast is."
+    },
+    {
+      "sha": "e56955b3dc49c67ba90ee6b6a44e302eaaab6568",
+      "author": "TheFatBastid",
+      "summary": "Fixed sacn settings not loading correctly at game start. (#704)",
+      "description": "Learning is neat. Need rewrite of several functions? Na, not once I was told about IsLoading."
+    }
+  ]
+}
