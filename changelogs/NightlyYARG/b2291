@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "a3ad8f77eacee1fb98274d4bc66a0ba10fe66659",
+      "author": "vinaykapadia",
+      "summary": "Add key to go to Search Bar. (#708)",
+      "description": "Co-authored-by: Vinay Kapadia <dev@vkapadia.com>"
+    }
+  ]
+}
