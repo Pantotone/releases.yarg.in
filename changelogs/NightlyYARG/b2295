@@ -1,0 +1,28 @@
+{
+  "commits": [
+    {
+      "sha": "e1095bb3334757423727ebd0f770c67cb84e66ce",
+      "author": "RileyTheFox",
+      "summary": "Set selected object to null when unfocusing search",
+      "description": ""
+    },
+    {
+      "sha": "e5e86076233cd150308668b8d1f11c730eb68639",
+      "author": "RileyTheFox",
+      "summary": "Undo navigation scheme for search because keyboards exist",
+      "description": ""
+    },
+    {
+      "sha": "12dd6413e86230f1a7199125bbf6d5cdc547c037",
+      "author": "RileyTheFox",
+      "summary": "Add button to cancel search (unfocus input field) in music library",
+      "description": ""
+    },
+    {
+      "sha": "85d63676e604c3534d9445a02f0ac409591a3054",
+      "author": "RileyTheFox",
+      "summary": "Change search button order in music library",
+      "description": ""
+    }
+  ]
+}
