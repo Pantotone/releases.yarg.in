@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "5ee123dcdb2aa0d123e1b1b6a54ae3eb126c598a",
+      "author": "EliteAsian123",
+      "summary": "Updated DMX cue preview background color",
+      "description": ""
+    },
+    {
+      "sha": "0a80e8d140efd4ada5c2bd9e0f09f8d025af14a6",
+      "author": "TheFatBastid",
+      "summary": "Added DMX Cue Change channel (#706)",
+      "description": "* Added DMX Cue Change channel\r\n\r\nWhenever the lighting cue changes, a DMX channel will be set to a value. Useful for programs that make light shows from incoming triggers.\r\n\r\nThis will be the last time the stagekit code will be used like this, next I'll redo how the cues are handled and uncouple that from the stagekit code directly so anything can listen to it better.\r\n\r\n* Requested tweaks\r\n\r\n* Changed from string to Sceneindex"
+    }
+  ]
+}
