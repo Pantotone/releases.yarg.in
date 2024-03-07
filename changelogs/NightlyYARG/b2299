@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "0b2ddde11181c3dfa7dfff6c7fe98c4933142993",
+      "author": "TheNathannator",
+      "summary": "Only allow separate left/right shift/ctrl/alt keyboard keys to be bound, not the combined ones",
+      "description": ""
+    },
+    {
+      "sha": "8c976a7811b5d378a1f21853efb5f4da542e7efb",
+      "author": "TheNathannator",
+      "summary": "Check if song.ini song directory exists before trying to load files from it",
+      "description": ""
+    }
+  ]
+}
