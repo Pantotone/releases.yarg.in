@@ -1,0 +1,34 @@
+{
+  "commits": [
+    {
+      "sha": "5a92ab66fb5d32318353ae53e51865bbc04bd45a",
+      "author": "TheNathannator",
+      "summary": "Allow resizing the game window freely",
+      "description": ""
+    },
+    {
+      "sha": "bc12ad9daca9e8ac9a2a4d977d3f88d19d9cba84",
+      "author": "EliteAsian123",
+      "summary": "Playlists (#709)",
+      "description": "* Basic liked songs support\r\n\r\n* Whoops\r\n\r\n* Super scuffed liked song view\r\n\r\n* Clean up and bug fixes\r\n\r\n* Adjusted position of the \"Back To Top\" button\r\n\r\n* Added in proper icons + fix initial index\r\n\r\n* Adjusted song view layouts to allow for more side content\r\n\r\n* Changed \"Liked Songs\" wording to \"Favorites\"\r\n\r\n* Favorite button on song views\r\n\r\n* Updated favorite button texture\r\n\r\n* Removed remaining obsolete UI prefabs\r\n\r\n* Show stars for high score in music library\r\n\r\n* Added some Music Library customization options\r\n\r\n* Updated localization"
+    },
+    {
+      "sha": "6b4ebbb104be208399d47af6773fa97ecd61e706",
+      "author": "EliteAsian123",
+      "summary": "Fixed lefty flip coloring on drums",
+      "description": ""
+    },
+    {
+      "sha": "0177fa57f54d52a2fe3ccdc6cc108a12e22e2afb",
+      "author": "EliteAsian123",
+      "summary": "Removed some unnecessary attributes",
+      "description": ""
+    },
+    {
+      "sha": "fd3c20a11725d67fe781b8ca38b1ae5c1f35374d",
+      "author": "EliteAsian123",
+      "summary": "Show info dialog if the system does not support file explorer opening",
+      "description": ""
+    }
+  ]
+}
