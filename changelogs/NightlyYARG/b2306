@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "bcbb67ce88645970b5296ea33744f083742b3836",
+      "author": "TheNathannator",
+      "summary": "Fix \"As Made Famous By\" text and simplify how it's handled",
+      "description": ""
+    },
+    {
+      "sha": "59eb8fd0e0eadcb7ecb2a2b597146dd743ac92ab",
+      "author": "TheNathannator",
+      "summary": "Update Unity to 2021.3.36f1 (#710)",
+      "description": "* Update Unity to 2021.3.36f1\r\n\r\n* Update Unity install instructions"
+    }
+  ]
+}
