@@ -1,0 +1,22 @@
+{
+  "commits": [
+    {
+      "sha": "7faa38bc346597cb1fdee2cc72733d24d097eda8",
+      "author": "EliteAsian123",
+      "summary": "Added scanning options",
+      "description": ""
+    },
+    {
+      "sha": "4c09adb4820fab56bde2714005c3e81608a96bbf",
+      "author": "EliteAsian123",
+      "summary": "Removed obsolete \"Event List\"",
+      "description": ""
+    },
+    {
+      "sha": "e138519bed91683f4e6ccd0d2405f43eb5359caf",
+      "author": "RileyTheFox",
+      "summary": "Update packages",
+      "description": ""
+    }
+  ]
+}
