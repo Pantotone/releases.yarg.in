@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "cedac3243bbbabf88bdb8724b379239abdea187a",
+      "author": "EliteAsian123",
+      "summary": "Updated YARG.Core to fix incorrect note/chord snap handling",
+      "description": ""
+    },
+    {
+      "sha": "0153478ce9e60d0e83a2e7e7fd246414d8c075b8",
+      "author": "grishhung",
+      "summary": "Update LitFade shader kick color correction (#713)",
+      "description": ""
+    }
+  ]
+}
