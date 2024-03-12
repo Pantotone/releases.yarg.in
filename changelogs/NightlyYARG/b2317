@@ -1,0 +1,28 @@
+{
+  "commits": [
+    {
+      "sha": "626648298bb9b31853260058f0889d3136ad76a9",
+      "author": "EliteAsian123",
+      "summary": "Update YARG.Core for vocal presets",
+      "description": ""
+    },
+    {
+      "sha": "0e6bce163c369cc1baa1b54711cd8ccb983d8eb2",
+      "author": "raphaelgoulart",
+      "summary": "Add vocals-related values to Engine Preset (#712)",
+      "description": "* make vocals considerably harder\r\n\r\n* minor comment fix\r\n\r\n* make values driven by engine preset instead\r\n\r\n* different mult. color per engine (pending texture)\r\n\r\n* improve texture and starting color\r\n\r\n* bring parameter creation to Core"
+    },
+    {
+      "sha": "a7e8a5e3bb46c12ff6d576a4ebfb0ef5040549a4",
+      "author": "poliwhirlge",
+      "summary": "Take star power into account when checking for bass groove (#714)",
+      "description": ""
+    },
+    {
+      "sha": "5ebac2b4061e3dbb952c2bf982070788504835b5",
+      "author": "sonicfind",
+      "summary": "Convert SongContainer to a static class (#715)",
+      "description": "The lifetime for access to all the variables contained in the class spans the entire uptime of the app. Having them all be statically accessible directly from the class itself instead of indirectly through a GlobalVariables instance makes operations on it easier to follow.\r\n\r\n+ Extra benefit on fewer allocations through not having to create new lists."
+    }
+  ]
+}
