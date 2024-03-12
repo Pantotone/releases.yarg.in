@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "da66dbf659dd9f9ca3b35804ca13f4acff986032",
+      "author": "EliteAsian123",
+      "summary": "Disable menu navigation during loading",
+      "description": ""
+    }
+  ]
+}
