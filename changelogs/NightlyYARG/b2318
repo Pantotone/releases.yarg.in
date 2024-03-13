@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "650fa16dffab52a39f24590f40ec75d5c69f8668",
+      "author": "EliteAsian123",
+      "summary": "Clean up `GlobalVariables` state variables by turning into a struct",
+      "description": ""
+    }
+  ]
+}
