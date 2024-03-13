@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "f17649c3dade0e161469234afa338eb547e5f5a8",
+      "author": "EliteAsian123",
+      "summary": "Save menu state when changing to the menu scene (YARG-234)",
+      "description": ""
+    }
+  ]
+}
