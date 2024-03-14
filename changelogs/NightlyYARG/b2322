@@ -1,0 +1,22 @@
+{
+  "commits": [
+    {
+      "sha": "47ced20a93c8756fac219b6fb57b9c9ca3dd5e42",
+      "author": "EliteAsian123",
+      "summary": "Fixed replay viewer arrow",
+      "description": ""
+    },
+    {
+      "sha": "2b11b3c923b92d0be553e74036903ba95b6e6e19",
+      "author": "EliteAsian123",
+      "summary": "Changed \"Lead Charter\" to \"Setlist Manager\"",
+      "description": ""
+    },
+    {
+      "sha": "fcb26f628016fab6194da8a70bfab8d50b09f254",
+      "author": "RileyTheFox",
+      "summary": "Fix unnecessary calls to database in Music Library (#716)",
+      "description": "* Cache high scores at startup and fetch from cache in music library\r\n\r\n* Speed up setting ViewObject text by removing LINQ ForEach"
+    }
+  ]
+}
