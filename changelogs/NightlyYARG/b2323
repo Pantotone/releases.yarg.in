@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "361dd2e99709d49326be6b0e4ae3d896c452f061",
+      "author": "TheNathannator",
+      "summary": "Update PlasticBand-Unity to v0.6.0",
+      "description": "- Fix inverted PS3 GH guitar tilt axes\n- Fix Xbox 360 ION kits getting detected as 5-lane kits\n- Update Santroller HID stagekit support"
+    }
+  ]
+}
