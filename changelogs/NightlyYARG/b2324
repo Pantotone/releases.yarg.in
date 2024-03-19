@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "b3193b185d6becf674643c6c6092070b6853d1da",
+      "author": "TheNathannator",
+      "summary": "Replace YargTrace with a much more proper logging system (#722)",
+      "description": "* Remove ZString from UPM, add Nuget version and copy Unity extensions to plugins folder\r\n\r\n* Write to internal unity logger\r\n\r\n* Setup LogHandler\r\n\r\n* Overwrite internal unity fields with custom logger\r\n\r\n* Load PathHelper before Unity splash\r\n\r\n* Specify log type in call to native Unity Internal_Log\r\n\r\n* Overwrite and restore Unity internal logging on Play Enter/Exit\r\n\r\n* Write to custom log file\r\n\r\n* Update YARG.Core for logging changes\r\n\r\n* Remove LogItem Format\r\n\r\n* Change a lot of Debug.Log calls to YargLogger (not done)\r\n\r\n* Update YARG.Core\r\n\r\n* Set minimum log level to Debug in editor\r\n\r\n* Rework LogItem to allow proper/generic pooling of log items\r\n\r\n* Update more logging calls\r\n\r\n* Changed all logging to YargLogger\r\n\r\n* Update YARG.Core\r\n\r\n* Add link to unity console log formatter\r\n\r\n* Update YARG.Core\r\n\r\n* Couple logging updates for parity with Core\r\n\r\n* Get rid of null LogItem argument\r\n\r\n* Update YARG.Core\r\n\r\n* Debug call to YargLogger in ScoreScreenMenu\r\n\r\n* Missing semicolon lol\r\n\r\n---------\r\n\r\nCo-authored-by: RileyTheFox <jacobchambers@hotmail.co.uk>"
+    }
+  ]
+}
