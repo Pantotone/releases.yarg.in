@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "ef9e354653f54d8be425572044ced8f4178a46a9",
+      "author": "RileyTheFox",
+      "summary": "Log system information on startup",
+      "description": ""
+    }
+  ]
+}
