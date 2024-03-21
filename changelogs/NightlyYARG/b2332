@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "89a9d86ce0d36c869921c22c754ac507631e5179",
+      "author": "TheNathannator",
+      "summary": "Fix errors from song loading being cancelled by an error/the rescan warning",
+      "description": ""
+    },
+    {
+      "sha": "506e1cf03e16728b834ef42da6661568f31507f6",
+      "author": "TheNathannator",
+      "summary": "Fix infinite loop on lyric text tag handling",
+      "description": ""
+    }
+  ]
+}
