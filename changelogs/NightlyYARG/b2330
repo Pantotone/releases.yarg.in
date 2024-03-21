@@ -1,0 +1,34 @@
+{
+  "commits": [
+    {
+      "sha": "bffd63855e1222c7ee43b90a9fcd4ea4d8ee0344",
+      "author": "vinaykapadia",
+      "summary": "YARG-209 Show Bad Songs count on Scan (#711)",
+      "description": "* YARG-209 Show Bad Songs count on Scan\r\n\r\nIf there is a bad songs file, a button will be shown to open the file. On a scan, the number of errors will be shown on the button.\r\n\r\n* Fixing button visuals.\r\n\r\n---------\r\n\r\nCo-authored-by: Vinay Kapadia <dev@vkapadia.com>"
+    },
+    {
+      "sha": "eaf754953769f36b814cd6b914f549b7a79ce17a",
+      "author": "EliteAsian123",
+      "summary": "Refresh recommended songs when header clicked (icon/indicator needed)",
+      "description": ""
+    },
+    {
+      "sha": "6304b8765835c064097b6c7a99c792418788705d",
+      "author": "EliteAsian123",
+      "summary": "Use ZString in music library song views",
+      "description": ""
+    },
+    {
+      "sha": "44c27804cc1eecf26a237bad30ebb24173823bdf",
+      "author": "vinaykapadia",
+      "summary": "Improve UX for Go To menu. (#707)",
+      "description": "* Improve UX for Go To menu.\r\n\r\n* Bug fixes.\r\n\r\n---------\r\n\r\nCo-authored-by: Vinay Kapadia <dev@vkapadia.com>"
+    },
+    {
+      "sha": "a76a095db9e36126d17f667ed2767588b43b4e37",
+      "author": "TheFatBastid",
+      "summary": "Fixed some silly DMX bugs and auto-formatted the file. (#720)",
+      "description": ""
+    }
+  ]
+}
