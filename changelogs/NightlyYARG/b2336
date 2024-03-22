@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "6ccc9d3adedc73e1783e70bdd55c016827f18089",
+      "author": "TheNathannator",
+      "summary": "Fix rich text tags causing lyrics to disappear",
+      "description": ""
+    }
+  ]
+}
