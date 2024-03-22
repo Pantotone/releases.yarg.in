@@ -1,0 +1,22 @@
+{
+  "commits": [
+    {
+      "sha": "16e0213a06ab87fe3c07e4b366b2934a79ae6e6c",
+      "author": "EliteAsian123",
+      "summary": "Update ToastManager so it can show multiple toasts at once",
+      "description": ""
+    },
+    {
+      "sha": "ffd34b3a2c075d1e1a8c71628e123c27b7b74638",
+      "author": "sonicfind",
+      "summary": "Fix loading screen text references",
+      "description": ""
+    },
+    {
+      "sha": "632d090cfff339094998512c0936b105a95e4eac",
+      "author": "sonicfind",
+      "summary": "Rework Loading Screen Management (#717)",
+      "description": "* Manage loading screens through a separate LoadingContext type\r\n\r\nThe type will handle the display and change of loading screen information. Having a dedicated type for this purpose means an instance can be passed around functions to directly change the loading screen information instead through an Action<> that holds a reference to the gameobject.\r\n\r\n+ Split the SongContainer refresh code into the SongContainer static class.\r\n\r\n* Remove LoadingContext refCount stuff\r\n\r\nIf you're using more than one context at a time, wtf is wrong with you\r\n\r\n* Rename IsLoading to IsActive\r\n\r\n* Fix variable names"
+    }
+  ]
+}
