@@ -1,0 +1,64 @@
+{
+  "commits": [
+    {
+      "sha": "ca29b7a889cf552c06234b5d6e0ba4ef6a11e3ab",
+      "author": "JayDiddyThaGOAT",
+      "summary": "Fixed songs disappearing after pressing search filter with search input (#725)",
+      "description": ""
+    },
+    {
+      "sha": "07139cab5d8525857309d01959305192e62790ee",
+      "author": "TheNathannator",
+      "summary": "Fix the first section selected in practice mode not starting correctly",
+      "description": ""
+    },
+    {
+      "sha": "75e8878bf796bb8d019b33caae380c43b029be37",
+      "author": "TheNathannator",
+      "summary": "Don't forget to update song time during input rebases",
+      "description": ""
+    },
+    {
+      "sha": "602db981305b490fadd0b3be675b78074f989091",
+      "author": "TheNathannator",
+      "summary": "Support \"#ifdef CUSTOMSOURCE\" parsing",
+      "description": ""
+    },
+    {
+      "sha": "065bb8748380f29d6489d27f8bc5d424003f080b",
+      "author": "TheNathannator",
+      "summary": "Fix end-of-song assert caused by the audio unloading",
+      "description": ""
+    },
+    {
+      "sha": "16a9d9a35bd059ba04b45a7192db2bc36e418942",
+      "author": "TheNathannator",
+      "summary": "Use visual time for song time instead of audio time, should fix songs not ending sometimes",
+      "description": ""
+    },
+    {
+      "sha": "5d5fb5fad2c5f99b30c6b684bdc2cae64d5ca2d4",
+      "author": "TheNathannator",
+      "summary": "Refactor song time progression asserts",
+      "description": ""
+    },
+    {
+      "sha": "972fee5ceb3338c5630a9d8e49712fc68dc508d7",
+      "author": "TheNathannator",
+      "summary": "Clean up a couple song sync things",
+      "description": ""
+    },
+    {
+      "sha": "ea9ff811a3e03561d712e50f86afa29977082a35",
+      "author": "EliteAsian123",
+      "summary": "Allowing clicking on toasts to close them, and make them transparent on hover",
+      "description": ""
+    },
+    {
+      "sha": "bf191d38282a4d859c3b1a011244a4c8eab0ed7f",
+      "author": "EliteAsian123",
+      "summary": "Made toast animations use unscaled time",
+      "description": ""
+    }
+  ]
+}
