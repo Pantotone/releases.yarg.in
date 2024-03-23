@@ -1,0 +1,46 @@
+{
+  "commits": [
+    {
+      "sha": "e2fcb50c1cd75cfa5c6987be25daebeda9e114bd",
+      "author": "TheNathannator",
+      "summary": "Remove a now-redundant song time update",
+      "description": ""
+    },
+    {
+      "sha": "b905c2114b930265490a21a0ff0079d178877979",
+      "author": "TheNathannator",
+      "summary": "Convert remaining Debug logging to YargLogger",
+      "description": ""
+    },
+    {
+      "sha": "bf447b6363b51d0069d3e07f90933b16e91bf2bf",
+      "author": "TheNathannator",
+      "summary": "Fix input times being handled wildly incorrectly after finishing a song",
+      "description": ""
+    },
+    {
+      "sha": "28e1463608be6682489ae5387a10242f64d55298",
+      "author": "TheNathannator",
+      "summary": "Make song load/exit log messages info messages again",
+      "description": "These are deliberately supposed to be logged by default,\nas they help with determining what issues happened where"
+    },
+    {
+      "sha": "8bbf148971e00bc9800c347d5c66fbc0f1f31827",
+      "author": "TheNathannator",
+      "summary": "Fix a couple LoadingScreen/Context things",
+      "description": ""
+    },
+    {
+      "sha": "f1cf6fa64c13e685c7b18c98f59192005511366a",
+      "author": "TheNathannator",
+      "summary": "Make all textboxes disable navigation when selected",
+      "description": ""
+    },
+    {
+      "sha": "31163d39e3ad23e4b75c7bbe389a0953beccba3f",
+      "author": "TheNathannator",
+      "summary": "Add better mechanism for preserving music player state in navigation schemes",
+      "description": ""
+    }
+  ]
+}
