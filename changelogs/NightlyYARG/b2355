@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "33f315474956795d5b3191ecbe746432c3a4343a",
+      "author": "TheNathannator",
+      "summary": "Replace color names in color tags with hex codes",
+      "description": ""
+    }
+  ]
+}
