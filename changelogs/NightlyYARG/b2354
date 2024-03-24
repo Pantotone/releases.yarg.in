@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "f1ae1e50e02eeda89967f1c4f857ce16840e391a",
+      "author": "RileyTheFox",
+      "summary": "Make settings/content loading a bit more robust (surround everything with try/catch)",
+      "description": ""
+    }
+  ]
+}
