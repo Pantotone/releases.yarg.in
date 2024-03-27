@@ -1,0 +1,22 @@
+{
+  "commits": [
+    {
+      "sha": "9de22b7947132cf611359bfaf656a0078f81442c",
+      "author": "EliteAsian123",
+      "summary": "Fixed search field focusing problems",
+      "description": ""
+    },
+    {
+      "sha": "829b27368d12fe9d7466ac8d15423674f527d918",
+      "author": "EliteAsian123",
+      "summary": "Don't show search bar in playlist menu (it'll be brought back once it's done)",
+      "description": ""
+    },
+    {
+      "sha": "0fcb3a68419c51e75435a92abed128c1c1fb8ac3",
+      "author": "EliteAsian123",
+      "summary": "Fixed sustains animating very quickly at slow speeds",
+      "description": ""
+    }
+  ]
+}
