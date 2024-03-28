@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "c7e7769b30786b070b64ba3b138ef24cded9d04c",
+      "author": "EliteAsian123",
+      "summary": "Options to pause on window focus loss and controller disconnect",
+      "description": ""
+    }
+  ]
+}
