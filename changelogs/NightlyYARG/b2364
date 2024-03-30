@@ -1,0 +1,22 @@
+{
+  "commits": [
+    {
+      "sha": "b8b8ab84496d02044519a4a2d3569728299c1446",
+      "author": "EliteAsian123",
+      "summary": "Slightly adjusted circular theme open hopo scale",
+      "description": ""
+    },
+    {
+      "sha": "4c25edd7c047a96176f07c0731b5b68073e7e349",
+      "author": "EliteAsian123",
+      "summary": "Slightly adjusted 5-lane cymbal",
+      "description": ""
+    },
+    {
+      "sha": "51f91cfa85ab12467951681b40cea0877e5aaaf4",
+      "author": "EliteAsian123",
+      "summary": "Fixed depth sorting issues in gameplay (redid all gameplay material render queues and switched to depth buffer instead of sorting priorities)",
+      "description": ""
+    }
+  ]
+}
