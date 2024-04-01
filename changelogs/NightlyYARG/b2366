@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "023ebf402ae0e80b4df0747071f14134b8b4a70e",
+      "author": "EliteAsian123",
+      "summary": "Fix hit window display not rendering properly",
+      "description": ""
+    }
+  ]
+}
