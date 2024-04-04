@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "efcde34599d67ad7078e01dcc2c4273bfc8220af",
+      "author": "EliteAsian123",
+      "summary": "Prevent freezes when the beat event handler fails to add events",
+      "description": ""
+    }
+  ]
+}
