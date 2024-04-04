@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "af2ff88a89261241c853930e2892c5927739b039",
+      "author": "TheFatBastid",
+      "summary": "Update IsLoading to IsInitialized (#730)",
+      "description": ""
+    },
+    {
+      "sha": "95121a94a373e9fcb06f645f50892732d8e2c308",
+      "author": "TheFatBastid",
+      "summary": "Lighting Controller (#718)",
+      "description": "* Lighting Controller\r\n\r\nAn implementation of a universal lighting controller other classes can listen to.\r\n\r\n* Reimplementation of Stage Kit logic\r\n\r\n* IRL Lighting Rewrite\r\n\r\nThis breaks the IRL lighting into 3 parts (Controller, Interpreter, Hardware) so that things can be expanded, extended, and added too much more easily for future support of more things.\r\n\r\n* rewrite conclusion\r\n\r\n* metas\r\n\r\n* Changed how cues are created\r\n\r\nthey now are created on start and live in a list, enabled and disabled as needed.\r\n\r\n* Changed list to dictionary which simplified the switch\r\n\r\n* clean up\r\n\r\n* In BeatEventHandler, moved removing items ahead of adding items"
+    }
+  ]
+}
