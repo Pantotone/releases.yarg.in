@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "b703a2d9a8786f864e7a43919d7bae78d84edf1f",
+      "author": "TheNathannator",
+      "summary": "Show cymbal colors correctly and generate red cymbal in 4-lane drums preset preview",
+      "description": ""
+    }
+  ]
+}
