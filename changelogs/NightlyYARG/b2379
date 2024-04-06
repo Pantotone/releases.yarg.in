@@ -1,0 +1,28 @@
+{
+  "commits": [
+    {
+      "sha": "e0a4689bdf84fbd6fc42997c022b4303ae8636ac",
+      "author": "TheNathannator",
+      "summary": "Remove unneeded thread lock in music library menu",
+      "description": ""
+    },
+    {
+      "sha": "c82b75f3dbb5088d51342fd3f0077024a49110ca",
+      "author": "TheNathannator",
+      "summary": "Fix debug text not showing in practice mode by default in the editor",
+      "description": ""
+    },
+    {
+      "sha": "e40a3141fb9fbff322d3746f57f070aac1f9aa17",
+      "author": "TheNathannator",
+      "summary": "Make gameplay debug text smaller",
+      "description": ""
+    },
+    {
+      "sha": "abcc67b48f5b9872ef153c7db2f957e30d4d6054",
+      "author": "TheNathannator",
+      "summary": "Add worst delta sync stat and persist start/worst delta until next sync",
+      "description": ""
+    }
+  ]
+}
