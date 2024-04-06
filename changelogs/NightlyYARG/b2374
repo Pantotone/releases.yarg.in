@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "08752dd2dc2c41d2ec117968f00cb1912d69463f",
+      "author": "TheFatBastid",
+      "summary": "Fixed programmer buffoonery (#733)",
+      "description": "null check in wrong place"
+    },
+    {
+      "sha": "af25d7c640e1a65af5a2f58fe61f2d83b033d12b",
+      "author": "sonicfind",
+      "summary": "Fix some preview context runoffs",
+      "description": ""
+    }
+  ]
+}
