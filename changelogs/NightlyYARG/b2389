@@ -1,0 +1,28 @@
+{
+  "commits": [
+    {
+      "sha": "b6ebfbf5184ecc1f692170382b02520bf58ab6ab",
+      "author": "TheFatBastid",
+      "summary": "Added current venue to debug overlay, fixed some light bugs. (#735)",
+      "description": "* Added current venue to debug overlay, fixed some light bugs and oversights.\r\n\r\nMoved some overlooked new() calls that were not in the constructors, added venue to debug overlay, added the missing 'all' color call, fixed Dischord not direct listening.\r\n\r\n* Made some private static readonly arrays"
+    },
+    {
+      "sha": "3fc8dea7454e960b6c51cad51709b89d0f162323",
+      "author": "EliteAsian123",
+      "summary": "Simplify `AdjustPlaybackSpeed` method",
+      "description": ""
+    },
+    {
+      "sha": "f113a80e801cb70734bb59b936aaf97349d53a92",
+      "author": "EliteAsian123",
+      "summary": "Clamp practice mode song speed",
+      "description": ""
+    },
+    {
+      "sha": "44654bb7d932ef33c470367e4d27969ab96cb1ce",
+      "author": "EliteAsian123",
+      "summary": "Add selected song speed in practice mode \"SECTION\" header",
+      "description": ""
+    }
+  ]
+}
