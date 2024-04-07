@@ -1,0 +1,40 @@
+{
+  "commits": [
+    {
+      "sha": "a2bbfca84bf63cf879cd3234e52f2e75c0a86d9f",
+      "author": "sonicfind",
+      "summary": "Clamp time display to [0, length] range",
+      "description": ""
+    },
+    {
+      "sha": "ce5de1a3ffcaa127e72a6c424060123b10252dc4",
+      "author": "EliteAsian123",
+      "summary": "Separate song speed into \"selected\" and \"playback\" to prevent incorrect hit window scaling in practice mode",
+      "description": ""
+    },
+    {
+      "sha": "d0405ac15fcc1a22d9e255cb59a52c80315521e4",
+      "author": "EliteAsian123",
+      "summary": "Change song speed property names to reflect that of the other properties",
+      "description": ""
+    },
+    {
+      "sha": "9501d0563ca41ba5453dc09eaf98942a7fb6a30b",
+      "author": "sonicfind",
+      "summary": "Pause menu gameobject null checks",
+      "description": ""
+    },
+    {
+      "sha": "f405199094dc12493090d83e56f580e80c5293fa",
+      "author": "EliteAsian123",
+      "summary": "Properly update the hit window in practice mode when the speed is changed",
+      "description": ""
+    },
+    {
+      "sha": "9a16dda52ebaf8f914a52f6b97d7a126590023fb",
+      "author": "sonicfind",
+      "summary": "Stop preview immediately on entering a song",
+      "description": ""
+    }
+  ]
+}
