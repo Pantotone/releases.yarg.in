@@ -1,0 +1,82 @@
+{
+  "commits": [
+    {
+      "sha": "934d3ec9d1fa2d5ebf890808d3c8a3a595e86ca1",
+      "author": "RileyTheFox",
+      "summary": "Update YARG.Core for replay version change",
+      "description": ""
+    },
+    {
+      "sha": "acf365b7f3a23cd0a9d578104d7f8910219b1b93",
+      "author": "RileyTheFox",
+      "summary": "Scale engine speed correctly in both quickplay and practice",
+      "description": ""
+    },
+    {
+      "sha": "3cf380338a35622b75ad6ab3ddf7b9719265dd85",
+      "author": "RileyTheFox",
+      "summary": "Fix Persistent state Song Speed being reset",
+      "description": ""
+    },
+    {
+      "sha": "7803c7dd6dbdfc5a672b6fa8c2004e174b048ad2",
+      "author": "TheFatBastid",
+      "summary": "Fixed duplicate beat events being added (#737)",
+      "description": "* Added current venue to debug overlay, fixed some light bugs and oversights.\r\n\r\nMoved some overlooked new() calls that were not in the constructors, added venue to debug overlay, added the missing 'all' color call, fixed Dischord not direct listening.\r\n\r\n* Made some private static readonly arrays\r\n\r\n* Fixed errant duplicate Add bug\r\n\r\nEvent handlers aren't added/removed in the order requested so having two lists that first do Add then Remove causes anomalies. Changing to one list fixes that.\r\n\r\n* Styling fixes\r\n\r\nRemoved commented out code and added braces\r\n\r\n* braces\r\n\r\n* newline"
+    },
+    {
+      "sha": "24bf7770c39ef5e000da25101464f18f34a76fde",
+      "author": "EliteAsian123",
+      "summary": "Added and removed some \"Text Field Navigation Disabler\" components",
+      "description": "Removed it for replay viewer because it clashed with its UI.\n\nAdded it for the difficulty select speed control."
+    },
+    {
+      "sha": "6f739d6903e3543ef51ea513bd2dd50ab70bb6df",
+      "author": "sonicfind",
+      "summary": "Add device audio latency to gamemanager debug text",
+      "description": ""
+    },
+    {
+      "sha": "aa0f82c176e4ab6a8df00e5cc5e28a8cee9a8f83",
+      "author": "sonicfind",
+      "summary": "Reorder buffer value initialization",
+      "description": ""
+    },
+    {
+      "sha": "a9a2ab0f22e9bac431b20a80daee9dea65007747",
+      "author": "sonicfind",
+      "summary": "Use timefromstartup for calibration",
+      "description": "The beats and when they appear are still audio bound. However, using realtime will give us a more precise measurement."
+    },
+    {
+      "sha": "3b56f0ec7a26ebdebeb6c817c75e3f0bc6dbe375",
+      "author": "sonicfind",
+      "summary": "Account for device playback latency",
+      "description": "Uses a newer formula to estimate default hardware playback latency. That value gets taken out of the AudioOffset provided by the calibrator, giving a smaller value.\n\n+ Updates YARG.Core"
+    },
+    {
+      "sha": "2c2c48cd579eba8a93d8c724b10c8bd18681632b",
+      "author": "sonicfind",
+      "summary": "Fix Song time set *not* from start",
+      "description": ""
+    },
+    {
+      "sha": "cb250c18d91a0811cff25bca908223c720a4b299",
+      "author": "sonicfind",
+      "summary": "Fix lyric bar not displaying",
+      "description": "Damnit EA lol"
+    },
+    {
+      "sha": "43f7829ef2b29516d6b847c8be084659c638af78",
+      "author": "sonicfind",
+      "summary": "Shift pitch on selected song speed changes",
+      "description": "+ But only when chipmunk is active"
+    },
+    {
+      "sha": "65947cd553c788250fe30b464ae7359b994b2946",
+      "author": "sonicfind",
+      "summary": "BassAudio and songrunner adjustments",
+      "description": "+ Improved multi-threaded update and mixer processing utilization (where applicable)\n+ Re-Add `asyncFile` modifier\n+ Disable mixer playback buffer (which is why `asyncfile` got re-added).\n+ Switch back to `Bass.ChannelGetPosition` (which also spurred the above two)\n\n+ Use a lock pattern for the songrunner syncthread loop.\n+ Better account for songspeed when calculating song positions"
+    }
+  ]
+}
