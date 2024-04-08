@@ -1,0 +1,40 @@
+{
+  "commits": [
+    {
+      "sha": "475b21fd0bf9ff614a20996e056f0c374319b50f",
+      "author": "sonicfind",
+      "summary": "Fix calibration using wrong time offsets",
+      "description": ""
+    },
+    {
+      "sha": "895791b874ce13538ed575d1656f403e31676e92",
+      "author": "EliteAsian123",
+      "summary": "Change version to `v0.12.2`",
+      "description": ""
+    },
+    {
+      "sha": "947c30248718a2fec60db242b8df727e77d244f0",
+      "author": "EliteAsian123",
+      "summary": "Fix song speed being reset for real",
+      "description": ""
+    },
+    {
+      "sha": "5d71ac558c9dd5c63dbc5dfcfd5cfaf25bed361c",
+      "author": "EliteAsian123",
+      "summary": "Revert \"Fix Persistent state Song Speed being reset\"",
+      "description": ""
+    },
+    {
+      "sha": "392f52206b313261a5d8d968f1eb273f3e037e13",
+      "author": "EliteAsian123",
+      "summary": "Fixed new song speed system in replays",
+      "description": ""
+    },
+    {
+      "sha": "3ba6a864d786d5ed9fd59a4effd42ee258251f3c",
+      "author": "EliteAsian123",
+      "summary": "Revert the revert of the beat even handler",
+      "description": ""
+    }
+  ]
+}
