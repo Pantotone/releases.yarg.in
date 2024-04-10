@@ -1,0 +1,28 @@
+{
+  "commits": [
+    {
+      "sha": "3b751a6e3c9468ba3b9fc125175e891b65350d94",
+      "author": "sonicfind",
+      "summary": "Improve volume scaling system",
+      "description": "Apply exponential scaling onto only the final mix instead of every stem.\n\nNote: we use exponential scaling for `<1` due to how human hearing works. The 50% that Bass provides in linear scaling does not actually give the impression of \"50% volume\" considering humans don't hear in linear space. It *has* to map to a slightly lower value for it to truly feel appropriate.\n\n+ Change the cases for \"processing threads\" switch\n+ Account for StemSettings changes for Master Volume\n+ Update YARG.Core"
+    },
+    {
+      "sha": "b3e53ab323f7b206f96af0acda2cbe3c0e31fd05",
+      "author": "sonicfind",
+      "summary": "Remove unnecessary MixerChanDownMix flags",
+      "description": ""
+    },
+    {
+      "sha": "d784150deb017498d86131e2ff4ede21b4fb262d",
+      "author": "sonicfind",
+      "summary": "Calculate a custom playback buffer length per-system",
+      "description": "This is more of a test to try balancing the buffer length with latency."
+    },
+    {
+      "sha": "3d1540eac06487ea8e8aa6ebca8cc5726bcda212",
+      "author": "sonicfind",
+      "summary": "Re-add playback buffer",
+      "description": "This better not increase latency."
+    }
+  ]
+}
