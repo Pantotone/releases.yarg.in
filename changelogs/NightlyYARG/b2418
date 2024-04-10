@@ -1,0 +1,40 @@
+{
+  "commits": [
+    {
+      "sha": "c61f09be176ed7bab08f6c91ed6ecf75e7a67fb3",
+      "author": "EliteAsian123",
+      "summary": "Change version to `v0.12.3`",
+      "description": ""
+    },
+    {
+      "sha": "b1281e35e81ebc1ad7f7d051fb73335e8a0424f0",
+      "author": "EliteAsian123",
+      "summary": "Added Twitter social button on the main menu",
+      "description": ""
+    },
+    {
+      "sha": "4fb27063e9b451b6cde358c2ba9f88cea9ec8062",
+      "author": "EliteAsian123",
+      "summary": "Add warning for devices not showing up if the player doesn't press an input",
+      "description": ""
+    },
+    {
+      "sha": "67360d9ebbf1603b9e52bb562982640672defc32",
+      "author": "EliteAsian123",
+      "summary": "Fixed profiles from not saving if no previous profiles file existed",
+      "description": ""
+    },
+    {
+      "sha": "5e6bd3f33f4d995292c57902397364b258cae88a",
+      "author": "TheFatBastid",
+      "summary": "Fixed venue count on song restart (#739)",
+      "description": "* Fixed venue count on song song restart\r\n\r\nAdded count to debug overlay. formatting.\r\n\r\n* space\r\n\r\n* why did that get added back...\r\n\r\n* formatting\r\n\r\n* Removed unneeded tokens from non-timed primitives\r\n\r\n* formatting"
+    },
+    {
+      "sha": "e8bfa8b591909eed190fb9662edd84b74b1b080a",
+      "author": "EliteAsian123",
+      "summary": "Fixed log being spammed when renaming profile",
+      "description": ""
+    }
+  ]
+}
