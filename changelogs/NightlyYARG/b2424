@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "6de3dbf8b5c6386cdc58a60890c0e91bc6d310ea",
+      "author": "sonicfind",
+      "summary": "Allow toggling stem volumes in the music library menu",
+      "description": "+ YARG.Core"
+    },
+    {
+      "sha": "a02d291927388bc1c91d2eb6c69c0e96c1e7fb51",
+      "author": "sonicfind",
+      "summary": "Fix Syncthread join error",
+      "description": ""
+    }
+  ]
+}
