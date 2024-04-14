@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "10690dc3ab27a4b949f76085b352b15bf75678b1",
+      "author": "TheFatBastid",
+      "summary": "Bug fix for Dischord and formatting (#740)",
+      "description": "* Bug fix for Dischord and formatting\r\n\r\nDischord was enabling all of its primitives when it was enabled, since it swaps between the two blue patterns it shouldn't turn them both on at the same time.\r\n\r\n* Cue change information translation string fix\r\n\r\nWas pointing to an non - existent localization string for some reason, odd."
+    }
+  ]
+}
