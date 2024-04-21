@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "20ff21843bac774d43d1707afd9ac0e1940df93f",
+      "author": "TheFatBastid",
+      "summary": "Removed Strobe and Fog from Cue Change channel (#742)",
+      "description": "* Removed Strobe and Fog from Cue Change channel\r\n\r\nThere are instances when a strobe or fog call will happen the same frame as a light cue, in that case the cue change channel will miss one of them. This change means the fog and strobe state should be read directly from their respective existing state channels.\r\n\r\n* Updated dmx cue channel setting description\r\n\r\n* typo fiix"
+    }
+  ]
+}
