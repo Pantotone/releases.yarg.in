@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "40620f3364abe52ca849ad468c04d8abe2ceaaf8",
+      "author": "W-Livi",
+      "summary": "separate labels for 5-lane drum bindings (#744)",
+      "description": "* separate labels for 5-lane drum bindings\r\n\r\n5-lane drums bindings previously reused the 4-lane localization strings, meaning the numbers were weird and Orange Cymbal was just blank. giving 5L its own strings means we can label orange and uniquely number all five lanes.\r\n\r\n* rebranding 4L drum bind strings\r\n\r\ngiving the four-lane drum pad/cymbal string ids a similar prefix as I'd given the five-lane ones.  also, consolidating both 4l/5l kicks into a single string, for potential reuse later"
+    }
+  ]
+}
