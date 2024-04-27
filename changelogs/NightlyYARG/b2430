@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "2234bdf5d362003102e498ecf1e9cf8fdf9a7f88",
+      "author": "sonicfind",
+      "summary": "Address < 0 position error",
+      "description": "mmmmmm floating points"
+    },
+    {
+      "sha": "5e11775ed0e146480e175efdae207b8c4755fca2",
+      "author": "sonicfind",
+      "summary": "Add Audio Playback Buffer Customization (#748)",
+      "description": "* Fix UnityEditor muting\r\n\r\n* Implement buffer length customization\r\n\r\n+ Update YARG.Core\r\n\r\n* Update Play() calls with explicit booleans\r\n\r\n + Update BassStemMixer's Play_Internal() to fill the buffer entirely if active\r\n\r\n* Update Buffer customization behavior\r\n\r\n+ Auto-deduct the buffer amount from the return value of GetPosition() when the buffer is used\r\n\r\n* Some calibrator updates\r\n\r\n* Update FadeIn volume to double\r\n\r\n* Add loop functionality to BassStemMixer\r\n\r\n* Fix some formatted errors\r\n\r\n* Change buffer setting text descriptions\r\n\r\n* Account for buffer length on preview fadeout\r\n\r\n* Update YARG.Core"
+    }
+  ]
+}
