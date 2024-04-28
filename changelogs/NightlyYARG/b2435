@@ -1,0 +1,34 @@
+{
+  "commits": [
+    {
+      "sha": "83307e584b5763218f5bb4625aba4c8b7a095861",
+      "author": "EliteAsian123",
+      "summary": "Added `.ttf` to LFS gitattributes",
+      "description": ""
+    },
+    {
+      "sha": "ac0f184792e1c6bd4eef24bf7dc75507eb910ff2",
+      "author": "rk-exxec",
+      "summary": "Add fallback font for fullwidth characters (code page FF01-FFE3) (#752)",
+      "description": "* add fallback font for fullwidth characters\r\n\r\n* Add NotoSans folder to Arts/Fonts and add fallback to barlow font\r\n\r\nAlso remove old noto sans font assets\r\n\r\n* remove notosans fallback from liberation sans\r\n\r\n* font license mention\r\n\r\n* add font assets fallback etc\r\n\r\n* update lfs"
+    },
+    {
+      "sha": "9f9839c0d353c7ae6c167f98a69f4b12f918d429",
+      "author": "EliteAsian123",
+      "summary": "Use LFS on all `.jpg` instead of just in `Assets/Art/*` (+ additional gitattribute changes)",
+      "description": ""
+    },
+    {
+      "sha": "50fb80eb089eb98d627a868d40972f908af40328",
+      "author": "EliteAsian123",
+      "summary": "Use LFS on all `.exr` instead of just in `Assets/Art/*`",
+      "description": ""
+    },
+    {
+      "sha": "cdafc7e2dc0178b003ad5cefcdf8acef16cb5038",
+      "author": "EliteAsian123",
+      "summary": "Use LFS on all `.png` instead of just in `Assets/Art/*`",
+      "description": ""
+    }
+  ]
+}
