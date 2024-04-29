@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "825ced41918a0d895684e50eba0bddc6033a27ac",
+      "author": "sonicfind",
+      "summary": "Ignore physically missing songs in the musicplayer",
+      "description": "The music player will attempt multiple times to load a song, accounting for songs that were quick-scanned in but aren't physically present."
+    }
+  ]
+}
