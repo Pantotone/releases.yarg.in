@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "6fc54c500767efa3855dd94479a4d3544b0227fc",
+      "author": "sonicfind",
+      "summary": "More conservative mixer & update thread usage",
+      "description": "+ Update YARG.Core"
+    }
+  ]
+}
