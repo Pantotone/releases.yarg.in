@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "9f7394a608182665b6c58821f70341b38ac84589",
+      "author": "sonicfind",
+      "summary": "Remove double `Play` calls on EndOfSong practice reset",
+      "description": ""
+    },
+    {
+      "sha": "9c4f5fe8c5ad5125a123d695101dbfff784965b5",
+      "author": "sonicfind",
+      "summary": "Numerous Core hotfixes (+Cache version update)",
+      "description": "Handles some prior errors regarding path-related ini modifiers and file handle limits with CONs during scanning."
+    }
+  ]
+}
