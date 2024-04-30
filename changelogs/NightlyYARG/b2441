@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "e2059ceacff738c62a3619a42093ef9f92477d73",
+      "author": "sonicfind",
+      "summary": "Revert to prior preview loop format",
+      "description": ""
+    }
+  ]
+}
