@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "ccf64a64176325f1a35ea1b5dbd896e5b17c08bd",
+      "author": "sonicfind",
+      "summary": "Address null ref in Core",
+      "description": ""
+    }
+  ]
+}
