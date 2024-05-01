@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "9b49517075bd924ad3ee1be979cbea2d7016d438",
+      "author": "sonicfind",
+      "summary": "Hold ParsedSources by SortString over string",
+      "description": "Improved consistency in queries (looking at you, JRabes & DHC pack)"
+    },
+    {
+      "sha": "3bea68fb0abba05e877291e68e77b84f85be1794",
+      "author": "vinaykapadia",
+      "summary": "Open email links. (#747)",
+      "description": "Co-authored-by: Vinay Kapadia <dev@vkapadia.com>"
+    }
+  ]
+}
