@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "872a83fa09371ea6729f416a3973812ebadd1ff3",
+      "author": "vinaykapadia",
+      "summary": "Status Bar Improvements (#751)",
+      "description": "* Status Bar Improvements\r\n\r\nMoves Status information to the right and Build information to the left. Adds Time and Battery info.\r\n\r\n* Add toggle settings.\r\n\r\n* Add memory stats option. Organize status bar options.\r\n\r\n* Fixing naming conventions.\r\n\r\n* Adding memory icon to status bar.\r\n\r\n* Fixing alignment.\r\n\r\n* Converting to sprite sheet.\r\n\r\n---------\r\n\r\nCo-authored-by: Vinay Kapadia <dev@vkapadia.com>"
+    },
+    {
+      "sha": "cc41afd7d5fdffcac9a60dc4dd08bfb5bbbeddfd",
+      "author": "TheNathannator",
+      "summary": "PS4/5 Riffmaster support (Update PlasticBand-Unity to v0.7.0)",
+      "description": ""
+    }
+  ]
+}
