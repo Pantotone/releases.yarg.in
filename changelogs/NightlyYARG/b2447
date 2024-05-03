@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "ec2623e3cc9571e718456b422989be1141ad5503",
+      "author": "rk-exxec",
+      "summary": "proper fallback for all used fonts to NotoSans, new overflow setting in Popup Menu (#758)",
+      "description": ""
+    }
+  ]
+}
