@@ -1,0 +1,22 @@
+{
+  "commits": [
+    {
+      "sha": "755a1ae66898bed0a43d38f676c9f8bacb526c84",
+      "author": "EliteAsian123",
+      "summary": "Auto reconnect profiles by default",
+      "description": ""
+    },
+    {
+      "sha": "f0aa40dae74148984a19effd795f7b55966b21f9",
+      "author": "vinaykapadia",
+      "summary": "Allow Profile to Auto Connect. (#750)",
+      "description": "* Allow Profile to Auto Connect.\r\n\r\n* Auto connect to previously connected profiles.\r\n\r\n* Missed pushing the Settings files.\r\n\r\n* Add strings.\r\n\r\n---------\r\n\r\nCo-authored-by: Vinay Kapadia <dev@vkapadia.com>"
+    },
+    {
+      "sha": "9a85c2dacdca262ca90199c7c09051b54dad9dce",
+      "author": "rk-exxec",
+      "summary": "Wider text field for playlist category header text (#754)",
+      "description": "* separate text field for category header text\r\n\r\n* use type to determine if its a section header\r\n\r\n* use virtual property rather than typecheck\r\n\r\n* use primary text list instead of manual fetch"
+    }
+  ]
+}
