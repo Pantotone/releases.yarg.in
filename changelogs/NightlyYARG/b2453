@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "398d5db9228b8151fc8911a916d3482355e0446c",
+      "author": "poliwhirlge",
+      "summary": "Re-implement holding down the orange fret for section navigation in MusicLibrary (#756)",
+      "description": "* Re-implement holding down the orange fret for section navigation\r\n\r\n* small fixes\r\n\r\n* create HoldContext timers within MusicLibrary instead\r\n\r\n* code style/organization fixes\r\n\r\n* Moved function"
+    },
+    {
+      "sha": "10f45805f89926109c5de1295839c9f12b94a7a3",
+      "author": "rk-exxec",
+      "summary": "Update fonts to static atlas and remove all but 2 fallback NotoSans fonts with dynamic atlas (#762)",
+      "description": "* Update fonts  to static atlas\r\n\r\nand only 2 fallback noto sans with dynamic atlas\r\n\r\n* Resize Font atlas to 1024 for RHD Bold & SemiBold\r\n\r\nfxes blobby text in main menu\r\n\r\n* Fallback fonts have updated\r\n\r\nthe dam fallback font stuff again didnt show up on the initial commit, why?\r\n\r\n* setting to clear dyn font chache on build"
+    }
+  ]
+}
