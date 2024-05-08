@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "2e2c42ec70f1df29ebe2a88e8d4e26355a181d73",
+      "author": "sonicfind",
+      "summary": "Fix CON and sixfret scanning errors",
+      "description": "+ Updates to Core module"
+    }
+  ]
+}
