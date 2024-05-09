@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "9d94d8b8d56b0f2904f48e6798e1a78e323670a7",
+      "author": "TheNathannator",
+      "summary": "Fix PS4/5 Riffmaster off-by-one issues (Update PlasticBand-Unity to v0.7.1)",
+      "description": ""
+    }
+  ]
+}
