@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "30a5d1fdc428ce8ad29aba8cde4d8f06b8cc0f76",
+      "author": "poliwhirlge",
+      "summary": "Fix More Options menu not opening on click (#766)",
+      "description": "* Fix more options not opening when clicked\r\n\r\n* Remove unnecessary import\r\n\r\n* Move Invoke on HelpBarButton to OnPointerDown to match fret buttons"
+    }
+  ]
+}
