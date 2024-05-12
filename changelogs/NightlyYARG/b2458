@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "d642e3e50b6c65a4e3312369d5456a81f5a1ea37",
+      "author": "TheNathannator",
+      "summary": "Fix a drums chart loading error involving disco flip",
+      "description": ""
+    },
+    {
+      "sha": "975fbaab24ab9884adb49e3b45d7a3e9f274df81",
+      "author": "TheNathannator",
+      "summary": "Fix potential venue auto-generation bug",
+      "description": "Fails when the track's difficulty dictionary doesn't contain Expert\nAlso contains other changes to go with the refactor done in Core to facilitate this fix"
+    }
+  ]
+}
