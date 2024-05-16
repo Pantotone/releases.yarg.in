@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "2a56311ba8c93bbdad7385e2d9f31f2baf19c19e",
+      "author": "TheFatBastid",
+      "summary": "sACN rewrite and expansion (#759)",
+      "description": "* Removed Strobe and Fog from Cue Change channel\r\n\r\nThere are instances when a strobe or fog call will happen the same frame as a light cue, in that case the cue change channel will miss one of them. This change means the fog and strobe state should be read directly from their respective existing state channels.\r\n\r\n* Updated dmx cue channel setting description\r\n\r\n* typo fiix\r\n\r\n* sACN rewrite and expansion\r\n\r\n* Removed magic numbers and NYIed stuff\r\n\r\n* Description localization strings updated\r\n\r\n* Consolidated Events\r\n\r\n* Adjust how sustains are managed\r\n\r\n* Added Universe setting, adjusted sustain handling\r\n\r\n* Moved some fog/strobe from stagekithardware to the interpreter\r\n\r\n* fixed stage kit pause\r\n\r\n* Removed unneeded Queues, reworked switch statements\r\n\r\n* changed 'drum' to 'drums'\r\n\r\n* Removed debug code. Localizations FINALLY showed up\r\n\r\n* Missed a <<\r\n\r\n* finished logic changes\r\n\r\n* Updated strings\r\n\r\n* Used ChordEnumerator\r\n\r\n* updated how chart diff is gotten."
+    }
+  ]
+}
