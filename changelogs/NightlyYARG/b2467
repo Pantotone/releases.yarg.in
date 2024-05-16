@@ -1,0 +1,52 @@
+{
+  "commits": [
+    {
+      "sha": "0e073037aaffc37507c509d333f0655af510dbd7",
+      "author": "TheNathannator",
+      "summary": "Ensure a cleared XInput gamepad is re-prompted for when re-added",
+      "description": ""
+    },
+    {
+      "sha": "f69d4f766584bd3eada36dc7d9ee8e3dc3002493",
+      "author": "TheNathannator",
+      "summary": "Don't assign default bindings if a device already has some",
+      "description": ""
+    },
+    {
+      "sha": "a0c06254deb54b3a6b67bf2e8f67c12639e97080",
+      "author": "TheNathannator",
+      "summary": "Allow clearing a device's bindings when removing it",
+      "description": ""
+    },
+    {
+      "sha": "366c5a82d33ca47edb73157dd21b5fad46167c8a",
+      "author": "TheNathannator",
+      "summary": "Add list dialog variant that allows settings",
+      "description": ""
+    },
+    {
+      "sha": "a1f08de483981188f327c93662b02f9f9a2cd4ea",
+      "author": "TheNathannator",
+      "summary": "Add prompt for easier setup of WiitarThing/RB4InstrumentMapper instruments",
+      "description": ""
+    },
+    {
+      "sha": "2a366c356a8861a908831b31877dd6655dc7f454",
+      "author": "TheNathannator",
+      "summary": "Don't require manually closing dialog in list button handlers",
+      "description": ""
+    },
+    {
+      "sha": "ba63fb26601debb5ff1be8becb2dde1ec070c8ad",
+      "author": "TheNathannator",
+      "summary": "Split up default bindings code into multiple files",
+      "description": ""
+    },
+    {
+      "sha": "85f13f0c54791ced6d876b4aa31342aa8715fbee",
+      "author": "TheNathannator",
+      "summary": "Add default binds for RB solo frets/Riffmaster joystick",
+      "description": ""
+    }
+  ]
+}
