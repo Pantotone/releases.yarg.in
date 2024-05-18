@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "40f2e8d99bd7d480ff7eb76ea8a82a21c23b8b55",
+      "author": "poliwhirlge",
+      "summary": "Display song info on difficulty select (#775)",
+      "description": ""
+    }
+  ]
+}
