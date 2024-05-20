@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "f7d488985858eeea5b8af9466f1d864181f11065",
+      "author": "RileyTheFox",
+      "summary": "Optimise away LINQ from pitch detection for 3x performance increase and zero allocations",
+      "description": ""
+    },
+    {
+      "sha": "20e573a11661d4846c034f24365570d9993c02be",
+      "author": "W-Livi",
+      "summary": "update 4L Cymbal binding strings to account for Lefty Flip (#757)",
+      "description": "* Update Bindings_en-US.asset\r\n\r\n* correct typo\r\n\r\n* separate Green/Red Cymbal strings depending on Lefty toggle\r\n\r\nControlBinding can now hold an alternate name string, for display when profile has lefty-flip enabled. BindHeader will look at the profile's lefty setting, and adopt the appropriate string.\r\n\r\nUsing this, four-lane Green/Red Cymbal binding has been given separate labels for Green and Red.\r\n\r\n* correcting for style/conventions\r\n\r\nrenamed namelefty to nameLefty in several c'tors, and moved some curly braces on their own lines."
+    }
+  ]
+}
