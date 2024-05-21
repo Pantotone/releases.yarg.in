@@ -1,0 +1,22 @@
+{
+  "commits": [
+    {
+      "sha": "973a8edf6b83a2671c48c4d4067dd286e0dbdf7e",
+      "author": "TheFatBastid",
+      "summary": "Added sACN license to readme (#778)",
+      "description": ""
+    },
+    {
+      "sha": "80191f71e0cad7a7882bbff594d7aa13980a7b19",
+      "author": "TheFatBastid",
+      "summary": "RB3E limited data stream implemention (#743)",
+      "description": "* RB3E limited data stream implemention\r\n\r\nThis adds an opt-in data stream subset of the one used in RB3E, this one is only for stage kit cue calls so that hardware like StageKitPied can be used.\r\n\r\n* Addressable fix\r\n\r\n* Added the hardware to persistent scene\r\n\r\n* On app quit added"
+    },
+    {
+      "sha": "f573db6a341ee2c8dd08eaee369b789a390c5401",
+      "author": "EliteAsian123",
+      "summary": "Implement \"High Score\" on score cards on score screen",
+      "description": ""
+    }
+  ]
+}
