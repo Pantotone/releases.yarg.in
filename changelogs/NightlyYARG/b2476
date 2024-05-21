@@ -1,0 +1,22 @@
+{
+  "commits": [
+    {
+      "sha": "55b1adadad428fe672728ab5dbfe623eed418725",
+      "author": "TheFatBastid",
+      "summary": "Removed udp port binding (#780)",
+      "description": "Vestigial oversight from when this library also received. Shouldn't bind to a port when just sending."
+    },
+    {
+      "sha": "7b1752cb0bb0e6491f1c5d5b91e3156820cae7f0",
+      "author": "sonicfind",
+      "summary": "Fix library not clearing on refresh",
+      "description": "Includes when changing the currently available game modes as specified by active profiles"
+    },
+    {
+      "sha": "be67ddb3d8843df93e589f149f6897e5a70bb662",
+      "author": "sonicfind",
+      "summary": "Implement Instrument Sorting (#777)",
+      "description": "* Implement per-instrument sorting + Instrument filter changes\r\n\r\nAdditionally, include a sort that solely selects songs that can be played based on currently active instruments.\r\n\r\n+ Adds a separate SortAttribute enum type.\r\n+ Change instrument filters to search by intensity. Note: THERE IS NO FILTER OPTION IN THE SEARCH BAR FOR EACH INSTRUMENT! THIS WILL NEED TO BE ADDRESSED!\r\n\r\n* Reset Playable sort to Name if all players are removed\r\n\r\n* Use ToString() for popupmenu instrument sort options\r\n\r\nBecause we can't use `ToLocalizedName()` in the scanner thread, we should probably change it here too, to match.\r\n\r\n* Revert some localization changes\r\n\r\n* More optimal searchquery reset behavior\r\n\r\n* Remove search refresh functionality\r\n\r\nGeneral simplifications\r\n\r\n* Require \":'\" for instrument filter\r\n\r\n* Remove \"Instrument\" filter button\r\n\r\n* Fill SongContainer dictionaries on the main thread\r\n\r\n+ Use the localized names of instruments for displays/categories\r\n+ Update localized names to distinguish five-fret from six-fret\r\n\r\n* ToLower search queries\r\n\r\n* Add separate localizations for SortAtribute values\r\n\r\n* Remove search specializations that use the Instrument enum\r\n\r\nInstrument filtering is a different process from sorting - where sorting by instrument should utilize the specific sortAttribute value. Therefore, there's no need to hold nor pass an instrument enum around.\r\n\r\n* Revert accidental font changes\r\n\r\n* Fix the double-category setup leading to an incorrect index being set\r\n\r\n* Update Core"
+    }
+  ]
+}
