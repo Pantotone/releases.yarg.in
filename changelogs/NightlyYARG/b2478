@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "a77408fe92705a24bf4d73aebe30307dc04ed131",
+      "author": "EliteAsian123",
+      "summary": "Updated music library icons",
+      "description": ""
+    },
+    {
+      "sha": "f6fc5a82a9dd26e0701f7603feecfd2041f154dd",
+      "author": "EliteAsian123",
+      "summary": "Make the back button in the music library exit out of the playlists screen (if you're in it)",
+      "description": ""
+    }
+  ]
+}
