@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "f6440f74c928af3476f2127efc5e8f2def7337c1",
+      "author": "vinaykapadia",
+      "summary": "Rescan popup action (#781)",
+      "description": "* Actionable Toasts\r\n\r\n* On rescan required message, clicking Toast goes to Settings page.\r\n\r\n---------\r\n\r\nCo-authored-by: Vinay Kapadia <dev@vkapadia.com>"
+    }
+  ]
+}
