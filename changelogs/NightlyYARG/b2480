@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "dc2e14911eab5c056a64428a0c17c7a0c3d61d1f",
+      "author": "TheFatBastid",
+      "summary": "Linux Stage Kit hang on exit fix (#783)",
+      "description": "For some reason, on linux the stage kit doesn't shut off properly. Hopefully this fixes it."
+    }
+  ]
+}
