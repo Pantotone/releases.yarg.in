@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "a6a9abea9374175f02ecc6b5e0fb35f5619872c4",
+      "author": "TheFatBastid",
+      "summary": "Added Master Dimmer values setting (#784)",
+      "description": "An advanced setting, this allows the Master Dimmers to be set to something other than 255 on game start, as some fixture don't have 100% at 255 for some reason..."
+    }
+  ]
+}
