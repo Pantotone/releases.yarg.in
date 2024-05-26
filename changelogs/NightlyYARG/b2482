@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "66d0d0ada6d9513bdb62204644712cd523729e65",
+      "author": "sonicfind",
+      "summary": "Address SortInstruments not being cleared",
+      "description": ""
+    }
+  ]
+}
