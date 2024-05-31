@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "d83ea379994aec348f993baaf93aea733f90f2a3",
+      "author": "sonicfind",
+      "summary": "Additional Refactor Around Sorting & Searching (#788)",
+      "description": "* Refactor sorting and searching around arrays instead of lists & IEnumerables\r\n\r\n+ Establish `Fuzzy` as the default search - we now use `Contains` as a result value specifier in unspecified ranking (comes with fix to application of `Exact` search mode).\r\n+ Obviously, do away with a lot of the IEnumerable usage - instead utilizing direct arrays.\r\n+ Other SongSearch refactors\r\n\r\n* Use stackalloc in fuzzy search\r\n\r\n* Use `Exact` search for Icon, Text, and DifficultyRing clicks\r\n\r\n* Fix incorrect fuzzy behavior\r\n\r\n* Remove breakpoint log\r\n\r\n* Use `exact` for sidebar clicks\r\n\r\n* Add SortAttribute -> Instrument extension\r\n\r\n* Fix instrument filtering\r\n\r\nSmall issue is that there is no filter button to deselect for the instruments. You can only choose to clear the entire search (all filters) to remove it. But oh well - problem for later."
+    }
+  ]
+}
