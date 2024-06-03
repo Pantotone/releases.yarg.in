@@ -1,0 +1,34 @@
+{
+  "commits": [
+    {
+      "sha": "76b4ae8c093e842a534fdc32567a6c8ad871fb32",
+      "author": "sonicfind",
+      "summary": "Special handling for empty strings during search",
+      "description": "+ Don't add empty filter nodes\n+ Auto-fail empty song metadata in fuzzy search if the filter argument has more than 1 character"
+    },
+    {
+      "sha": "912e55c2171d43a70626390fe6346782e4a3d5cc",
+      "author": "sonicfind",
+      "summary": "Account for extra whitespace during sorting",
+      "description": "Reverts the prior commit, instead updating Core"
+    },
+    {
+      "sha": "344a5b18d1861940ad215abc4767025198e8f719",
+      "author": "sonicfind",
+      "summary": "Account for extra whitespace in song metadata with *exact* search",
+      "description": ""
+    },
+    {
+      "sha": "3704c8a60271a0ecf256e43a330ed14e6dcbf935",
+      "author": "sonicfind",
+      "summary": "Fix incorrect removal of spaces in search",
+      "description": ""
+    },
+    {
+      "sha": "c8b11595ef318d792680fa3c22aa38a87594eaab",
+      "author": "sonicfind",
+      "summary": "Overhaul Texture Loading With New Image Functionality (#782)",
+      "description": "* Utilize new image loading functionality for album art and source icons\r\n\r\n+ requires extensions for YARGImage & RawImage that use unity structures and functions\r\n\r\n* Dispose of YARGImage object when loading source icons\r\n\r\n* Minor SongSource string optimizations\r\n\r\n* Update to general sprite loading\r\n\r\n+ Loads the source icon sprites of songs present in a user's library at scan time. This addresses the problem of source icon loading taking processing time when opening or scrolling through the music library menu.\r\n\r\n+ Allows simplifications across the board to remove overreliance of async processing\r\n\r\n* Update Background loading to match Core\r\n\r\n+ Removes VenueInfo type\r\n\r\n* Fix flipped background image\r\n\r\n* Fix Difficultymenu source error\r\n\r\n* Wrap AtomicSafetyHandle checks in ENABLE_UNITY_COLLECTIONS_CHECKS macros\r\n\r\nWithout these, any attempts to make a build would fail.\r\n\r\n* Add STB2CSharp plugins\r\n\r\nThanks to Vinay Kapadia <dev@vkapadia.com> for the mac lib\r\n\r\n* Remove TextureBuffer struct\r\n\r\n* Silence `nullable` warnings\r\n\r\n* Update Linux STB plugin\r\n\r\n* ImageExtensions memory optimizations\r\n\r\nDirectly access the memory allocated by the Texture2D object. For Grayscale, that means using the texture's memory as the \"result\" variable. For DXT images, we do the byte swapping directly into that memory instead of in our own copy.\r\nThis also allows us to remove the branching for mipmap generation as we no longer need to creates a NativeArray struct around our copy of fixed memory.\r\n\r\n+ Remove static Run functions for the grayscale jobs\r\n\r\n* Add lock around image deletion & creation\r\n\r\nIt's possible that the threading could make two textures try to load within the same interval. Just in case, a single minor lock will keep *that* sequence sequential.\r\n\r\n* Update MacOS plugin\r\n\r\n* Call SongSources's LoadSprites from SongContainer.RunRefresh\r\n\r\nEnforces the reset regardless of where a scan is called.\r\n\r\n* Remove ViewObject Icon try-catch\r\n\r\n* Remove ViewObject cancellation token behavior\r\n\r\n* Revery downIcon caching\r\n\r\nUnity caches the result under the hood already\r\n\r\n* Remove incorrect comment\r\n\r\n* Update YARG.Core"
+    }
+  ]
+}
