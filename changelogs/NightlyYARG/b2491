@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "4069c523c3cf34ccb09eab4f8eb581db5fdf44c0",
+      "author": "sonicfind",
+      "summary": "Apply HashWrapper update",
+      "description": ""
+    }
+  ]
+}
