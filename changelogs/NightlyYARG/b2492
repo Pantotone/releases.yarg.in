@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "64583415317b758b39d5f79b51e4f70d7ad84042",
+      "author": "EliteAsian123",
+      "summary": "Update YARG.Core to fix hashes not serializing correctly",
+      "description": ""
+    }
+  ]
+}
