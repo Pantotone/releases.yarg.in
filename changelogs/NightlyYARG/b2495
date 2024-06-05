@@ -1,0 +1,22 @@
+{
+  "commits": [
+    {
+      "sha": "dfe3311cbe2e73474ddf95340cd1edaacdec1b75",
+      "author": "sonicfind",
+      "summary": "One more hash update for the road",
+      "description": ""
+    },
+    {
+      "sha": "065263e9147ad23997d0d5cd5c9731ce7bae835c",
+      "author": "EliteAsian123",
+      "summary": "Fixed missing using statement",
+      "description": ""
+    },
+    {
+      "sha": "61cbd275c8362916d453747ba19f690c9c97236e",
+      "author": "EliteAsian123",
+      "summary": "Update YARG.Core to fix hashes not serializing correctly (FOR SURE THIS TIME)",
+      "description": ""
+    }
+  ]
+}
