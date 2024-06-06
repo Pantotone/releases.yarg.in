@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "6dd27f97663734ef1d1fd16d8c0d1f44e2e2c138",
+      "author": "TheFatBastid",
+      "summary": "Changed callbacks to lamdas (#789)",
+      "description": "* Linux Stage Kit hang on exit fix\r\n\r\nFor some reason, on linux the stage kit doesn't shut off properly. Hopefully this fixes it.\r\n\r\n* Changed callbacks to lamdas\r\n\r\nRemoved unneeded  IsInitialized checks\r\n\r\n* Update SacnInterpreter.cs\r\n\r\n* Fixed start-up for DMX and Stage Kit\r\n\r\nDMX and Stage Kit would work right in editor but not build. In build, on start, DMX and Stage Kit wouldn't get set to anything. This is fixed by removing the dependency on OnSceneLoaded and using the new MasterLightingInitalizer on every scene.\r\n\r\n* Update StageKitInterpreter.cs\r\n\r\n* Formatting changes\r\n\r\nAlso moved a function that was in the wrong spot\r\n\r\n* Removed unneeded stuff\r\n\r\n* PascalCase"
+    },
+    {
+      "sha": "c0e8588b5ce5225cf83a57afa83025ad680d2bce",
+      "author": "Xilophor",
+      "summary": "Remove Code Snippet; Reference the One in YARG.Core instead. (#791)",
+      "description": "Removes the code snippet that was moved to YARG.Core in PR #177"
+    }
+  ]
+}
