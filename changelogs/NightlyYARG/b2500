@@ -1,0 +1,22 @@
+{
+  "commits": [
+    {
+      "sha": "bc486c8728690f77d623e94d19f45fe3a10f4083",
+      "author": "sonicfind",
+      "summary": "Don't remove Articles from search queries",
+      "description": "Articles only mattered when *sorting* entries. Giving as much info as possible for searches to work with only makes finding songs easier."
+    },
+    {
+      "sha": "53e745ebe00c61b69b6d8c2743ceda8549ee045d",
+      "author": "sonicfind",
+      "summary": "Reorder search results to put items that contain the query first",
+      "description": ""
+    },
+    {
+      "sha": "b862483dc02f57bc1c0686e33b59af99ca899a15",
+      "author": "sonicfind",
+      "summary": "Replace SortStr usage with SearchStr",
+      "description": ""
+    }
+  ]
+}
