@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "eb14c7ccee2f4c4204ad8aa12c1a72547cc5a974",
+      "author": "sonicfind",
+      "summary": "So much",
+      "description": ""
+    },
+    {
+      "sha": "08832aa9c8848918c6d623b92477bd9934e1cb5a",
+      "author": "sonicfind",
+      "summary": "I love formatting hash strings",
+      "description": ""
+    }
+  ]
+}
