@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "30927d1539f378549fe2bf1782985b957aec1f85",
+      "author": "Xilophor",
+      "summary": "Remove articles from section names for section browsing (#795)",
+      "description": ""
+    }
+  ]
+}
