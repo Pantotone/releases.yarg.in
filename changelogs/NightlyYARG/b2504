@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "a39c09e6bf411a1c850140f18bcc1645d2145984",
+      "author": "sonicfind",
+      "summary": "Fix incorrect exact search for artists",
+      "description": ""
+    }
+  ]
+}
