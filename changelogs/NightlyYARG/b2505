@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "2d55c28b320673aace89e0146a8675d2b8d3b56b",
+      "author": "RileyTheFox",
+      "summary": "Use Git commit information for Game Version (#797)",
+      "description": "* Get current commit information as game version\r\n\r\n* Change nightly build tag\r\n\r\n* Error handling for version fetching\r\n\r\n* Check Resources directory exists\r\n\r\n* Create no terminal window for git commands\r\n\r\n* Change static method to instance method"
+    }
+  ]
+}
