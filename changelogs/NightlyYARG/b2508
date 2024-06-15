@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "8e43014f7ad07c835f64ec3c5d583fe6e1f448a4",
+      "author": "sonicfind",
+      "summary": "Remove async file buffer modifications",
+      "description": "With playback buffer customization, this may not be necessary anymore. Maybe this helps in certain circumstances."
+    }
+  ]
+}
