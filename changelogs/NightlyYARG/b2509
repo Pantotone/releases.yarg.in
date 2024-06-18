@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "c4662a4ee8ac424e5a4e752b8c46dbe77fd51d24",
+      "author": "TheNathannator",
+      "summary": "Xbox One instrument support! (Update PlasticBand-Unity to v0.8.0, and HIDrogen to v0.3.0)",
+      "description": "Supports RB4 guitars/drumkits, XB1 Riffmasters, and XB1 GHL guitars"
+    }
+  ]
+}
