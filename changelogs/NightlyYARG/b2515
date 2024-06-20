@@ -1,0 +1,40 @@
+{
+  "commits": [
+    {
+      "sha": "ab8a638316db465a519459791eeae50f23e3e6b7",
+      "author": "TheNathannator",
+      "summary": "Fix debug text per-frame allocation",
+      "description": "Nullable enum types aren't specially formatted"
+    },
+    {
+      "sha": "b54751920e21f8ee9f13bc9241a923432cd95f0b",
+      "author": "TheNathannator",
+      "summary": "Fix note group caches being re-allocated on each initialization",
+      "description": ""
+    },
+    {
+      "sha": "d7287862ce8f5481b5b8da56d5da92a16fb67d98",
+      "author": "TheNathannator",
+      "summary": "Get rid of some .ForEach usages to reduce gameplay memory allocations",
+      "description": ""
+    },
+    {
+      "sha": "eb928cce38719fb02c9ca6d77efcf2925eb5b75f",
+      "author": "TheNathannator",
+      "summary": "Fix per-frame allocation in InputManager",
+      "description": ""
+    },
+    {
+      "sha": "21be1ba1204992950f75b675377b682f0272ddfb",
+      "author": "TheNathannator",
+      "summary": "Refactor stars to be more contained",
+      "description": "Hopefully gets rid of an allocation"
+    },
+    {
+      "sha": "57e46080ca47e36f9efad692a53567854e9683c2",
+      "author": "TheFatBastid",
+      "summary": "Expanded fog and strobe channels (#805)",
+      "description": "Turns out some fixtures can have a strobe or fog built right in so they each need to be addressable."
+    }
+  ]
+}
