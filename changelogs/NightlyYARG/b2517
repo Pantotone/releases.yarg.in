@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "30f579b2e1973eda7b15e9770fb55fc039d063f0",
+      "author": "TheNathannator",
+      "summary": "Display YARG.Core build errors in a dialog box",
+      "description": ""
+    },
+    {
+      "sha": "5dec84fa908a2cf030c5d28c6eee9bb5465cb77f",
+      "author": "TheNathannator",
+      "summary": "Fix binding views not being destroyed immediately when exiting binds menu",
+      "description": ""
+    }
+  ]
+}
