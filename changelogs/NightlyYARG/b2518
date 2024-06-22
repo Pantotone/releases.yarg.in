@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "1cfb07e9ccde21b2637a13699e4c7b03d3893375",
+      "author": "TheNathannator",
+      "summary": "Fix some Linux HID device issues (Update HIDrogen to v0.3.1)",
+      "description": ""
+    }
+  ]
+}
