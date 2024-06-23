@@ -1,0 +1,28 @@
+{
+  "commits": [
+    {
+      "sha": "72798626c25c337a747115ed6fb93136bb7d1bbe",
+      "author": "sonicfind",
+      "summary": "Set of Scanning Optimizations (Part 3)",
+      "description": "+ Updates YARG.Core"
+    },
+    {
+      "sha": "db0ddc28a631a2d8628430cefbd541ead83e9aa1",
+      "author": "sonicfind",
+      "summary": "Use UnmanagedMemoryStreams For Reading SongCache (Part 2) (#800)",
+      "description": ""
+    },
+    {
+      "sha": "9008618d74a0533b089d5e74b1680ebd9a11494e",
+      "author": "sonicfind",
+      "summary": "Extracted CON cache read fix",
+      "description": ""
+    },
+    {
+      "sha": "aca6589829e02f0058312774e8c4e83fa33b168c",
+      "author": "RileyTheFox",
+      "summary": "Linux Microphone Fixes (#776)",
+      "description": "* Linux mic fixes\r\n\r\n* Fix invalid address access crash when clearing buffer\r\n\r\n* Remove unnecessary pinning of stackalloc memory\r\n\r\n* Cast to short Span directly\r\n\r\n* Update BASS_FX\r\n\r\nNew patch from un4seen to fix Freeverb issues on Linux\r\n\r\n* Use device period for record period"
+    }
+  ]
+}
