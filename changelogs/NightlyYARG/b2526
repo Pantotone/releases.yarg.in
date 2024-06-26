@@ -1,0 +1,22 @@
+{
+  "commits": [
+    {
+      "sha": "c657a8044b083610c59b48b32438b4dec40dd932",
+      "author": "EliteAsian123",
+      "summary": "Also swap left and right on lefty flip",
+      "description": ""
+    },
+    {
+      "sha": "1603c08dc299982e26de374165f3b9347057eb85",
+      "author": "EliteAsian123",
+      "summary": "Swap up and down for lefty flip",
+      "description": ""
+    },
+    {
+      "sha": "01a13e76c4b32a49007fbbb037b0a3a1eabe1542",
+      "author": "EliteAsian123",
+      "summary": "Update YARG.Core for drum activation auto-gen",
+      "description": ""
+    }
+  ]
+}
