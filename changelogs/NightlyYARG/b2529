@@ -1,0 +1,22 @@
+{
+  "commits": [
+    {
+      "sha": "ec78f900036504b44a24f3ff85bb4197c8a4ae48",
+      "author": "EliteAsian123",
+      "summary": "Enable wrap around by default",
+      "description": ""
+    },
+    {
+      "sha": "fe97f00373feb6c732a5fe4671fd79006d853b9f",
+      "author": "EliteAsian123",
+      "summary": "Prevent screen from sleeping while in game",
+      "description": ""
+    },
+    {
+      "sha": "296faf253e7b945b89de193203c6603582bf2a8d",
+      "author": "Purplo-cf",
+      "summary": "Wrap-around navigation for menus (#808)",
+      "description": "* Wrap-around navigation for menus (for YARG.Core master)\r\n\r\n* Moved navigation wrapping to Settings > Other. Off by default\r\n\r\n* Moved navigation wrapping to Settings > Other. Off by default\r\n\r\n* Prevent wrap-around while Up/Down is held\r\n\r\n* Revisions from feedback\r\n\r\n* Fixed scrolling NavigationGroups not updating on wrap-around\r\n\r\n* Updates to YARG.Core"
+    }
+  ]
+}
