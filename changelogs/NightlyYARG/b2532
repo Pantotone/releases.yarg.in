@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "3cb5b7095eae19840fc23dac258647f2740d3229",
+      "author": "TheNathannator",
+      "summary": "heck (Update PlasticBand-Unity to v0.8.2)",
+      "description": ""
+    },
+    {
+      "sha": "dfe560f4fe7855b385991bf858626e94d37b58d3",
+      "author": "TheNathannator",
+      "summary": "Fix Santroller XInput 5-fret guitars being detected as 6-fret guitars (update PlasticBand-Unity to v0.8.1)",
+      "description": ""
+    }
+  ]
+}
