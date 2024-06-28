@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "2e886312e8b59c9cf3cb029d51376cb7f9c92dd2",
+      "author": "TheFatBastid",
+      "summary": "Fixed 'sluggish' stage kit lights (#809)",
+      "description": "If enabled, it would run twice at start."
+    }
+  ]
+}
