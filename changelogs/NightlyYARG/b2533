@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "a97ea45eb60e6355fafebc91191673df32dc82c7",
+      "author": "EliteAsian123",
+      "summary": "Change version to `v0.12.4`",
+      "description": ""
+    }
+  ]
+}
