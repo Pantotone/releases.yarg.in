@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "ca04718304d2f7badfe852be99b28e7d0b270581",
+      "author": "sonicfind",
+      "summary": "Address CON issues",
+      "description": "Firstly: fix improper extension handling. No cache update necessary, but you will need to run an additional scan to add the ignored files.\n\nSecondly: WHAT. THE. HELL. C3! I am soooo in love with the utter the lack of standard enforcements in tooling (or at least, old tooling)... UGHHHH!"
+    },
+    {
+      "sha": "74f49b6b8c7eb803de5e85935bde9172a7e63958",
+      "author": "TheNathannator",
+      "summary": "Wired/wireless legacy adapter support! (Update PlasticBand-Unity to v0.8.3)",
+      "description": "Note: currently requires instruments to be connected after the game is already running"
+    }
+  ]
+}
