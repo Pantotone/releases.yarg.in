@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "0cbba287381327be95cbe4a2a8531f2b5bd059f1",
+      "author": "EliteAsian123",
+      "summary": "Remove quotes at the end of files",
+      "description": ""
+    },
+    {
+      "sha": "a3ddc36897382fc3bb12acd0f8b72dbd79daa95b",
+      "author": "EliteAsian123",
+      "summary": "Fix exceptions caused by null IP and represent IP with a string to make it more readable within settings file",
+      "description": ""
+    }
+  ]
+}
