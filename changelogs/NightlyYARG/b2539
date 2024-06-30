@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "c758278c0851044e0d8dfd7a966cafe0e7083958",
+      "author": "TheNathannator",
+      "summary": "Switch PlasticBand-Unity and HIDrogen to their OpenUPM versions",
+      "description": ""
+    },
+    {
+      "sha": "f54854cbf912c669c1d8b402493115b1629e12b7",
+      "author": "sonicfind",
+      "summary": "Minor Scanning Touchups",
+      "description": "Includes two very minor bug fixes involving the duplicate songs flag and THAT'S WHAT YOU GET WHEN YOU LET YOUR HEART WIN (that is not a joke btw)."
+    }
+  ]
+}
