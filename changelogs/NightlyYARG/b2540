@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "a3507154f80d93a729597f5e06c294e66b9c33df",
+      "author": "sonicfind",
+      "summary": "Add Parallelization to Duplicate Cleanup Stage",
+      "description": "+ Add display for that stage during scanning\n+ Add some intrinsics usage to certain YARGTextReader functions"
+    }
+  ]
+}
