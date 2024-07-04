@@ -1,0 +1,28 @@
+{
+  "commits": [
+    {
+      "sha": "23b8e489768bcd4bbc4cb138c08ae02ed83ff7c7",
+      "author": "TheNathannator",
+      "summary": "Fix MIDI device crashes; implement MIDI pitch bend support (Update custom Minis fork to latest commit)",
+      "description": ""
+    },
+    {
+      "sha": "f3abcb3bde5e9993a365bb30f4121d0af6f44cb9",
+      "author": "EliteAsian123",
+      "summary": "Removed extra header in lighting peripherals tab",
+      "description": ""
+    },
+    {
+      "sha": "b4013340a4279d1ec1716f317c9914081b7cb50e",
+      "author": "EliteAsian123",
+      "summary": "Fix \"Don't Show Again\" localization key in dialog",
+      "description": ""
+    },
+    {
+      "sha": "73e4c10218150b03e543eeb96aeaf58ab9b0d112",
+      "author": "jbienz",
+      "summary": "Experimental Features Menu (No Experimental Settings Yet) (#815)",
+      "description": "* Added Beaker icon. Added Experimental section in settings. Added Experimental Preview with notice text. Added localization for text.\r\n\r\n* Added Show Experimental setting (defaults to off). Localized this setting. When enabled, adds the Experimental tab under All Settings. Added an icon for this tab if ever shown at the top.\r\n\r\n* Updated TabIcon to use Lucide icon. Made Experimental tab always visible under All Settings. Added dialog shown when entering Experimental Features. This dialog is shown once per launch and can also be marked to not show again. Added new localized strings for the dialog and title. Removed old localized  strings for the previous setting to show and hide the Experimental section.\r\n\r\n* Updated to using new localization.\r\n\r\n---------\r\n\r\nCo-authored-by: jbienz <jbienz@solersoft.com>"
+    }
+  ]
+}
