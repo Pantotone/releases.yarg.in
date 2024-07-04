@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "6757091070d45e9ab4f1f367ca9fa8cee1517d37",
+      "author": "EliteAsian123",
+      "summary": "New localization system (no switching languages yet) (#813)",
+      "description": "* Localization file loading + the localization file\r\n\r\n* New localization helper class\r\n\r\n* Convert (mostly everything) to use the new localization system\r\n\r\n* List delimiter localization\r\n\r\n* Text translator component\r\n\r\n* Percentile localization\r\n\r\n* Changed remaining components and removed localization package\r\n\r\n* Removed all existing forms of the old localization\r\n\r\n* Fixed prefab after merge\r\n\r\n* Added missing localization after merge\r\n\r\n* Localize music library categories\r\n\r\n* Fix Discord activity localization\r\n\r\n* Add more localization to various prefabs"
+    }
+  ]
+}
