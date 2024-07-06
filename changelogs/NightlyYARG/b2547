@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "50befc8fd650122ad1f9afba880ad0b9caf97861",
+      "author": "sonicfind",
+      "summary": "Address under-the-hood sort setting swap from Playable with zero players",
+      "description": "Still shows the library as if the sort swapped to By-Name, but the underlying sort type will stay as Playable Songs"
+    },
+    {
+      "sha": "73718b6afda18ce1de816b0f9ace3b0e507b7c53",
+      "author": "TheNathannator",
+      "summary": "Account for song speed in song time display",
+      "description": ""
+    }
+  ]
+}
