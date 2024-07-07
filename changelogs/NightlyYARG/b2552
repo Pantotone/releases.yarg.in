@@ -1,0 +1,22 @@
+{
+  "commits": [
+    {
+      "sha": "633c8ef0f57a6e6d8f7452eec24cc6d497d7c123",
+      "author": "sonicfind",
+      "summary": "Fix empty library on re-scan with Playable Songs Sort",
+      "description": ""
+    },
+    {
+      "sha": "5578e23097ef3d5fc1005fcf1f972994412b9e3b",
+      "author": "sonicfind",
+      "summary": "Address Some Instrument Intensity Issues (#818)",
+      "description": "* Move \"Insensity\" instrument icon shortcut to Right-Click\r\n\r\nTemporary measure until a better sorting/filtering system is in place\r\n\r\nReplaces Left-Click with prior broad filter behavior\r\n\r\n* Address incorrect intensity overrides\r\n\r\n+ Won't force a cache update, but a clear cache is required to apply the fix."
+    },
+    {
+      "sha": "3a0750ce6a3b689284bd683bf9d12b18c0faa987",
+      "author": "sonicfind",
+      "summary": "Playable Songs generation performance optimizations",
+      "description": "Down with LINQ!!"
+    }
+  ]
+}
