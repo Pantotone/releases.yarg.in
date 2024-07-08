@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "3976a425413b700e24e13b621e0513576827b32b",
+      "author": "TheNathannator",
+      "summary": "actually, *really*, fix beat event synchronization",
+      "description": ""
+    },
+    {
+      "sha": "1b211507ee1f4016231354f4e192a5f298ba875f",
+      "author": "TheNathannator",
+      "summary": "Allow debounce to be manually set above 25 ms",
+      "description": ""
+    }
+  ]
+}
