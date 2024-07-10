@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "deb5b700f873f9684957c3dbe92cef11d2ff1757",
+      "author": "TheNathannator",
+      "summary": "Work around random song scanning nullref exception",
+      "description": ""
+    },
+    {
+      "sha": "4afe3d80f876a5227605d86e6049ae238cdaea22",
+      "author": "TheNathannator",
+      "summary": "*okay fine Unity*",
+      "description": ""
+    }
+  ]
+}
