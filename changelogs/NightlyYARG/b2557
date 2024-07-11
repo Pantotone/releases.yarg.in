@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "47b5ea631098103e408c75711e7090ff41c4859b",
+      "author": "TheNathannator",
+      "summary": "Fix ZString string builder not being disposed in log callback",
+      "description": ""
+    }
+  ]
+}
