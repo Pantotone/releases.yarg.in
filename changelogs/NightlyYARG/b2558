@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "5bf88734246c52fb5a26490ee697850eaf3a7e66",
+      "author": "sonicfind",
+      "summary": "Fix scanning issues with five lane drums & some html color tags",
+      "description": "+ Requires cache version update"
+    }
+  ]
+}
