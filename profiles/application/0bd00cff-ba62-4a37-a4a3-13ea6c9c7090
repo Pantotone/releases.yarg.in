@@ -1,0 +1,70 @@
+{
+  "type": "application",
+  "uuid": "0bd00cff-ba62-4a37-a4a3-13ea6c9c7090",
+  "version": "b2559",
+  "metadata": {
+    "locales": {
+      "en-US": {
+        "name": "YARG",
+        "releaseName": "Nightly",
+        "description": "This is the nightly verison of YARG",
+        "iconUrl": "",
+        "bannerBackUrl": ""
+      }
+    },
+    "releaseDate": "2024-07-14T00:55:01Z",
+    "websiteUrl": "https://yarg.in/changelogs/nightly/b2559"
+  },
+  "content": [
+    {
+      "name": "YARG Nightly - Windows",
+      "platforms": [
+        "windows"
+      ],
+      "files": [
+        {
+          "url": "https://github.com/YARC-Official/YARG/releases/download/b2559/YARG_b2559-Windows-x64.zip",
+          "fileType": "zip"
+        }
+      ]
+    },
+    {
+      "name": "YARG Nightly - MacOS",
+      "platforms": [
+        "macos"
+      ],
+      "files": [
+        {
+          "url": "https://github.com/YARC-Official/YARG/releases/download/b2559/YARG_b2559-MacOS-Universal.zip",
+          "fileType": "zip"
+        }
+      ]
+    },
+    {
+      "name": "YARG Nightly - Linux",
+      "platforms": [
+        "linux"
+      ],
+      "files": [
+        {
+          "url": "https://github.com/YARC-Official/YARG/releases/download/b2559/YARG_b2559-Linux-x64.zip",
+          "fileType": "zip"
+        }
+      ]
+    }
+  ],
+  "launchOptions": {
+    "windows": {
+      "executablePath": "./YARG.exe",
+      "arguments": []
+    },
+    "macos": {
+      "executablePath": "./YARG.app/Contents/MacOS/YARG",
+      "arguments": []
+    },
+    "linux": {
+      "executablePath": "./YARG",
+      "arguments": []
+    }
+  }
+}
