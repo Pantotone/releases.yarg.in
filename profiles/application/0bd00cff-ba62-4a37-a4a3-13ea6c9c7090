@@ -23,7 +23,7 @@
       ],
       "files": [
         {
-          "url": "https://github.com/YARC-Official/YARG/releases/download/b2559/YARG_b2559-Windows-x64.zip",
+          "url": "https://github.com/YARC-Official/YARG-BleedingEdge/releases/download/b2559/YARG_b2559-Windows-x64.zip",
           "fileType": "zip"
         }
       ]
@@ -35,7 +35,7 @@
       ],
       "files": [
         {
-          "url": "https://github.com/YARC-Official/YARG/releases/download/b2559/YARG_b2559-MacOS-Universal.zip",
+          "url": "https://github.com/YARC-Official/YARG-BleedingEdge/releases/download/b2559/YARG_b2559-MacOS-Universal.zip",
           "fileType": "zip"
         }
       ]
@@ -47,7 +47,7 @@
       ],
       "files": [
         {
-          "url": "https://github.com/YARC-Official/YARG/releases/download/b2559/YARG_b2559-Linux-x64.zip",
+          "url": "https://github.com/YARC-Official/YARG-BleedingEdge/releases/download/b2559/YARG_b2559-Linux-x64.zip",
           "fileType": "zip"
         }
       ]
