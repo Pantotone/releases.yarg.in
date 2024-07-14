@@ -3,3 +3,6 @@
 
 /changelogs/NightlyYARG/*
   Content-Type: application/json
+
+/profiles/*
+  Content-Type: application/json
