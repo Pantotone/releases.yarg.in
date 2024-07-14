@@ -45,7 +45,7 @@ const output = {
       platforms: ["windows"],
       files: [
         {
-          url: `https://github.com/YARC-Official/YARG/releases/download/${currentTag}/YARG_${currentTag}-Windows-x64.zip`,
+          url: `https://github.com/YARC-Official/YARG-BleedingEdge/releases/download/${currentTag}/YARG_${currentTag}-Windows-x64.zip`,
           fileType: "zip",
         },
       ],
@@ -55,7 +55,7 @@ const output = {
       platforms: ["macos"],
       files: [
         {
-          url: `https://github.com/YARC-Official/YARG/releases/download/${currentTag}/YARG_${currentTag}-MacOS-Universal.zip`,
+          url: `https://github.com/YARC-Official/YARG-BleedingEdge/releases/download/${currentTag}/YARG_${currentTag}-MacOS-Universal.zip`,
           fileType: "zip",
         },
       ],
@@ -65,7 +65,7 @@ const output = {
       platforms: ["linux"],
       files: [
         {
-          url: `https://github.com/YARC-Official/YARG/releases/download/${currentTag}/YARG_${currentTag}-Linux-x64.zip`,
+          url: `https://github.com/YARC-Official/YARG-BleedingEdge/releases/download/${currentTag}/YARG_${currentTag}-Linux-x64.zip`,
           fileType: "zip",
         },
       ],
