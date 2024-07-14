@@ -2,7 +2,7 @@ name: 🔁 Update Nightly YARG
 
 on:
   repository_dispatch:
-    types: [ updateNightlyYARG, updateAll ]
+    types: [updateNightlyYARG, updateAll]
   workflow_dispatch:
 
 permissions:
@@ -30,3 +30,15 @@ jobs:
     with:
       method: "GenerateNightlyChangelog"
       description: "Generate Nightly YARG changelog"
+
+  generateNightlyRelease:
+    name: "📋 Generate Nightly Release"
+    needs: [generateNightlyChangelog]
+    if: success()
+    uses: ./.github/workflows/run-script.yml
+    secrets: inherit
+    permissions:
+      contents: write
+    with:
+      method: "GenerateNightlyRelease"
+      description: "Generate Nightly YARG release"
