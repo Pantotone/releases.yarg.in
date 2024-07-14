@@ -88,5 +88,7 @@ const output = {
   },
 };
 
+await fs.mkdir(APPLICATIONS_PROFILES_FOLDER, { recursive: true });
+
 const savePath = path.join(APPLICATIONS_PROFILES_FOLDER, uuid);
 await fs.writeFile(savePath, JSON.stringify(output, null, 2));
