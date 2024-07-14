@@ -88,5 +88,5 @@ const output = {
   },
 };
 
-const savePath = path.join(APPLICATIONS_PROFILES_FOLDER, currentTag);
+const savePath = path.join(APPLICATIONS_PROFILES_FOLDER, uuid);
 await fs.writeFile(savePath, JSON.stringify(output, null, 2));
