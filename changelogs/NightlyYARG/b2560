@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "0be17441537a5fd145aef4de7cbb3f9d49062a6f",
+      "author": "Purplo-cf",
+      "summary": "More localization keys (#824)",
+      "description": "* Add localization keys for gameplay text, dialog buttons, help bar, audio calibrator\r\n\r\n* Formatting fixes"
+    }
+  ]
+}
