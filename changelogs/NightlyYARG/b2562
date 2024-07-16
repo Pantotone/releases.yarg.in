@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "86d566e79e755657be91113628cd1e4dfc732ffc",
+      "author": "TheNathannator",
+      "summary": "Use note speed setting for vocals track speed",
+      "description": ""
+    },
+    {
+      "sha": "451591fca004f600e0f3b31194a6edf9231b3e7c",
+      "author": "Purplo-cf",
+      "summary": "Added an entry for Menu.Common.Continue. This was already being referenced by ScoreScreenMenu and was coming up blank. (#826)",
+      "description": ""
+    }
+  ]
+}
