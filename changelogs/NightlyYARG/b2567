@@ -1,0 +1,34 @@
+{
+  "commits": [
+    {
+      "sha": "1f7a7fb048b732e6a5d0647a0911f7e36b2d2a03",
+      "author": "TheNathannator",
+      "summary": "Fix solo score bonus text not being displayed",
+      "description": ""
+    },
+    {
+      "sha": "87eb534ca595fdabf6e9ce9ae50b61b4154f7fbe",
+      "author": "TheNathannator",
+      "summary": "Tidy some other minor localization things",
+      "description": "- Move generic Key/KeyFormat methods to a generated file\n- Add KeyFormat overloads which allow specifying multiple key pieces\n- Replace manual key construction with implicit ones"
+    },
+    {
+      "sha": "06465f585487c23a9ab4818c252a6849c0bbc11b",
+      "author": "TheNathannator",
+      "summary": "Display translation key instead of empty string for missing translations",
+      "description": ""
+    },
+    {
+      "sha": "aa6c6c954a17675de1177f672b6e603b90dd5bb1",
+      "author": "TheNathannator",
+      "summary": "Lazy-load navigation scheme translations",
+      "description": "Fixes ordering issues that cause the common scheme entries to not localize correctly"
+    },
+    {
+      "sha": "84a9fab3ca09625655f72e36e0b34b20715aa0c9",
+      "author": "TheNathannator",
+      "summary": "Add a bunch of missing navigation localization strings",
+      "description": ""
+    }
+  ]
+}
