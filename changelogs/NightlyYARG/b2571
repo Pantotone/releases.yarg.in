@@ -1,0 +1,28 @@
+{
+  "commits": [
+    {
+      "sha": "ed1928cc0a841767b90a867475a8190083eefc44",
+      "author": "TheNathannator",
+      "summary": "Add missing description for hit window setting",
+      "description": ""
+    },
+    {
+      "sha": "a97fd9ab9d35c737ffb211a3786330f94fa4d465",
+      "author": "TheNathannator",
+      "summary": "Allow settings to not have a description (and apply this to color profile settings)",
+      "description": ""
+    },
+    {
+      "sha": "96887deebca079938142380bbe44cf45a5f7c6c5",
+      "author": "TheNathannator",
+      "summary": "forgot the YARG.Core update",
+      "description": ""
+    },
+    {
+      "sha": "a2c561935b54912ade57f0dc7696ac50f316c6d1",
+      "author": "TheNathannator",
+      "summary": "Failsafe for when no vocals range shifts get parsed in",
+      "description": ""
+    }
+  ]
+}
