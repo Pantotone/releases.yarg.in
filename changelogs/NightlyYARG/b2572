@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "22a76ed159ed50e8fcc3fff78e4fb8aab506b84a",
+      "author": "TheNathannator",
+      "summary": "Fix HIDrogen not initializing correctly on some Linux systems (Update HIDrogen to v0.4.1)",
+      "description": "Had to use the Git link, OpenUPM is currently stuck building the package"
+    }
+  ]
+}
