@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "32a303e755713ee6f28f777692bbb4ed3102ab7e",
+      "author": "EliteAsian123",
+      "summary": "Crowdin GitHub actions (requires merge onto master)",
+      "description": ""
+    },
+    {
+      "sha": "d0bd8042fa14f305fc94c0ce6fd61f631eaf52e6",
+      "author": "EliteAsian123",
+      "summary": "Make sure to load localization values from `en-US` when they are not present in the specified language",
+      "description": ""
+    }
+  ]
+}
