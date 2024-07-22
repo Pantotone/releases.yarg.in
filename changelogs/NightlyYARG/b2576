@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "ff3cbd2a9bb66ef6ca23a1aa959e5a85c79e27af",
+      "author": "sonicfind",
+      "summary": "Enforce stricter rules on vocal track scanning + Moar rich text shenanigans",
+      "description": ""
+    },
+    {
+      "sha": "581b0b804daaf9fa72de34790a937ed264bbd2b3",
+      "author": "sonicfind",
+      "summary": "Remove unused fuzzysharp struct",
+      "description": ""
+    }
+  ]
+}
