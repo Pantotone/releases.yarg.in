@@ -1,0 +1,34 @@
+{
+  "commits": [
+    {
+      "sha": "8c040cad2db8b99ddbe08e5ceba3f73908334f66",
+      "author": "TheNathannator",
+      "summary": "Allow toggling automatic audio hardware latency compensation",
+      "description": ""
+    },
+    {
+      "sha": "a229e361d694e3271c46255f18ccb600a41d75d6",
+      "author": "TheNathannator",
+      "summary": "Rewrite playback buffer setting descriptions",
+      "description": "They were not written well lol (sorry sonicfind)"
+    },
+    {
+      "sha": "08fc7ca12939fb219103575d02dee2bde4df4fc0",
+      "author": "TheNathannator",
+      "summary": "Fix songs being played at speeds other than 100% being out of sync",
+      "description": "(Fix audio buffer compensation not accounting for song speed)"
+    },
+    {
+      "sha": "e6fd24738d13fa1409180def9b67a210ed85e6ff",
+      "author": "TheNathannator",
+      "summary": "Increase max song speed: 4995% -> 5000%",
+      "description": "Turns out there's been a whole 105% in the top end to work with this whole time lol"
+    },
+    {
+      "sha": "e9ce104c1247c5c7fa86e6918168890d0c913c37",
+      "author": "TheNathannator",
+      "summary": "Switch HIDrogen package back to OpenUPM version",
+      "description": ""
+    }
+  ]
+}
