@@ -1,0 +1,22 @@
+{
+  "commits": [
+    {
+      "sha": "fd98862ba7d11bf9b9f33c075a29692b99f4d94a",
+      "author": "EliteAsian123",
+      "summary": "Make crowdin upload pull from dev instead of master",
+      "description": ""
+    },
+    {
+      "sha": "78717b0eb59dda3ff314ed96fcb984b5ea746239",
+      "author": "EliteAsian123",
+      "summary": "Added setting to enable/disable the overstrum/overhit sound effect",
+      "description": ""
+    },
+    {
+      "sha": "55da5538fec200de39a30b873a9659723375b4a4",
+      "author": "sonicfind",
+      "summary": "Move StemMixer `_speed` variable to BassStemMixer",
+      "description": "+ Remove the BassAudioManager.GetSpeed call as we already have the speed saved"
+    }
+  ]
+}
