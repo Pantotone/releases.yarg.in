@@ -1,0 +1,28 @@
+{
+  "commits": [
+    {
+      "sha": "52d87945cc35e221cce4ec5dc3747a5fb2baa564",
+      "author": "EliteAsian123",
+      "summary": "Fixed spelling error",
+      "description": ""
+    },
+    {
+      "sha": "47a15065a55ad8c6c6253595a1822466f1f6bb4c",
+      "author": "EliteAsian123",
+      "summary": "Adjust some more method names and simplify difficulty select localization key structure",
+      "description": ""
+    },
+    {
+      "sha": "81913579547475ae2f8b8e6c27b2587de7c5aa5c",
+      "author": "EliteAsian123",
+      "summary": "Changed some of the new localization method naming to favour to localized version",
+      "description": ""
+    },
+    {
+      "sha": "eff16096af77e61e2dedeaf2447880e757057a35",
+      "author": "Purplo-cf",
+      "summary": "More missing localization (#828)",
+      "description": "* Music library popup localization\r\n\r\n* Difficulty Select actions and headers localization (removed YARG.Core pointer)\r\n\r\n* Reduce hard-coded references to localization keys in DifficultySelectMenu"
+    }
+  ]
+}
