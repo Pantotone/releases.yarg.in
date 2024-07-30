@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "7a222d1c7790a03036b26a67ded22e020913fff3",
+      "author": "TheNathannator",
+      "summary": "Fix the Wii MPA in drums mode not being recognized correctly (Update PlasticBand-Unity to v0.8.4)",
+      "description": ""
+    }
+  ]
+}
