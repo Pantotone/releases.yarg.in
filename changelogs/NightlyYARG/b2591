@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "5f54598452cf4448d10d8d2a4fee9f7954b3de95",
+      "author": "sonicfind",
+      "summary": "Remove the 70% scaling limiter on song stems (AKA, volume boost) (#829)",
+      "description": "* Remove gain from Compressor\r\n\r\n+ Add comment explaining compressor behavior\r\n\r\n* Apply compressor to the final mix instead of per stem\r\n\r\nWhile I understand the original intention, it's not YARG job to police whether a song is well mixed or not. We should solely focus on keep overall volume level from being too high.\r\n\r\n+ Init mixers with the Float flag\r\n\r\n* Remove 70% stem volume scaler\r\n\r\n* Adjust Compressor to 0dB threshold\r\n\r\nThis allows for unadjusted audio levels up to 0dB. For single stemmed songs or multitrack songs with proper mixing, this produces the absolute best sounding results at 100% volume.\r\n\r\n* SP reverb adjustments\r\n\r\n+ Slide down the base stem during reverb to make the audio levels more even\r\n\r\n+ Alter freeverb parameters as the increased overall volume of stems made the reverb a tad bit too strong"
+    }
+  ]
+}
