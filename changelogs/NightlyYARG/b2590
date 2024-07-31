@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "2950efa5d908cb82a80cc08224f45be37e570f43",
+      "author": "EliteAsian123",
+      "summary": "Pause Menu Quick Settings & Draggable HUD Elements  (#837)",
+      "description": "* DraggableHudElement script\r\n\r\n* Vector2 Setting type\r\n\r\n* Remove Vector2 Setting type\r\n\r\n* Save and load UI element positions\r\n\r\n* Update YARG.Core\r\n\r\n* Created dragging display\r\n\r\n* Added draggable hud buttons\r\n\r\n* Removed use of scaling on score display and made draggable HUD buttons smaller\r\n\r\n* Added quick settings button into the pause menu\r\n\r\n* Made the \"Edit HUD\" button work\r\n\r\n* Prevent editing HUD with multiple players\r\n\r\n* Fix score box hit box\r\n\r\n* Allow dragging the solo box\r\n\r\n* Replace placeholder textures for draggable display and show outline on draggable elements\r\n\r\n* Make buttons into smaller icon buttons\r\n\r\n* Lyric bar dragging\r\n\r\n* Fix some errors\r\n\r\n* Reset all button for HUD\r\n\r\n* Multiple HUD positioning profiles\r\n\r\n* Started audio settings in pause\r\n\r\n* Made pause menus into variants of a generic pause menu prefab\r\n\r\n* Fixed scrolling within pause menu settings\r\n\r\n* Make the quick settings look a little better\r\n\r\n* Fixed warning\r\n\r\n* Finished off quick settings sliders\r\n\r\n* Added missing localization key\r\n\r\n* Removed unused struct\r\n\r\n* Added more missing localization keys\r\n\r\n* Add a simple versioning system just in case\r\n\r\n* Fix stars in the score display\r\n\r\n---------\r\n\r\nCo-authored-by: RileyTheFox <jacobchambers@hotmail.co.uk>"
+    }
+  ]
+}
