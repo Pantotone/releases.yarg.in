@@ -1,0 +1,28 @@
+{
+  "commits": [
+    {
+      "sha": "f7b70e9d643ecebcd7331b96616d938d6f898a0c",
+      "author": "sonicfind",
+      "summary": "Fix main menu music persisting incorrectly",
+      "description": "I hope"
+    },
+    {
+      "sha": "db99c792c1056dbd446a01b13254b49d6eba9f36",
+      "author": "EliteAsian123",
+      "summary": "Fixed ending position of the score box progress display",
+      "description": ""
+    },
+    {
+      "sha": "ee9698cbf0dd41430f93ce99d2d11a771d651675",
+      "author": "EliteAsian123",
+      "summary": "Prevent unpausing while a dialog is open",
+      "description": ""
+    },
+    {
+      "sha": "830cf5a4626d4d317250eef7ebdb51f1be9f6386",
+      "author": "EliteAsian123",
+      "summary": "Make sure to disable HUD edit mode when resuming",
+      "description": ""
+    }
+  ]
+}
