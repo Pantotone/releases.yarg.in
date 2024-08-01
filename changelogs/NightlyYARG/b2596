@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "7c3e5aad4c4ff8aebc6c0bc104835869c2c04b5c",
+      "author": "sonicfind",
+      "summary": "Fix string scanning edge cases and ArtistAlbum sorting",
+      "description": ""
+    }
+  ]
+}
