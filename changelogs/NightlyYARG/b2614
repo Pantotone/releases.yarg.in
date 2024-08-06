@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "3cb6334d068e9a97ad28a631acc8172455f72fbd",
+      "author": "EliteAsian123",
+      "summary": "Rename Crowdin branch to `crowdin-translations`",
+      "description": ""
+    },
+    {
+      "sha": "39eedfa51568d6e1d306aeb9aecea8f505afdc5f",
+      "author": "EliteAsian123",
+      "summary": "Hopefully fix Crowdin PR action",
+      "description": ""
+    }
+  ]
+}
