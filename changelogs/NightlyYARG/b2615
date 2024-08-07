@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "56969b158ec0d098721eb154526d352a9e9fcbfd",
+      "author": "TheNathannator",
+      "summary": "Add dummy layout for unrecognized Xbox One devices so they show in device description logging",
+      "description": ""
+    }
+  ]
+}
