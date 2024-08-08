@@ -1,0 +1,22 @@
+{
+  "commits": [
+    {
+      "sha": "f14b07f808ba17495c759713197c2b8e65d6ebf4",
+      "author": "TheNathannator",
+      "summary": "Fix MadCatz Xbox One drumkits not being recognized (Update PlasticBand-Unity to v0.8.5)",
+      "description": ""
+    },
+    {
+      "sha": "9d49af89b8c9b2ef5970b482558e7788c39f3a25",
+      "author": "TheNathannator",
+      "summary": "Refactor device add/remove notifications to fix issues with PlasticBand variant device notifications",
+      "description": "Should no longer say they're removed immediately after connecting them"
+    },
+    {
+      "sha": "da1bfc408c73796442a62c2b1a2cff7b5e130064",
+      "author": "TheNathannator",
+      "summary": "this comment was never true after all lol",
+      "description": ""
+    }
+  ]
+}
