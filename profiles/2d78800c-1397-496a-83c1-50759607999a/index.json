@@ -1,0 +1,31 @@
+{
+    "type": "application",
+    "uuid": "2d78800c-1397-496a-83c1-50759607999a",
+    "metadata": {
+        "name": "YARG",
+        "description": "YARG (a.k.a. Yet Another Rhythm Game) is a free, open-source, plastic guitar game that is still in development. It supports guitar (five fret), drums (plastic or e-kit), vocals, pro-guitar, and more!",
+        "releaseName": "Stable",
+        "iconUrl": "@/icons/Stable.png",
+        "bannerBackUrl": "@/banners/Stable.png",
+        "initialRelease": "2023-03-09T05:00:00.000Z",
+        "links": {
+            "website": {
+                "name": "Official Website",
+                "url": "https://yarg.in"
+            },
+            "github": {
+                "name": "GitHub Repository",
+                "url": "https://github.com/YARC-Official/YARG/"
+            },
+            "roadmap": {
+                "name": "YARG Roadmap",
+                "url": "https://yarg.youtrack.cloud/agiles/147-7/current"
+            }
+        },
+        "localeOverrides": {}
+    },
+    "version": {
+        "type": "list",
+        "listUrl": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases"
+    }
+}
