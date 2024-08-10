@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "f33c61632e55fcffb88ea9646a871c36b10a4bb0",
+      "author": "TheNathannator",
+      "summary": "Tweak threshold for the yellow FPS icon to 90% refresh rate",
+      "description": "The framerate limiter will never be at *exactly* the refresh rate, so this offers some leniency"
+    }
+  ]
+}
