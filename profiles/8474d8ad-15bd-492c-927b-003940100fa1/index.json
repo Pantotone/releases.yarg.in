@@ -1,0 +1,73 @@
+{
+    "type": "setlist",
+    "uuid": "8474d8ad-15bd-492c-927b-003940100fa1",
+    "metadata": {
+        "name": "YARG Official Setlist",
+        "description": "YARG's Official Setlist is a multi-genre, full-band full-difficulty, in development setlist brought to you by YARG's amazing and talented charting team. Its eventual goal is to have 80 to 100 songs, all made with love and lots of care. The setlist contains songs from underappreciated artists, along with more well known songs.",
+        "iconUrl": "@/icons/Setlist.png",
+        "bannerBackUrl": "@/banners/SetlistBack.png",
+        "bannerFrontUrl": "@/banners/SetlistFront.png",
+        "initialRelease": "2023-07-10T00:00:00.000Z",
+        "links": {},
+        "credits": [
+            {
+                "name": "Dai",
+                "url": "https://youtube.com/@daijyoubs1319"
+            },
+            {
+                "name": "frickitickitavi",
+                "url": "https://www.youtube.com/@fricksfrickincharts"
+            },
+            {
+                "name": "grishhung",
+                "url": "https://youtube.com/@grishhung2828"
+            },
+            {
+                "name": "Hubbubble",
+                "url": "https://youtube.com/@hubbubble6856"
+            },
+            {
+                "name": "ItzSynth",
+                "url": "https://youtube.com/@SynthesizeTime"
+            },
+            {
+                "name": "Miscellany",
+                "url": ""
+            },
+            {
+                "name": "Rulas",
+                "url": "https://youtube.com/@Rulas025"
+            },
+            {
+                "name": "Spachi",
+                "url": "https://www.youtube.com/channel/UCQpGzrCzoaiQ4wlV9pTzs5g"
+            },
+            {
+                "name": "WalterRalts",
+                "url": "https://youtube.com/@WalterRalts"
+            }
+        ],
+        "localeOverrides": {}
+    },
+    "version": {
+        "type": "embedded",
+        "version": {
+            "uuid": "c8d67887-019e-4662-ba1e-0f6ba1839a42",
+            "tag": "official-2024-07-22-0",
+            "release": "2024-07-22T05:00:00.000Z",
+            "content": [
+                {
+                    "platforms": [
+                        "windows", "macos", "linux"
+                    ],
+                    "files": [
+                        {
+                            "url": "https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2024-07-22-0/official_0.7z",
+                            "fileType": "encrypted"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

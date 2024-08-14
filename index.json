@@ -6,7 +6,8 @@
         "/StableYARG/releases.json": "Latest 100 releases related to YARC-Official/YARG, sorted by publishing time",
         "/NightlyYARG/releases.json": "Latest 100 releases related to YARC-Official/YARG-BleedingEdge, sorted by publishing time",
         "/setlists/[setlistId]": "Setlist information",
-        "/profiles/applications/[applicationUUID]": "[BETA] All applications profiles used by the YARC launcher"
+        "/profiles/marketIndex.json": "A list of all of the profiles available in the YARC Launcher's marketplace",
+        "/profiles/[applicationUUID]": "All applications profiles used by the YARC launcher"
     },
     "caseSensitive": true
 }
