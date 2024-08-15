@@ -8,7 +8,12 @@
         "bannerBackUrl": "@/banners/SetlistBack.png",
         "bannerFrontUrl": "@/banners/SetlistFront.png",
         "initialRelease": "2023-07-10T00:00:00.000Z",
-        "links": {},
+        "links": {
+            "youtube": {
+                "name": "Setlist Trailers",
+                "url": "https://www.youtube.com/@YARGGame/videos"
+            }
+        },
         "credits": [
             {
                 "name": "Dai",

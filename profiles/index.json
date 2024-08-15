@@ -1,4 +1,14 @@
 {
+    "banner": {
+        "backgroundUrl": "@/banners/SetlistWave.png",
+        "preHeaderText": "Official Setlist",
+        "headerText": "Wave 8",
+
+        "viewProfileUUID": "8474d8ad-15bd-492c-927b-003940100fa1",
+        "previewUrl": "https://www.youtube.com/watch?v=8IZ_f-BtcLk",
+
+        "localeOverrides": {}
+    },
     "lastUpdated": "2024-08-13T22:03:21.079Z",
     "profiles": [
         {
