@@ -1,6 +1,7 @@
 {
     "banner": {
         "backgroundUrl": "@/banners/SetlistWave.png",
+        "backgroundAccent": "#DF6B00",
         "preHeaderText": "Official Setlist",
         "headerText": "Wave 8",
 
