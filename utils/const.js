@@ -32,8 +32,7 @@ export const NIGHTLYYARG_CHANGELOG_FOLDER = path.join(
   "NightlyYARG"
 );
 
-export const APPLICATIONS_PROFILES_FOLDER = path.join(
+export const PROFILES_FOLDER = path.join(
   STATIC_PATH,
-  "profiles",
-  "application"
+  "profiles"
 );
