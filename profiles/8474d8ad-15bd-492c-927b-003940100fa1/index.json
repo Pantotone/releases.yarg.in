@@ -8,6 +8,7 @@
         "bannerBackUrl": "@/banners/SetlistBack.png",
         "bannerFrontUrl": "@/banners/SetlistFront.png",
         "initialRelease": "2023-07-10T00:00:00.000Z",
+        "newsCategory": "setlist_official",
         "links": {
             "youtube": {
                 "name": "Setlist Trailers",

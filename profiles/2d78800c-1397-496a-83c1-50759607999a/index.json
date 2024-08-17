@@ -8,6 +8,7 @@
         "iconUrl": "@/icons/Stable.png",
         "bannerBackUrl": "@/banners/Stable.png",
         "initialRelease": "2023-03-09T05:00:00.000Z",
+        "newsCategory": "yarg",
         "links": {
             "website": {
                 "name": "Official Website",
