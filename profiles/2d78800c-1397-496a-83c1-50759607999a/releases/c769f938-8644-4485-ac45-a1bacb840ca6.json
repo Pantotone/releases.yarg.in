@@ -1,0 +1,63 @@
+{
+    "uuid": "c769f938-8644-4485-ac45-a1bacb840ca6",
+    "tag": "v0.8.1",
+    "release": "2023-04-10T16:53:32Z",
+    "content": [
+        {
+            "platforms": [
+                "windows"
+            ],
+            "files": [
+                {
+                    "url": "https://github.com/YARC-Official/YARG/releases/download/v0.8.1/YARG_v0.8.1-Windows-x64.zip",
+                    "sigUrl": "https://github.com/YARC-Official/YARG/releases/download/v0.8.1/YARG_v0.8.1-Windows-x64.zip.sig",
+                    "fileType": "zip"
+                }
+            ]
+        },
+        {
+            "platforms": [
+                "macos"
+            ],
+            "files": [
+                {
+                    "url": "https://github.com/YARC-Official/YARG/releases/download/v0.8.1/YARG_v0.8.1-MacOS-Universal.zip",
+                    "sigUrl": "https://github.com/YARC-Official/YARG/releases/download/v0.8.1/YARG_v0.8.1-MacOS-Universal.zip.sig",
+                    "fileType": "zip"
+                }
+            ]
+        },
+        {
+            "platforms": [
+                "linux"
+            ],
+            "files": [
+                {
+                    "url": "https://github.com/YARC-Official/YARG/releases/download/v0.8.1/YARG_v0.8.1-Linux-x86_64.zip",
+                    "sigUrl": "https://github.com/YARC-Official/YARG/releases/download/v0.8.1/YARG_v0.8.1-Linux-x86_64.zip.sig",
+                    "fileType": "zip"
+                }
+            ]
+        }
+    ],
+    "launchOptions": {
+        "windows": {
+            "executablePath": "./YARG.exe",
+            "arguments": [],
+            "offlineArgument": "-offline",
+            "languageArgument": "-lang"
+        },
+        "linux": {
+            "executablePath": "./YARG",
+            "arguments": [],
+            "offlineArgument": "-offline",
+            "languageArgument": "-lang"
+        },
+        "macos": {
+            "executablePath": "./YARG.app/Contents/MacOS/YARG",
+            "arguments": [],
+            "offlineArgument": "-offline",
+            "languageArgument": "-lang"
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "uuid": "2bf62807-d99a-4971-9d7d-750bf1964333",
+    "tag": "v0.8.0b",
+    "release": "2023-04-07T23:00:18Z",
+    "content": [
+        {
+            "platforms": [
+                "windows"
+            ],
+            "files": [
+                {
+                    "url": "https://github.com/YARC-Official/YARG/releases/download/v0.8.0b/YARG_v0.8.0b-Windows-x64.zip",
+                    "sigUrl": "https://github.com/YARC-Official/YARG/releases/download/v0.8.0b/YARG_v0.8.0b-Windows-x64.zip.sig",
+                    "fileType": "zip"
+                }
+            ]
+        },
+        {
+            "platforms": [
+                "macos"
+            ],
+            "files": [
+                {
+                    "url": "https://github.com/YARC-Official/YARG/releases/download/v0.8.0b/YARG_v0.8.0b-MacOS-Universal.zip",
+                    "sigUrl": "https://github.com/YARC-Official/YARG/releases/download/v0.8.0b/YARG_v0.8.0b-MacOS-Universal.zip.sig",
+                    "fileType": "zip"
+                }
+            ]
+        },
+        {
+            "platforms": [
+                "linux"
+            ],
+            "files": [
+                {
+                    "url": "https://github.com/YARC-Official/YARG/releases/download/v0.8.0b/YARG_v0.8.0b-Linux-x86_64.zip",
+                    "sigUrl": "https://github.com/YARC-Official/YARG/releases/download/v0.8.0b/YARG_v0.8.0b-Linux-x86_64.zip.sig",
+                    "fileType": "zip"
+                }
+            ]
+        }
+    ],
+    "launchOptions": {
+        "windows": {
+            "executablePath": "./YARG.exe",
+            "arguments": [],
+            "offlineArgument": "-offline",
+            "languageArgument": "-lang"
+        },
+        "linux": {
+            "executablePath": "./YARG",
+            "arguments": [],
+            "offlineArgument": "-offline",
+            "languageArgument": "-lang"
+        },
+        "macos": {
+            "executablePath": "./YARG.app/Contents/MacOS/YARG",
+            "arguments": [],
+            "offlineArgument": "-offline",
+            "languageArgument": "-lang"
+        }
+    }
+}

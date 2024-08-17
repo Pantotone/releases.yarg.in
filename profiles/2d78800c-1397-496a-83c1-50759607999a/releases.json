@@ -1,8 +1,188 @@
 [
     {
-        "uuid": "4b19a300-1610-47f7-abdb-2aaa72efe7d7",
-        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/4b19a300-1610-47f7-abdb-2aaa72efe7d7.json",
+        "uuid": "87396431-fcd4-443f-9250-8abebcf8e492",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/87396431-fcd4-443f-9250-8abebcf8e492.json",
         "tag": "v0.12.5",
         "release": "2024-08-04T16:07:17Z"
+    },
+    {
+        "uuid": "581bc9bc-caa0-481a-8085-29e257f5f281",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/581bc9bc-caa0-481a-8085-29e257f5f281.json",
+        "tag": "v0.12.4",
+        "release": "2024-06-28T19:18:54Z"
+    },
+    {
+        "uuid": "649896eb-13e1-4dbf-803e-53e080c7d00f",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/649896eb-13e1-4dbf-803e-53e080c7d00f.json",
+        "tag": "v0.12.3",
+        "release": "2024-04-09T22:36:15Z"
+    },
+    {
+        "uuid": "f263405e-38a4-4d1c-b8a3-d9307cdd9696",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/f263405e-38a4-4d1c-b8a3-d9307cdd9696.json",
+        "tag": "v0.12.2",
+        "release": "2024-04-08T02:45:01Z"
+    },
+    {
+        "uuid": "371049ca-a865-4fc1-be19-add7e1b9c42d",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/371049ca-a865-4fc1-be19-add7e1b9c42d.json",
+        "tag": "v0.12.1",
+        "release": "2024-02-12T21:34:32Z"
+    },
+    {
+        "uuid": "3a39f98b-c1b7-48d4-8f30-db1bc765e71d",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/3a39f98b-c1b7-48d4-8f30-db1bc765e71d.json",
+        "tag": "v0.12.0",
+        "release": "2024-01-30T20:03:48Z"
+    },
+    {
+        "uuid": "15d8a46f-7d04-406e-84a8-7b7b41a27947",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/15d8a46f-7d04-406e-84a8-7b7b41a27947.json",
+        "tag": "v0.11.1",
+        "release": "2023-07-16T19:09:56Z"
+    },
+    {
+        "uuid": "f1b04faf-0fe3-4936-b1bd-a878a92948a0",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/f1b04faf-0fe3-4936-b1bd-a878a92948a0.json",
+        "tag": "v0.11.0",
+        "release": "2023-07-10T19:19:08Z"
+    },
+    {
+        "uuid": "69bf1af3-0b5f-4e9f-b83f-c9ed3a9e6412",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/69bf1af3-0b5f-4e9f-b83f-c9ed3a9e6412.json",
+        "tag": "v0.10.7",
+        "release": "2023-06-21T01:53:49Z"
+    },
+    {
+        "uuid": "626a0843-ae62-4cac-ad80-9a7cae260f5b",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/626a0843-ae62-4cac-ad80-9a7cae260f5b.json",
+        "tag": "v0.10.6",
+        "release": "2023-06-07T01:55:37Z"
+    },
+    {
+        "uuid": "50ebb3b4-9147-45c3-9f72-24ebb157cc4b",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/50ebb3b4-9147-45c3-9f72-24ebb157cc4b.json",
+        "tag": "v0.10.5",
+        "release": "2023-06-05T00:51:43Z"
+    },
+    {
+        "uuid": "f65ea6b6-a184-4483-ad5d-6a986878ffe2",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/f65ea6b6-a184-4483-ad5d-6a986878ffe2.json",
+        "tag": "v0.10.4",
+        "release": "2023-05-23T22:20:27Z"
+    },
+    {
+        "uuid": "7cb5e172-600b-46a1-9608-462abcc14b06",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/7cb5e172-600b-46a1-9608-462abcc14b06.json",
+        "tag": "v0.10.3",
+        "release": "2023-05-21T18:25:19Z"
+    },
+    {
+        "uuid": "66abd3dd-b53c-4001-a147-7279dbc2f68f",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/66abd3dd-b53c-4001-a147-7279dbc2f68f.json",
+        "tag": "v0.10.2",
+        "release": "2023-05-12T02:04:10Z"
+    },
+    {
+        "uuid": "8061fba1-422c-477c-9230-60234f4f2ffb",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/8061fba1-422c-477c-9230-60234f4f2ffb.json",
+        "tag": "v0.10.1",
+        "release": "2023-05-10T01:47:46Z"
+    },
+    {
+        "uuid": "4a6d3634-ea1a-468a-844a-2d0dd95d82fc",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/4a6d3634-ea1a-468a-844a-2d0dd95d82fc.json",
+        "tag": "v0.10.0",
+        "release": "2023-05-07T02:53:31Z"
+    },
+    {
+        "uuid": "1ed12e19-a8a3-42c9-87d6-3e0e9f30fe60",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/1ed12e19-a8a3-42c9-87d6-3e0e9f30fe60.json",
+        "tag": "v0.10.0b",
+        "release": "2023-04-28T01:49:54Z"
+    },
+    {
+        "uuid": "4062b072-deb2-4acf-8c6e-b687fa39a9b5",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/4062b072-deb2-4acf-8c6e-b687fa39a9b5.json",
+        "tag": "v0.9.1",
+        "release": "2023-04-21T02:06:43Z"
+    },
+    {
+        "uuid": "88a9eda5-5afa-40e8-9dc3-1ab43dc80de8",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/88a9eda5-5afa-40e8-9dc3-1ab43dc80de8.json",
+        "tag": "v0.9.0",
+        "release": "2023-04-20T01:41:41Z"
+    },
+    {
+        "uuid": "6239a89d-0e58-4ef7-860f-5b4f244b02c7",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/6239a89d-0e58-4ef7-860f-5b4f244b02c7.json",
+        "tag": "v0.9.0b",
+        "release": "2023-04-17T02:13:17Z"
+    },
+    {
+        "uuid": "1b740c28-e3e7-4b49-85f9-10ad76509a7f",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/1b740c28-e3e7-4b49-85f9-10ad76509a7f.json",
+        "tag": "v0.8.2",
+        "release": "2023-04-13T21:31:52Z"
+    },
+    {
+        "uuid": "c769f938-8644-4485-ac45-a1bacb840ca6",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/c769f938-8644-4485-ac45-a1bacb840ca6.json",
+        "tag": "v0.8.1",
+        "release": "2023-04-10T16:53:32Z"
+    },
+    {
+        "uuid": "4f29e205-c903-411c-80bd-263a25137362",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/4f29e205-c903-411c-80bd-263a25137362.json",
+        "tag": "v0.8.0",
+        "release": "2023-04-08T18:28:22Z"
+    },
+    {
+        "uuid": "2bf62807-d99a-4971-9d7d-750bf1964333",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/2bf62807-d99a-4971-9d7d-750bf1964333.json",
+        "tag": "v0.8.0b",
+        "release": "2023-04-07T23:00:18Z"
+    },
+    {
+        "uuid": "1d17c711-92a8-4fd7-93d1-147c3b511d4b",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/1d17c711-92a8-4fd7-93d1-147c3b511d4b.json",
+        "tag": "v0.7.2",
+        "release": "2023-04-07T01:47:00Z"
+    },
+    {
+        "uuid": "df8650ef-e7de-4bfd-ae8c-dee126d72553",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/df8650ef-e7de-4bfd-ae8c-dee126d72553.json",
+        "tag": "v0.7.1",
+        "release": "2023-04-04T20:24:49Z"
+    },
+    {
+        "uuid": "c2b75d22-dddf-44ff-88a2-891860b94d45",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/c2b75d22-dddf-44ff-88a2-891860b94d45.json",
+        "tag": "v0.7.0",
+        "release": "2023-04-03T22:04:08Z"
+    },
+    {
+        "uuid": "2a841be8-08bb-478a-9c1f-607388f731af",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/2a841be8-08bb-478a-9c1f-607388f731af.json",
+        "tag": "v0.7.0b",
+        "release": "2023-04-03T17:44:19Z"
+    },
+    {
+        "uuid": "b440fdf1-8ea7-4f4e-9655-a367b508d8f8",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/b440fdf1-8ea7-4f4e-9655-a367b508d8f8.json",
+        "tag": "v0.6.2",
+        "release": "2023-04-02T03:57:38Z"
+    },
+    {
+        "uuid": "4b591aba-b00a-48e7-9d34-9a19dfc77f00",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/4b591aba-b00a-48e7-9d34-9a19dfc77f00.json",
+        "tag": "v0.6.1",
+        "release": "2023-04-01T04:10:21Z"
+    },
+    {
+        "uuid": "0e387667-933c-42a5-b405-f633dc41121c",
+        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/releases/0e387667-933c-42a5-b405-f633dc41121c.json",
+        "tag": "v0.6.0",
+        "release": "2023-03-29T21:38:39Z"
     }
 ]

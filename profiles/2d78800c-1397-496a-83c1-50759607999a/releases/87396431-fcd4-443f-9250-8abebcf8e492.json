@@ -1,5 +1,5 @@
 {
-    "uuid": "4b19a300-1610-47f7-abdb-2aaa72efe7d7",
+    "uuid": "87396431-fcd4-443f-9250-8abebcf8e492",
     "tag": "v0.12.5",
     "release": "2024-08-04T16:07:17Z",
     "content": [
@@ -43,15 +43,21 @@
     "launchOptions": {
         "windows": {
             "executablePath": "./YARG.exe",
-            "arguments": []
+            "arguments": [],
+            "offlineArgument": "-offline",
+            "languageArgument": "-lang"
         },
         "linux": {
             "executablePath": "./YARG",
-            "arguments": []
+            "arguments": [],
+            "offlineArgument": "-offline",
+            "languageArgument": "-lang"
         },
         "macos": {
             "executablePath": "./YARG.app/Contents/MacOS/YARG",
-            "arguments": []
+            "arguments": [],
+            "offlineArgument": "-offline",
+            "languageArgument": "-lang"
         }
     }
 }
