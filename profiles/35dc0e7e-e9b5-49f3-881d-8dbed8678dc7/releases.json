@@ -1,2 +1,602 @@
 [
+    {
+        "uuid": "53c73891-c51b-4df1-989d-ac07f87e9ea7",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/53c73891-c51b-4df1-989d-ac07f87e9ea7.json",
+        "tag": "b2619",
+        "release": "2024-08-10T12:50:55Z"
+    },
+    {
+        "uuid": "be0d4e4d-fb1a-4317-8726-e3daede77bc7",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/be0d4e4d-fb1a-4317-8726-e3daede77bc7.json",
+        "tag": "b2618",
+        "release": "2024-08-08T12:50:59Z"
+    },
+    {
+        "uuid": "f6d51ca5-6ffc-4bfe-b0fe-ead575823060",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/f6d51ca5-6ffc-4bfe-b0fe-ead575823060.json",
+        "tag": "b2615",
+        "release": "2024-08-07T00:58:56Z"
+    },
+    {
+        "uuid": "3ec175f4-2a70-4bd9-b82f-73529cbb57e6",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/3ec175f4-2a70-4bd9-b82f-73529cbb57e6.json",
+        "tag": "b2614",
+        "release": "2024-08-06T00:55:06Z"
+    },
+    {
+        "uuid": "36f8a3a5-29af-440e-8462-718cfa3ec3ba",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/36f8a3a5-29af-440e-8462-718cfa3ec3ba.json",
+        "tag": "b2612",
+        "release": "2024-08-05T00:58:23Z"
+    },
+    {
+        "uuid": "cc2c71a4-2767-4622-a9ac-049143725499",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/cc2c71a4-2767-4622-a9ac-049143725499.json",
+        "tag": "b2611",
+        "release": "2024-08-04T04:03:07Z"
+    },
+    {
+        "uuid": "230d20bf-fda9-46a4-9ea1-dc0651871d3e",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/230d20bf-fda9-46a4-9ea1-dc0651871d3e.json",
+        "tag": "b2607",
+        "release": "2024-08-04T00:55:35Z"
+    },
+    {
+        "uuid": "554510fd-2c1d-43af-a230-edf0ff3c51fa",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/554510fd-2c1d-43af-a230-edf0ff3c51fa.json",
+        "tag": "b2605",
+        "release": "2024-08-03T12:51:44Z"
+    },
+    {
+        "uuid": "c9b91915-c486-46be-a1ca-d32003506b74",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/c9b91915-c486-46be-a1ca-d32003506b74.json",
+        "tag": "b2604",
+        "release": "2024-08-02T00:52:22Z"
+    },
+    {
+        "uuid": "caa0faf9-bd95-4da9-b4a3-291bf8e3deb2",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/caa0faf9-bd95-4da9-b4a3-291bf8e3deb2.json",
+        "tag": "b2596",
+        "release": "2024-08-01T12:52:57Z"
+    },
+    {
+        "uuid": "f1209cfc-9632-4eac-970f-9f641c4c05c7",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/f1209cfc-9632-4eac-970f-9f641c4c05c7.json",
+        "tag": "b2595",
+        "release": "2024-08-01T00:56:41Z"
+    },
+    {
+        "uuid": "97420ca5-069c-473a-86cb-fb1a91845998",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/97420ca5-069c-473a-86cb-fb1a91845998.json",
+        "tag": "b2591",
+        "release": "2024-07-31T12:53:32Z"
+    },
+    {
+        "uuid": "a34d6993-96f9-48c6-a62f-8b0236f3142c",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/a34d6993-96f9-48c6-a62f-8b0236f3142c.json",
+        "tag": "b2590",
+        "release": "2024-07-31T00:52:47Z"
+    },
+    {
+        "uuid": "56527638-6a0b-422d-940e-1c105e85fc87",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/56527638-6a0b-422d-940e-1c105e85fc87.json",
+        "tag": "b2589",
+        "release": "2024-07-30T00:53:22Z"
+    },
+    {
+        "uuid": "01201fd1-326d-4f73-b937-31a0b9457d51",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/01201fd1-326d-4f73-b937-31a0b9457d51.json",
+        "tag": "b2588",
+        "release": "2024-07-29T12:56:56Z"
+    },
+    {
+        "uuid": "d6e1d283-1325-4afb-9780-7891677497ac",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/d6e1d283-1325-4afb-9780-7891677497ac.json",
+        "tag": "b2584",
+        "release": "2024-07-24T00:58:48Z"
+    },
+    {
+        "uuid": "9cd224fa-8d6c-4e00-a17f-8b671da33cd4",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/9cd224fa-8d6c-4e00-a17f-8b671da33cd4.json",
+        "tag": "b2581",
+        "release": "2024-07-23T12:50:08Z"
+    },
+    {
+        "uuid": "5192e496-b672-453e-8a91-8c8fafc30335",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/5192e496-b672-453e-8a91-8c8fafc30335.json",
+        "tag": "b2576",
+        "release": "2024-07-22T00:58:26Z"
+    },
+    {
+        "uuid": "4859da30-269a-4c00-b28d-51d77372eb48",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/4859da30-269a-4c00-b28d-51d77372eb48.json",
+        "tag": "b2574",
+        "release": "2024-07-20T12:48:52Z"
+    },
+    {
+        "uuid": "df852c4f-4258-4831-b1eb-d6685e806b03",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/df852c4f-4258-4831-b1eb-d6685e806b03.json",
+        "tag": "b2572",
+        "release": "2024-07-20T00:52:53Z"
+    },
+    {
+        "uuid": "908c0121-88dd-4de4-8c65-2bf475796d9e",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/908c0121-88dd-4de4-8c65-2bf475796d9e.json",
+        "tag": "b2571",
+        "release": "2024-07-19T00:54:36Z"
+    },
+    {
+        "uuid": "ff2e5fe9-f49b-4459-b4e0-5242653e31ee",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/ff2e5fe9-f49b-4459-b4e0-5242653e31ee.json",
+        "tag": "b2567",
+        "release": "2024-07-16T12:55:23Z"
+    },
+    {
+        "uuid": "f558237d-9904-4b2f-9eeb-7ece14c7dfce",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/f558237d-9904-4b2f-9eeb-7ece14c7dfce.json",
+        "tag": "b2562",
+        "release": "2024-07-16T00:58:28Z"
+    },
+    {
+        "uuid": "bb65a2e8-31d9-4558-97d5-d2d4638a24a2",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/bb65a2e8-31d9-4558-97d5-d2d4638a24a2.json",
+        "tag": "b2560",
+        "release": "2024-07-15T00:52:22Z"
+    },
+    {
+        "uuid": "36ed00ca-388b-44af-95e3-d25ad8daee6e",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/36ed00ca-388b-44af-95e3-d25ad8daee6e.json",
+        "tag": "b2559",
+        "release": "2024-07-14T00:55:01Z"
+    },
+    {
+        "uuid": "473772ed-37fa-4b47-b22a-59a96a6bded3",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/473772ed-37fa-4b47-b22a-59a96a6bded3.json",
+        "tag": "b2558",
+        "release": "2024-07-13T12:53:01Z"
+    },
+    {
+        "uuid": "4c0cbeda-1b0d-4556-b218-421ff2fa253d",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/4c0cbeda-1b0d-4556-b218-421ff2fa253d.json",
+        "tag": "b2557",
+        "release": "2024-07-11T12:57:27Z"
+    },
+    {
+        "uuid": "1b400d38-7c83-4b59-a619-b60da0c70cf3",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/1b400d38-7c83-4b59-a619-b60da0c70cf3.json",
+        "tag": "b2556",
+        "release": "2024-07-10T00:57:06Z"
+    },
+    {
+        "uuid": "8b622535-3892-4d80-8eb2-5624288500ac",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/8b622535-3892-4d80-8eb2-5624288500ac.json",
+        "tag": "b2554",
+        "release": "2024-07-08T12:53:39Z"
+    },
+    {
+        "uuid": "4ca14609-a00d-4faf-857d-5e43037cf9b3",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/4ca14609-a00d-4faf-857d-5e43037cf9b3.json",
+        "tag": "b2552",
+        "release": "2024-07-07T12:50:04Z"
+    },
+    {
+        "uuid": "6f59e9f8-a824-4351-9a5f-97c87cae7e6f",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/6f59e9f8-a824-4351-9a5f-97c87cae7e6f.json",
+        "tag": "b2548",
+        "release": "2024-07-07T00:58:27Z"
+    },
+    {
+        "uuid": "658e7ab7-c4e4-4ff6-bf55-81431689ccc6",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/658e7ab7-c4e4-4ff6-bf55-81431689ccc6.json",
+        "tag": "b2547",
+        "release": "2024-07-06T12:51:36Z"
+    },
+    {
+        "uuid": "37fa5ab1-c55f-4a51-8733-a4b0b0c57f9d",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/37fa5ab1-c55f-4a51-8733-a4b0b0c57f9d.json",
+        "tag": "b2545",
+        "release": "2024-07-04T12:52:08Z"
+    },
+    {
+        "uuid": "e0e1821b-e7d3-457e-8513-9cc06ce5bfa0",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/e0e1821b-e7d3-457e-8513-9cc06ce5bfa0.json",
+        "tag": "b2541",
+        "release": "2024-07-04T00:55:15Z"
+    },
+    {
+        "uuid": "cdc55ae8-58db-4a8c-87f6-9caef46af4db",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/cdc55ae8-58db-4a8c-87f6-9caef46af4db.json",
+        "tag": "b2540",
+        "release": "2024-07-02T12:52:48Z"
+    },
+    {
+        "uuid": "d06457a4-6321-4309-b3eb-c51ac5bd277c",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/d06457a4-6321-4309-b3eb-c51ac5bd277c.json",
+        "tag": "b2539",
+        "release": "2024-06-30T12:49:41Z"
+    },
+    {
+        "uuid": "ba89a36c-107d-4028-9a00-deda56538ef7",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/ba89a36c-107d-4028-9a00-deda56538ef7.json",
+        "tag": "b2537",
+        "release": "2024-06-30T00:53:17Z"
+    },
+    {
+        "uuid": "98517c67-74b2-43f1-b132-d299cf55eae0",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/98517c67-74b2-43f1-b132-d299cf55eae0.json",
+        "tag": "b2535",
+        "release": "2024-06-29T12:51:48Z"
+    },
+    {
+        "uuid": "d8505920-a949-4fcb-a627-03eadc8f8838",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/d8505920-a949-4fcb-a627-03eadc8f8838.json",
+        "tag": "b2533",
+        "release": "2024-06-29T00:50:50Z"
+    },
+    {
+        "uuid": "19f202a9-baaa-414b-803c-0d5391b4f2df",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/19f202a9-baaa-414b-803c-0d5391b4f2df.json",
+        "tag": "b2532",
+        "release": "2024-06-28T12:57:22Z"
+    },
+    {
+        "uuid": "506172c0-d83a-4820-a24a-6c5df3aa5fd5",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/506172c0-d83a-4820-a24a-6c5df3aa5fd5.json",
+        "tag": "b2530",
+        "release": "2024-06-28T00:56:03Z"
+    },
+    {
+        "uuid": "3a4846aa-2a8b-431b-bda2-345984646b12",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/3a4846aa-2a8b-431b-bda2-345984646b12.json",
+        "tag": "b2529",
+        "release": "2024-06-27T00:52:44Z"
+    },
+    {
+        "uuid": "d18f1568-7627-4b99-adca-f35a02564ccb",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/d18f1568-7627-4b99-adca-f35a02564ccb.json",
+        "tag": "b2526",
+        "release": "2024-06-26T01:00:33Z"
+    },
+    {
+        "uuid": "2cc13158-eac5-494d-b8aa-88fa0d507c9e",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/2cc13158-eac5-494d-b8aa-88fa0d507c9e.json",
+        "tag": "b2523",
+        "release": "2024-06-23T15:39:12Z"
+    },
+    {
+        "uuid": "bb6b1693-0384-492f-8a6d-21753df063e3",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/bb6b1693-0384-492f-8a6d-21753df063e3.json",
+        "tag": "b2522",
+        "release": "2024-06-23T00:53:23Z"
+    },
+    {
+        "uuid": "5aa2e28c-df7c-4103-9ee2-0efd3e4656eb",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/5aa2e28c-df7c-4103-9ee2-0efd3e4656eb.json",
+        "tag": "b2518",
+        "release": "2024-06-22T12:49:39Z"
+    },
+    {
+        "uuid": "64e782e0-28f7-4b62-9d43-cc03f7b6f4ed",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/64e782e0-28f7-4b62-9d43-cc03f7b6f4ed.json",
+        "tag": "b2517",
+        "release": "2024-06-21T12:54:00Z"
+    },
+    {
+        "uuid": "0d2e2300-a63b-4bb8-a82d-9cd8a52a0d46",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/0d2e2300-a63b-4bb8-a82d-9cd8a52a0d46.json",
+        "tag": "b2515",
+        "release": "2024-06-20T13:02:35Z"
+    },
+    {
+        "uuid": "a106853c-0535-48c0-b953-020d040abe82",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/a106853c-0535-48c0-b953-020d040abe82.json",
+        "tag": "b2509",
+        "release": "2024-06-18T12:55:36Z"
+    },
+    {
+        "uuid": "1db035a0-bfe6-4f42-beea-7e562795715f",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/1db035a0-bfe6-4f42-beea-7e562795715f.json",
+        "tag": "b2508",
+        "release": "2024-06-15T12:48:48Z"
+    },
+    {
+        "uuid": "70fbd4b3-509d-48e5-89b2-408e8b8e990a",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/70fbd4b3-509d-48e5-89b2-408e8b8e990a.json",
+        "tag": "b2507",
+        "release": "2024-06-15T01:05:49Z"
+    },
+    {
+        "uuid": "51d177c4-dd53-461b-b7e8-c5936dd9407a",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/51d177c4-dd53-461b-b7e8-c5936dd9407a.json",
+        "tag": "b2506",
+        "release": "2024-06-14T12:50:41Z"
+    },
+    {
+        "uuid": "deea43ba-7966-4d7d-ab48-4db28e5f5563",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/deea43ba-7966-4d7d-ab48-4db28e5f5563.json",
+        "tag": "b2505",
+        "release": "2024-06-12T01:26:52Z"
+    },
+    {
+        "uuid": "a7e3be9a-c409-46c3-92db-6e543486598d",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/a7e3be9a-c409-46c3-92db-6e543486598d.json",
+        "tag": "b2504",
+        "release": "2024-06-10T00:55:17Z"
+    },
+    {
+        "uuid": "042357e4-c05e-4c31-8eec-0d37abf37848",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/042357e4-c05e-4c31-8eec-0d37abf37848.json",
+        "tag": "b2503",
+        "release": "2024-06-08T12:57:20Z"
+    },
+    {
+        "uuid": "b0cc9132-2738-4fd6-a10f-73f8ab53ec89",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/b0cc9132-2738-4fd6-a10f-73f8ab53ec89.json",
+        "tag": "b2502",
+        "release": "2024-06-08T00:54:46Z"
+    },
+    {
+        "uuid": "ed091124-a828-4fa1-a1f2-4a8dbfb17d53",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/ed091124-a828-4fa1-a1f2-4a8dbfb17d53.json",
+        "tag": "b2500",
+        "release": "2024-06-07T00:56:12Z"
+    },
+    {
+        "uuid": "6c9277f3-d8e2-4f08-8120-9238540bae8d",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/6c9277f3-d8e2-4f08-8120-9238540bae8d.json",
+        "tag": "b2497",
+        "release": "2024-06-06T00:51:17Z"
+    },
+    {
+        "uuid": "400026a4-f117-4912-813a-ffdcd872f51f",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/400026a4-f117-4912-813a-ffdcd872f51f.json",
+        "tag": "b2495",
+        "release": "2024-06-05T13:01:24Z"
+    },
+    {
+        "uuid": "3df040f6-5b05-4b33-9dd3-d27bee5b28e1",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/3df040f6-5b05-4b33-9dd3-d27bee5b28e1.json",
+        "tag": "b2492",
+        "release": "2024-06-04T22:25:22Z"
+    },
+    {
+        "uuid": "5af98f66-855a-4519-9a1c-97e5d97437ab",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/5af98f66-855a-4519-9a1c-97e5d97437ab.json",
+        "tag": "b2491",
+        "release": "2024-06-04T13:33:11Z"
+    },
+    {
+        "uuid": "c43e3713-4202-46f4-9381-2365bc630be3",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/c43e3713-4202-46f4-9381-2365bc630be3.json",
+        "tag": "b2490",
+        "release": "2024-06-03T00:52:08Z"
+    },
+    {
+        "uuid": "94b51b05-67c5-43e9-9202-e25944f527bd",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/94b51b05-67c5-43e9-9202-e25944f527bd.json",
+        "tag": "b2485",
+        "release": "2024-05-31T12:50:58Z"
+    },
+    {
+        "uuid": "4f7356c4-6ab1-4517-ad75-f16febe94e3a",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/4f7356c4-6ab1-4517-ad75-f16febe94e3a.json",
+        "tag": "b2484",
+        "release": "2024-05-31T00:53:01Z"
+    },
+    {
+        "uuid": "ee83936e-4296-4045-af21-bc00b9aae360",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/ee83936e-4296-4045-af21-bc00b9aae360.json",
+        "tag": "b2483",
+        "release": "2024-05-30T00:54:19Z"
+    },
+    {
+        "uuid": "3bd07a14-0a06-425e-b728-00439eaa429a",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/3bd07a14-0a06-425e-b728-00439eaa429a.json",
+        "tag": "b2482",
+        "release": "2024-05-26T00:54:44Z"
+    },
+    {
+        "uuid": "220cdc3c-8714-4c92-a1ae-bd1113f9813e",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/220cdc3c-8714-4c92-a1ae-bd1113f9813e.json",
+        "tag": "b2481",
+        "release": "2024-05-24T12:49:47Z"
+    },
+    {
+        "uuid": "4a66308d-8276-41a7-bd01-4a5fa0391d6b",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/4a66308d-8276-41a7-bd01-4a5fa0391d6b.json",
+        "tag": "b2480",
+        "release": "2024-05-24T01:28:48Z"
+    },
+    {
+        "uuid": "8e6404b5-2f1c-4515-bc04-c43bc515d7eb",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/8e6404b5-2f1c-4515-bc04-c43bc515d7eb.json",
+        "tag": "b2479",
+        "release": "2024-05-23T12:50:14Z"
+    },
+    {
+        "uuid": "8c7eacce-f987-437b-8e75-1180f84d3920",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/8c7eacce-f987-437b-8e75-1180f84d3920.json",
+        "tag": "b2478",
+        "release": "2024-05-22T00:52:31Z"
+    },
+    {
+        "uuid": "f3c97d7b-e5a8-4413-8e29-8f4d34921f58",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/f3c97d7b-e5a8-4413-8e29-8f4d34921f58.json",
+        "tag": "b2476",
+        "release": "2024-05-21T12:49:46Z"
+    },
+    {
+        "uuid": "932ae4d5-a0d0-4cb6-96dc-62e9d4fc2a33",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/932ae4d5-a0d0-4cb6-96dc-62e9d4fc2a33.json",
+        "tag": "b2473",
+        "release": "2024-05-21T00:57:15Z"
+    },
+    {
+        "uuid": "90453d4d-3511-4062-a29b-49d8c59b8c8e",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/90453d4d-3511-4062-a29b-49d8c59b8c8e.json",
+        "tag": "b2470",
+        "release": "2024-05-20T00:54:40Z"
+    },
+    {
+        "uuid": "66b8553d-8f48-4e19-8bdb-7f04db965d98",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/66b8553d-8f48-4e19-8bdb-7f04db965d98.json",
+        "tag": "b2468",
+        "release": "2024-05-18T00:57:42Z"
+    },
+    {
+        "uuid": "42a8f57a-7841-4096-9804-eb165c2ba3d1",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/42a8f57a-7841-4096-9804-eb165c2ba3d1.json",
+        "tag": "b2467",
+        "release": "2024-05-16T12:49:15Z"
+    },
+    {
+        "uuid": "f253522d-8452-4343-b33b-40640f22b079",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/f253522d-8452-4343-b33b-40640f22b079.json",
+        "tag": "b2459",
+        "release": "2024-05-16T00:59:15Z"
+    },
+    {
+        "uuid": "1c48e62d-6f1c-4bbd-88b0-6a490c338103",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/1c48e62d-6f1c-4bbd-88b0-6a490c338103.json",
+        "tag": "b2458",
+        "release": "2024-05-12T00:52:11Z"
+    },
+    {
+        "uuid": "cc953a7d-9dd2-445e-83cf-89a1468db042",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/cc953a7d-9dd2-445e-83cf-89a1468db042.json",
+        "tag": "b2456",
+        "release": "2024-05-10T12:50:02Z"
+    },
+    {
+        "uuid": "83043914-a00a-4125-85bd-cb6bd6214f00",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/83043914-a00a-4125-85bd-cb6bd6214f00.json",
+        "tag": "b2455",
+        "release": "2024-05-09T12:52:44Z"
+    },
+    {
+        "uuid": "30327ca4-2250-454b-a17f-4fdb86e00b3d",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/30327ca4-2250-454b-a17f-4fdb86e00b3d.json",
+        "tag": "b2454",
+        "release": "2024-05-08T12:50:29Z"
+    },
+    {
+        "uuid": "fa345440-8108-4138-b39f-b6c4b7420391",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/fa345440-8108-4138-b39f-b6c4b7420391.json",
+        "tag": "b2453",
+        "release": "2024-05-06T00:57:55Z"
+    },
+    {
+        "uuid": "9e293d4c-740c-452b-9332-42ec61a05c5f",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/9e293d4c-740c-452b-9332-42ec61a05c5f.json",
+        "tag": "b2451",
+        "release": "2024-05-04T12:51:44Z"
+    },
+    {
+        "uuid": "9b5e5932-ed96-4e0f-8f1d-43dde8eb07b1",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/9b5e5932-ed96-4e0f-8f1d-43dde8eb07b1.json",
+        "tag": "b2450",
+        "release": "2024-05-04T00:54:05Z"
+    },
+    {
+        "uuid": "94598a21-df4e-4c0a-b3e1-ec2b860894b4",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/94598a21-df4e-4c0a-b3e1-ec2b860894b4.json",
+        "tag": "b2447",
+        "release": "2024-05-03T00:57:08Z"
+    },
+    {
+        "uuid": "a6ab82e5-e761-42aa-997c-53e829e1160a",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/a6ab82e5-e761-42aa-997c-53e829e1160a.json",
+        "tag": "b2446",
+        "release": "2024-05-02T00:56:38Z"
+    },
+    {
+        "uuid": "73acc6bc-9bc3-47bd-afba-acc6b08feabc",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/73acc6bc-9bc3-47bd-afba-acc6b08feabc.json",
+        "tag": "b2444",
+        "release": "2024-05-01T00:53:39Z"
+    },
+    {
+        "uuid": "815f6392-d182-4185-9b18-7757e7e2fcac",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/815f6392-d182-4185-9b18-7757e7e2fcac.json",
+        "tag": "b2442",
+        "release": "2024-04-30T14:20:36Z"
+    },
+    {
+        "uuid": "319099d5-1d5f-49c9-8baa-295dfffcec90",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/319099d5-1d5f-49c9-8baa-295dfffcec90.json",
+        "tag": "b2441",
+        "release": "2024-04-30T12:49:28Z"
+    },
+    {
+        "uuid": "f1426035-feb7-4a04-903f-1da191cba161",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/f1426035-feb7-4a04-903f-1da191cba161.json",
+        "tag": "b2440",
+        "release": "2024-04-30T00:59:34Z"
+    },
+    {
+        "uuid": "f427c439-1702-4b35-a20c-887c93eca713",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/f427c439-1702-4b35-a20c-887c93eca713.json",
+        "tag": "b2438",
+        "release": "2024-04-29T12:52:22Z"
+    },
+    {
+        "uuid": "16dc5836-0b15-4c4a-b792-7af98475005a",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/16dc5836-0b15-4c4a-b792-7af98475005a.json",
+        "tag": "b2437",
+        "release": "2024-04-29T00:58:28Z"
+    },
+    {
+        "uuid": "6f597e48-19ad-4d4c-8423-2168d3b81a96",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/6f597e48-19ad-4d4c-8423-2168d3b81a96.json",
+        "tag": "b2436",
+        "release": "2024-04-28T12:49:06Z"
+    },
+    {
+        "uuid": "a644895f-af4e-4e2c-94f8-200ad5868a82",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/a644895f-af4e-4e2c-94f8-200ad5868a82.json",
+        "tag": "b2435",
+        "release": "2024-04-28T00:55:27Z"
+    },
+    {
+        "uuid": "ba8788b5-97b0-4204-a895-71ae46630104",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/ba8788b5-97b0-4204-a895-71ae46630104.json",
+        "tag": "b2430",
+        "release": "2024-04-27T12:53:55Z"
+    },
+    {
+        "uuid": "334512f8-f9f6-49ae-a0e5-eeed946b92e7",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/334512f8-f9f6-49ae-a0e5-eeed946b92e7.json",
+        "tag": "b2428",
+        "release": "2024-04-22T00:55:17Z"
+    },
+    {
+        "uuid": "6dcfdbf5-660d-4399-9441-0fe050476f7a",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/6dcfdbf5-660d-4399-9441-0fe050476f7a.json",
+        "tag": "b2427",
+        "release": "2024-04-21T12:55:35Z"
+    },
+    {
+        "uuid": "71a7ad8d-d3d1-4556-8f4d-64adb009c824",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/71a7ad8d-d3d1-4556-8f4d-64adb009c824.json",
+        "tag": "b2426",
+        "release": "2024-04-18T00:55:20Z"
+    },
+    {
+        "uuid": "5ba42c27-248b-499f-afa2-e00591a9dbac",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/5ba42c27-248b-499f-afa2-e00591a9dbac.json",
+        "tag": "b2425",
+        "release": "2024-04-14T00:56:23Z"
+    },
+    {
+        "uuid": "72543a6d-860c-4d6d-ae2a-60efebcd774e",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/72543a6d-860c-4d6d-ae2a-60efebcd774e.json",
+        "tag": "b2424",
+        "release": "2024-04-11T12:53:28Z"
+    },
+    {
+        "uuid": "a6cefbb3-5dcf-45b8-84ae-5ae519cca674",
+        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/releases/a6cefbb3-5dcf-45b8-84ae-5ae519cca674.json",
+        "tag": "b2422",
+        "release": "2024-04-10T12:51:16Z"
+    }
 ]
