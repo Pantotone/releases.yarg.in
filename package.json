@@ -3,7 +3,8 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
-    "@octokit/graphql": "^7.0.1"
+    "@octokit/graphql": "^7.0.1",
+    "glob": "^11.0.0"
   },
   "devDependencies": {
     "@types/node": "^20.4.5"
