@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "99580a66c9652008f58fc5d4009a14f85577fea9",
+      "author": "EliteAsian123",
+      "summary": "Allow setting download location from command line arguments",
+      "description": ""
+    }
+  ]
+}
