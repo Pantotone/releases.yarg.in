@@ -16,10 +16,22 @@
         },
         "songs": [
             {
-                "title": "pizza rolls",
-                "artist": "bottom bunk",
-                "length": 152381,
-                "releaseDate": "2023-07-10T00:00:00.000Z"
+                "title": "Drunken Monday (Freeway Mix)",
+                "artist": "Fisher Wagg",
+                "length": 150000,
+                "releaseDate": "2024-08-24T16:50:34.439Z"
+            },
+            {
+                "title": "Burn",
+                "artist": "Troubled Minds",
+                "length": 177951,
+                "releaseDate": "2024-08-24T16:50:34.439Z"
+            },
+            {
+                "title": "Middle of The City Road",
+                "artist": "Walter Ralts",
+                "length": 124102,
+                "releaseDate": "2024-08-24T16:50:34.439Z"
             }
         ],
         "credits": [

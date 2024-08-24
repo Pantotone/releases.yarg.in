@@ -1,7 +1,7 @@
 {
     "banner": {
         "backgroundUrl": "@/banners/SetlistWaveAlt.png",
-        "backgroundAccent": "#00AFDF",
+        "backgroundAccent": "#0E58EB",
         "preHeaderText": "YARG's First DLC",
         "headerText": "Assorted Pack 1",
 
@@ -61,7 +61,7 @@
             "release": "2024-08-24T16:50:34.439Z",
             "name": "Assorted Pack 1",
             "iconUrl": "@/icons/SetlistDLC.png",
-            "bannerBackUrl": "@/banners/SetlistBack.png",
+            "bannerUrl": "@/banners/SetlistBack.png",
 
             "localeOverrides": {}
         }
