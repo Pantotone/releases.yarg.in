@@ -1,12 +1,11 @@
 {
     "banner": {
-        "backgroundUrl": "@/banners/SetlistWave.png",
-        "backgroundAccent": "#DF6B00",
-        "preHeaderText": "Official Setlist",
-        "headerText": "Wave 8",
+        "backgroundUrl": "@/banners/SetlistWaveAlt.png",
+        "backgroundAccent": "#00AFDF",
+        "preHeaderText": "YARG's First DLC",
+        "headerText": "Assorted Pack 1",
 
-        "viewProfileUUID": "8474d8ad-15bd-492c-927b-003940100fa1",
-        "previewUrl": "https://www.youtube.com/watch?v=8IZ_f-BtcLk",
+        "viewProfileUUID": "46259f93-3550-4105-8816-cd96e167c560",
 
         "localeOverrides": {}
     },
@@ -50,6 +49,19 @@
             "name": "YARG Official Setlist",
             "iconUrl": "@/icons/Setlist.png",
             "bannerUrl": "@/banners/SetlistBack.png",
+
+            "localeOverrides": {}
+        },
+        {
+            "uuid": "46259f93-3550-4105-8816-cd96e167c560",
+            "type": "setlist",
+            "category": "official_setlist",
+            "url": "https://releases.yarg.in/profiles/46259f93-3550-4105-8816-cd96e167c560/",
+
+            "release": "2024-08-24T16:50:34.439Z",
+            "name": "Assorted Pack 1",
+            "iconUrl": "@/icons/SetlistDLC.png",
+            "bannerBackUrl": "@/banners/SetlistBack.png",
 
             "localeOverrides": {}
         }

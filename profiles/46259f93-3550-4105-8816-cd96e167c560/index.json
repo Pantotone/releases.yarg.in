@@ -1,0 +1,86 @@
+{
+    "type": "setlist",
+    "uuid": "46259f93-3550-4105-8816-cd96e167c560",
+    "metadata": {
+        "name": "Assorted Pack 1",
+        "description": "Join us for our first pack of DLC with a collection of friendly rock songs for the whole party, featuring Troubled Minds, Fisher Wagg, and Walter Ralts!",
+        "iconUrl": "@/icons/SetlistDLC.png",
+        "bannerBackUrl": "@/banners/SetlistBack.png",
+        "initialRelease": "2024-08-24T16:50:34.439Z",
+        "newsCategory": "setlist_official",
+        "links": {
+            "youtube": {
+                "name": "Setlist Trailers",
+                "url": "https://www.youtube.com/@YARGGame/videos"
+            }
+        },
+        "songs": [
+            {
+                "title": "pizza rolls",
+                "artist": "bottom bunk",
+                "length": 152381,
+                "releaseDate": "2023-07-10T00:00:00.000Z"
+            }
+        ],
+        "credits": [
+            {
+                "name": "Dai",
+                "url": "https://youtube.com/@daijyoubs1319"
+            },
+            {
+                "name": "frickitickitavi",
+                "url": "https://www.youtube.com/@fricksfrickincharts"
+            },
+            {
+                "name": "grishhung",
+                "url": "https://youtube.com/@grishhung2828"
+            },
+            {
+                "name": "Hubbubble",
+                "url": "https://youtube.com/@hubbubble6856"
+            },
+            {
+                "name": "ItzSynth",
+                "url": "https://youtube.com/@SynthesizeTime"
+            },
+            {
+                "name": "Miscellany",
+                "url": ""
+            },
+            {
+                "name": "Rulas",
+                "url": "https://youtube.com/@Rulas025"
+            },
+            {
+                "name": "Spachi",
+                "url": "https://www.youtube.com/channel/UCQpGzrCzoaiQ4wlV9pTzs5g"
+            },
+            {
+                "name": "WalterRalts",
+                "url": "https://youtube.com/@WalterRalts"
+            }
+        ],
+        "localeOverrides": {}
+    },
+    "version": {
+        "type": "embedded",
+        "version": {
+            "uuid": "1d32dd54-8cb2-4786-9724-5d2af113d205",
+            "tag": "assorted_1-2024-08-24-0",
+            "release": "2024-08-24T16:50:34.439Z",
+            "content": [
+                {
+                    "platforms": [
+                        "windows", "macos", "linux"
+                    ],
+                    "files": [
+                        {
+                            "url": "https://github.com/YARC-Official/Official-Setlist-Public/releases/download/assorted_1-2024-08-24-0/assorted_1-0.7z",
+                            "fileType": "encrypted"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
