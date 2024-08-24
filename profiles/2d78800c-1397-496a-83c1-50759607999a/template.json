@@ -45,19 +45,22 @@
             "executablePath": "./YARG.exe",
             "arguments": [],
             "offlineArgument": "-offline",
-            "languageArgument": "-lang"
+            "languageArgument": "-lang",
+            "downloadLocationArgument": "-download-location"
         },
         "linux": {
             "executablePath": "./YARG",
             "arguments": [],
             "offlineArgument": "-offline",
-            "languageArgument": "-lang"
+            "languageArgument": "-lang",
+            "downloadLocationArgument": "-download-location"
         },
         "macos": {
             "executablePath": "./YARG.app/Contents/MacOS/YARG",
             "arguments": [],
             "offlineArgument": "-offline",
-            "languageArgument": "-lang"
+            "languageArgument": "-lang",
+            "downloadLocationArgument": "-download-location"
         }
     }
 }
