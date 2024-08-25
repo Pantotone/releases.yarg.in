@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "0946d798d6ba22f5fc8e93d91ec5a97ba842e022",
+      "author": "EliteAsian123",
+      "summary": "Fixed detected setlist path being overridden by the lack of an argument (null)",
+      "description": ""
+    },
+    {
+      "sha": "042e6f2d423168de8527a88d1ac8ffe000fd3263",
+      "author": "EliteAsian123",
+      "summary": "Change version to `v0.12.6`",
+      "description": ""
+    }
+  ]
+}
