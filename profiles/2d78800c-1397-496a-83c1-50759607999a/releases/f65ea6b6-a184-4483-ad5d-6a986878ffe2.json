@@ -17,18 +17,6 @@
         },
         {
             "platforms": [
-                "macos"
-            ],
-            "files": [
-                {
-                    "url": "https://github.com/YARC-Official/YARG/releases/download/v0.10.4/YARG_v0.10.4-MacOS-Universal.zip",
-                    "sigUrl": "https://github.com/YARC-Official/YARG/releases/download/v0.10.4/YARG_v0.10.4-MacOS-Universal.zip.sig",
-                    "fileType": "zip"
-                }
-            ]
-        },
-        {
-            "platforms": [
                 "linux"
             ],
             "files": [
@@ -49,12 +37,6 @@
         },
         "linux": {
             "executablePath": "./YARG",
-            "arguments": [],
-            "offlineArgument": "-offline",
-            "languageArgument": "-lang"
-        },
-        "macos": {
-            "executablePath": "./YARG.app/Contents/MacOS/YARG",
             "arguments": [],
             "offlineArgument": "-offline",
             "languageArgument": "-lang"
