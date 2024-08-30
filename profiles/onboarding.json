@@ -31,7 +31,7 @@
         "url": "https://releases.yarg.in/profiles/8474d8ad-15bd-492c-927b-003940100fa1/",
 
         "name": "YARG Official Setlist",
-        "subText": "40+ songs, 1.2 GB in size.",
+        "subText": "40+ songs, 730 MB in size.",
         "iconUrl": "@/icons/Setlist.png",
 
         "selectedByDefault": true,

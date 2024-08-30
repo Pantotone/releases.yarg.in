@@ -312,9 +312,9 @@
     "version": {
         "type": "embedded",
         "version": {
-            "uuid": "c8d67887-019e-4662-ba1e-0f6ba1839a42",
-            "tag": "official-2024-08-24-0",
-            "release": "2024-07-22T05:00:00.000Z",
+            "uuid": "1f33725b-1db4-490e-8864-8614fe169d26",
+            "tag": "official-2024-08-29-0",
+            "release": "2024-08-30T01:08:33.498Z",
             "content": [
                 {
                     "platforms": [
@@ -322,7 +322,7 @@
                     ],
                     "files": [
                         {
-                            "url": "https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2024-08-24-0/official-0.7z",
+                            "url": "https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2024-08-29-0/official-0.7z",
                             "fileType": "encrypted"
                         }
                     ]
