@@ -1,0 +1,100 @@
+{
+    "type": "setlist",
+    "uuid": "77385a95-215f-486b-bbf7-c2d21ae33ea6",
+    "metadata": {
+        "name": "Assorted Pack 2",
+        "description": "Here is a pack of energetic electronic songs, providing challenges on all instruments! Featuring SO87 & Jelly Hoshiumi, Waterflame, and tv room.",
+        "iconUrl": "@/icons/SetlistDLC.png",
+        "bannerBackUrl": "@/banners/SetlistBack.png",
+        "initialRelease": "2024-08-30T01:17:59.492Z",
+        "newsCategory": "setlist_official",
+        "links": {
+            "youtube": {
+                "name": "Setlist Trailers",
+                "url": "https://www.youtube.com/@YARGGame/videos"
+            }
+        },
+        "songs": [
+            {
+                "title": "SPACE AND TIME! (feat. Jelly Hoshiumi)",
+                "artist": "SO87",
+                "length": 192000,
+                "releaseDate": "2024-08-30T01:17:59.492Z"
+            },
+            {
+                "title": "Say It Back",
+                "artist": "tv room",
+                "length": 166000,
+                "releaseDate": "2024-08-30T01:17:59.492Z"
+            },
+            {
+                "title": "Radioactive",
+                "artist": "Waterflame",
+                "length": 228648,
+                "releaseDate": "2024-08-30T01:17:59.492Z"
+            }
+        ],
+        "credits": [
+            {
+                "name": "Dai",
+                "url": "https://youtube.com/@daijyoubs1319"
+            },
+            {
+                "name": "frickitickitavi",
+                "url": "https://www.youtube.com/@fricksfrickincharts"
+            },
+            {
+                "name": "grishhung",
+                "url": "https://youtube.com/@grishhung2828"
+            },
+            {
+                "name": "Hubbubble",
+                "url": "https://youtube.com/@hubbubble6856"
+            },
+            {
+                "name": "ItzSynth",
+                "url": "https://youtube.com/@SynthesizeTime"
+            },
+            {
+                "name": "Miscellany",
+                "url": ""
+            },
+            {
+                "name": "Rulas",
+                "url": "https://youtube.com/@Rulas025"
+            },
+            {
+                "name": "Spachi",
+                "url": "https://www.youtube.com/channel/UCQpGzrCzoaiQ4wlV9pTzs5g"
+            },
+            {
+                "name": "WalterRalts",
+                "url": "https://youtube.com/@WalterRalts"
+            }
+        ],
+        "localeOverrides": {}
+    },
+    "version": {
+        "type": "embedded",
+        "version": {
+            "uuid": "a4137a32-2445-40db-979d-7a251b409168",
+            "tag": "assorted_2-2024-08-29-0",
+            "release": "2024-08-30T01:17:59.492Z",
+            "content": [
+                {
+                    "platforms": [
+                        "windows",
+                        "macos",
+                        "linux"
+                    ],
+                    "files": [
+                        {
+                            "url": "https://github.com/YARC-Official/Official-Setlist-Public/releases/download/assorted_2-2024-08-29-0/assorted_2-0.7z",
+                            "fileType": "encrypted"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

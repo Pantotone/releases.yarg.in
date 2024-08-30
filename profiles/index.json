@@ -1,15 +1,15 @@
 {
     "banner": {
-        "backgroundUrl": "@/banners/SetlistWaveAlt.png",
-        "backgroundAccent": "#0E58EB",
-        "preHeaderText": "YARG's First DLC",
-        "headerText": "Assorted Pack 1",
+        "backgroundUrl": "@/banners/SetlistWave.png",
+        "backgroundAccent": "#DF6B00",
+        "preHeaderText": "YARG's Second DLC",
+        "headerText": "Assorted Pack 2",
 
-        "viewProfileUUID": "46259f93-3550-4105-8816-cd96e167c560",
+        "viewProfileUUID": "77385a95-215f-486b-bbf7-c2d21ae33ea6",
 
         "localeOverrides": {}
     },
-    "lastUpdated": "2024-08-13T22:03:21.079Z",
+    "lastUpdated": "2024-08-30T01:21:08.452Z",
     "profiles": [
         {
             "uuid": "2d78800c-1397-496a-83c1-50759607999a",
@@ -60,6 +60,18 @@
 
             "release": "2024-08-24T16:50:34.439Z",
             "name": "Assorted Pack 1",
+            "iconUrl": "@/icons/SetlistDLC.png",
+            "bannerUrl": "@/banners/SetlistBack.png",
+
+            "localeOverrides": {}
+        },
+        {
+            "uuid": "77385a95-215f-486b-bbf7-c2d21ae33ea6",
+            "type": "setlist",
+            "category": "official_setlist",
+            "url": "https://releases.yarg.in/profiles/77385a95-215f-486b-bbf7-c2d21ae33ea6/",
+            "release": "2024-08-30T01:17:59.492Z",
+            "name": "Assorted Pack 2",
             "iconUrl": "@/icons/SetlistDLC.png",
             "bannerUrl": "@/banners/SetlistBack.png",
 
