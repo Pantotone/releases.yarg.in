@@ -1,11 +1,11 @@
 {
     "banner": {
-        "backgroundUrl": "@/banners/SetlistWave.png",
-        "backgroundAccent": "#DF6B00",
-        "preHeaderText": "YARG's Second DLC",
-        "headerText": "Assorted Pack 2",
+        "backgroundUrl": "@/banners/SetlistSummertide.png",
+        "backgroundAccent": "#00CCD6",
+        "preHeaderText": "YARG's Third DLC",
+        "headerText": "SUMMERTIDE",
 
-        "viewProfileUUID": "77385a95-215f-486b-bbf7-c2d21ae33ea6",
+        "viewProfileUUID": "2475f77d-d4a3-4393-8f45-6a89948f8b9c",
 
         "localeOverrides": {}
     },
@@ -70,10 +70,25 @@
             "type": "setlist",
             "category": "official_setlist",
             "url": "https://releases.yarg.in/profiles/77385a95-215f-486b-bbf7-c2d21ae33ea6/",
+
             "release": "2024-08-30T01:17:59.492Z",
             "name": "Assorted Pack 2",
             "iconUrl": "@/icons/SetlistDLC.png",
             "bannerUrl": "@/banners/SetlistBack.png",
+
+            "localeOverrides": {}
+        },
+        {
+            "uuid": "2475f77d-d4a3-4393-8f45-6a89948f8b9c",
+            "type": "setlist",
+            "category": "official_setlist",
+            "url": "https://releases.yarg.in/profiles/2475f77d-d4a3-4393-8f45-6a89948f8b9c/",
+
+            "release": "2024-09-12T00:12:40.033Z",
+            "name": "SUMMERTIDE",
+            "subText": "Alohaii",
+            "iconUrl": "@/icons/SetlistSummertide.png",
+            "bannerUrl": "@/banners/SetlistSummertide.png",
 
             "localeOverrides": {}
         }
