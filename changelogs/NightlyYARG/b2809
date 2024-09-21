@@ -1,0 +1,154 @@
+{
+  "commits": [
+    {
+      "sha": "5124f815bc5cd8225c67d94728092af710e77295",
+      "author": "EliteAsian123",
+      "summary": "Update YARG.Core",
+      "description": ""
+    },
+    {
+      "sha": "4e69fbf6cea0207d7120cbe11a3f776ae832f90f",
+      "author": "EliteAsian123",
+      "summary": "Merge pull request #876 from YARC-Official/engine-refactor",
+      "description": "Engine refactor"
+    },
+    {
+      "sha": "4725a5c39972c54caf4f3172cefccb7135ac4d3d",
+      "author": "RileyTheFox",
+      "summary": "Update MOTD for v0.13 nightly",
+      "description": ""
+    },
+    {
+      "sha": "e81f49abe72cb4c54e77d6560943f23a462ea354",
+      "author": "RileyTheFox",
+      "summary": "Polish up some replay viewer stuff",
+      "description": ""
+    },
+    {
+      "sha": "68911629475ebe1f87692145ab9f20dd283bf0ac",
+      "author": "RileyTheFox",
+      "summary": "Fix replay not being unloaded when entering music library",
+      "description": ""
+    },
+    {
+      "sha": "a50251ec0b683096fd0df8df332f619989b21d74",
+      "author": "EliteAsian123",
+      "summary": "Redo upcoming lyrics implementation so it doesn't flicker in build",
+      "description": ""
+    },
+    {
+      "sha": "edd438b9869d11a0ead9a1d1b76961be07f5b92b",
+      "author": "RileyTheFox",
+      "summary": "Remove Debug.Log i left in",
+      "description": ""
+    },
+    {
+      "sha": "2144eb102c7c7ec517cad24f64731331ec876f22",
+      "author": "RileyTheFox",
+      "summary": "Change data path for nightly builds",
+      "description": ""
+    },
+    {
+      "sha": "37f14bfff99bd67f32cf32410fd2188039f2e16c",
+      "author": "RileyTheFox",
+      "summary": "Add data path to CLI args",
+      "description": "And some minor refactoring"
+    },
+    {
+      "sha": "3cdc1ea66068c5f3fd74cf99cd1593d2cc4a88cb",
+      "author": "sonicfind",
+      "summary": "Alternate Take On A Replay Refactor (#864)",
+      "description": "* Refactor Replay Collecting\r\n\r\n+ Deprecates prior replays (though they will still appear in the menu)\r\n+ Utilizes the now split ReplayInfo & ReplayData types from the inner Core refactor to read and collect files. Removes the ReplayEntry type.\r\n+ Consolidates ReplayViewType to handle BOTH replays and gamerecords\r\n\r\n* Move ReplayFrame creation to the player types\r\n\r\nNotice that the functions used in the overrides of the base abstract call.\r\n\r\nWould've been nice to be to therefore define it only once in a singular base class, but the architecture doesn't permit that. Oh well.\r\n\r\nAlso, forgot to add ProKeys writes lmao.\r\n\r\n* Funny nullable go brr\r\n\r\n* Replace `ReplayPresetContainer` with altered `ReplayData`\r\n\r\nCore updated `ReplayData` to contain the dictionaries that were present in the now removed `ReplayPresetContainer` type\r\n\r\n* Shuffle around ReplayViewType methods\r\n\r\n* Update to remove ReplayPlayerInfo middleman\r\n\r\n* Fix async of `ReplayViewType.ViewClick()`\r\n\r\n* Remove player & colorprofile IDs from ReplayFrame\r\n\r\n* Add YARGPlayer constructor for ReplayFrames\r\n\r\n* Simplify YargPlayer constructor with YargProfile\r\n\r\n* Incorporate new ReplayStats types\r\n\r\n+ Updates replay cache\r\n+ Alters CreateReplayFrame() to construct both the frame and replaystats.\r\n\r\n* Implement addition of SongSpeed to ReplayInfo\r\n\r\n+ Update replay cache version"
+    },
+    {
+      "sha": "215b4fff3fb495605f86a386767be50aa8323161",
+      "author": "EliteAsian123",
+      "summary": "Updated YARG.Core to point to `engine-refactor`",
+      "description": ""
+    },
+    {
+      "sha": "b3d1b240ebe042209f5038b7ca874c14f7220bb7",
+      "author": "thomeval",
+      "summary": "Add Active Players and Bots displays to Status Bar v2 (#867)",
+      "description": "* WIP Rebuild of Active Players List PR for engine-refactor\r\n\r\n* Rebuilt ActivePlayerList and ActivePlayerListItem components. Added these to the Status Bar\r\n\r\n* Update Instrument icon on Active Players List when changing a profile's GameMode, or when choosing an instrument in the Diffisulty Select Menu.\r\n\r\n* Applied PR review changes\r\nIntroduced EnsureValidInstrument() to YARG.Core\r\nApplied style change to several one-liner if statements\r\n\r\n* Update YARG.Core"
+    },
+    {
+      "sha": "6d5bf7e972ce9185829c52cc1c228ac452f2ee3a",
+      "author": "thomeval",
+      "summary": "Fix vocal highway guidelines not scaling before the first range change event (#870)",
+      "description": ""
+    },
+    {
+      "sha": "195db50fe026814c5af4eba7daa64d0bb5608a75",
+      "author": "Purplo-cf",
+      "summary": "Stem-muting, countdown, and notification bugfixes (#866)",
+      "description": "* Fix stem muting while a player is transitioning in/out of Star Power\r\n\r\n* Prevent countdown from showing right before the start of a practice section\r\n\r\n* Added countdown back to vocal track\r\n\r\n* Turned TrackView notifications back on. The script expects the container to be active by default.\r\n\r\n* Added braces to single-line if statements"
+    },
+    {
+      "sha": "262115ae740762527e199a3bacf1c4c2b703d9ab",
+      "author": "thomeval",
+      "summary": "Sorted Profiles List (#858)",
+      "description": "* Added sorting and headers to profile list. All profiles are now grouped into three groups: Active profiles, players and bots. Entries in these groups are sorted alphabetically.\r\n\r\n* Removed ListHeader component. Use TextMesh component directly instead.\r\nFixed ProfileList being enabled by default.\r\n\r\n* Added localisation entries for Profile List headings\r\nEmpty profile groups are now hidden"
+    },
+    {
+      "sha": "d5c490224c6d7aa31b2afd9906df996434f88d4e",
+      "author": "thomeval",
+      "summary": "EditorConfig: Enable \"prefer braces\" rule (#865)",
+      "description": "* EditorConfig: Disable \"prefer braces\" rule\r\n\r\n* Enable prefer braces rule (based on PR feedback)"
+    },
+    {
+      "sha": "68f9ab252b5abf7ec07aa77c6b61162444b7e087",
+      "author": "raphaelgoulart",
+      "summary": "Allow drum freestyle during countdown breaks (#861)",
+      "description": "* Allow freestyle during countdown breaks\r\n\r\n* indent new condition (oops)"
+    },
+    {
+      "sha": "9ea562a3cc5abaff8ef5e7a90c327874ce56d4d9",
+      "author": "thomeval",
+      "summary": "Add guidelines to vocal highway (#857)",
+      "description": "* WIP implementation of vocal guidelines. Doesn't work with harmonies yet, and doesn't seem to scale properly on solo vocals.\r\n\r\n* Implemented scaling on vocal guideline texture based on the highway's visible semi-tone range. Does not currently match the position of vocal notes, possible due to inconsistency in how these notes are positioned compared to the guideline texture\r\n\r\n* Fixed vocal range scaling for harmonies. Reimplemented range padding as a percentage of the current vocal range. Fixes vocal notes not matching the scale guidelines.\r\n\r\n* Changed TRACK_TOP for solo vocals. Fixes notes not aligning to guidelines when in solo vocals are active.\r\n\r\n* Remove debug code\r\n\r\n* Use latest YARG.Core submodule\r\n\r\n* Remove two unneeded local variables\r\n\r\n* Applied requested changes in PR\r\nRefactored range padding into Range struct\r\nImproved handling of Guideline Material property\r\n\r\n* Revert vandalism of ProjectSettings.json\r\nReduce opacity of vocal track guidelines"
+    },
+    {
+      "sha": "d1ab12e84a1b2449e417bf2dc41b68037c8d667d",
+      "author": "thomeval",
+      "summary": "Display unique needle graphics for each Vocals player (up to 7) (#853)",
+      "description": "* Added unique needle graphics for each Vocals player (up to 7)\r\n\r\n* Commit missing material files\r\n\r\n* Removed one unneeded property\r\nSimplified Addressable name for vocal needle materials"
+    },
+    {
+      "sha": "f7ab3258dbd269e46ec893105f0599da7f73f529",
+      "author": "sonicfind",
+      "summary": "Address incorrect directories being used for fileexplorer windows",
+      "description": "Fixes (for the most part) \"Open Song Folder\" selection"
+    },
+    {
+      "sha": "ecc2e90a2370abaefce0816756b33aa2c61e5e01",
+      "author": "TheNathannator",
+      "summary": "Merge branch 'upstream-dev' into upstream-engine-refactor",
+      "description": ""
+    },
+    {
+      "sha": "8f4c0759703f1695c283dbbe915efdd4ccd0acbe",
+      "author": "TheNathannator",
+      "summary": "Reset vocals range shifts in practice mode",
+      "description": ""
+    },
+    {
+      "sha": "1ca5aa715eb5449be9af7ffac1a37ba4cfdb742e",
+      "author": "RileyTheFox",
+      "summary": "Enable alternative Graphics APIs in Player",
+      "description": ""
+    },
+    {
+      "sha": "cec7ea8ad60d705432dbc40f44d3184f690b18e2",
+      "author": "RileyTheFox",
+      "summary": "Update YARG.Core",
+      "description": ""
+    },
+    {
+      "sha": "6a332b8501fb7ddf98ee68e04952d756e6311d13",
+      "author": "RileyTheFox",
+      "summary": "Add setting to dim song background",
+      "description": ""
+    }
+  ]
+}
