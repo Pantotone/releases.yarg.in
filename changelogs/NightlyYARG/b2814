@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "b00801f29eec399f9515992ca0d17b6201ee5e97",
+      "author": "EliteAsian123",
+      "summary": "Added missing localization entries for various settings",
+      "description": ""
+    },
+    {
+      "sha": "7ea9af64e57c3b85f94bc8512361ab9fb5a6bfec",
+      "author": "EliteAsian123",
+      "summary": "Added missing binding and color profile localization entries for Pro Keys",
+      "description": ""
+    }
+  ]
+}
