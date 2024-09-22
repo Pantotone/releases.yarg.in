@@ -1,0 +1,22 @@
+{
+  "commits": [
+    {
+      "sha": "a854bc4fb0e7b6ad4a1fc2a6299fd475fd23f1b5",
+      "author": "TheNathannator",
+      "summary": "Move history menu \"Analyze\" translation key to its proper category",
+      "description": ""
+    },
+    {
+      "sha": "f10ef480079c624cc57c4019c3e443dffa033a44",
+      "author": "TheNathannator",
+      "summary": "Tidy some one-time dialog things",
+      "description": "Confirm message is no longer hard-coded to the anti-piracy dialog's"
+    },
+    {
+      "sha": "a91c6ac89e88a1a59f1c4d8a99a5cd2bf8f8e0f4",
+      "author": "TheNathannator",
+      "summary": "Fix rounding errors with MIDI velocity threshold setting",
+      "description": ""
+    }
+  ]
+}
