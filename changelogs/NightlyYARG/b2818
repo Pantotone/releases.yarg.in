@@ -1,0 +1,28 @@
+{
+  "commits": [
+    {
+      "sha": "f7d3a89b2e6a563d17bea18b4e1289909909c9c8",
+      "author": "RileyTheFox",
+      "summary": "Fix whammy applying when no sustains active",
+      "description": ""
+    },
+    {
+      "sha": "90435267b150e9b287feb7d5ee652573c9cafdf6",
+      "author": "sonicfind",
+      "summary": "Fix errors caused by FixedArray changes (#878)",
+      "description": ""
+    },
+    {
+      "sha": "3061558bff0f0060176d3ba8cb2f30afc00496db",
+      "author": "RileyTheFox",
+      "summary": "Update YARG.Core for open chord bot fix",
+      "description": ""
+    },
+    {
+      "sha": "c5f71f82dd3f1ae3462c0712bc18832adf9ce87f",
+      "author": "RileyTheFox",
+      "summary": "Update YARG.Core for sustain fixes",
+      "description": ""
+    }
+  ]
+}
