@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "9f43e3a52829e55369cae88e9fb58814668791f5",
+      "author": "sonicfind",
+      "summary": "Fix now incorrect setlist path for unity editor",
+      "description": "Since the launcher update changed the path, \"official\" is no longer valid. Without this, the setlist would never appear in the unity editor."
+    },
+    {
+      "sha": "515f609888644ef4c0a85ef96a970c8843feb8bb",
+      "author": "sonicfind",
+      "summary": "Update core to fix read errors with official setlist",
+      "description": ""
+    }
+  ]
+}
