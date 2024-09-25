@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "94a2428a33a42c87c7b30a0d640dbae4f79d7f2b",
+      "author": "EliteAsian123",
+      "summary": "Update YARG.Core pointer after PR merge",
+      "description": ""
+    },
+    {
+      "sha": "ef90f436b8b6dc9e6d759e93bc2676ba53cbae6d",
+      "author": "Purplo-cf",
+      "summary": "Incorporate all vocal parts for harmony countdowns (#880)",
+      "description": "* Incorporate all vocal parts for harmony countdowns\r\n\r\n* Change to VocalsEngine.BuildCountdownsFromAllParts args"
+    }
+  ]
+}
