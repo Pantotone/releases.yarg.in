@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "6575cc408381e86da90d7f4f8445f99558ef6ff9",
+      "author": "thomeval",
+      "summary": "Introduce deadzone for Vocal Needle Rotation (#879)",
+      "description": "* Fix original bug causing vocal needle oversteer. Deadzone is now derived from the \"PitchWindowPerfect\" property in EngineParams.\r\n\r\n* Remove needle rotation deadzone\r\n\r\n* Revert \"Remove needle rotation deadzone\"\r\n\r\nThis reverts commit 33195afe558d81d7d5f9e59cf1795c4e58f6aeed.\r\n\r\n* Remove unneeded div/0 check\r\n\r\n* Revert unneeded whitespace changes"
+    }
+  ]
+}
