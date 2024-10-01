@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "ec5a26cd2f84074341eda0d638e7fb64ce7fa8a8",
+      "author": "polson",
+      "summary": "Fail gracefully when loading a song with missing audio files (#887)",
+      "description": "Co-authored-by: polson <polson@github.com>"
+    }
+  ]
+}
