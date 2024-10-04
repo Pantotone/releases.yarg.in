@@ -1,15 +1,16 @@
 {
     "banner": {
-        "backgroundUrl": "@/banners/SetlistSummertide.png",
-        "backgroundAccent": "#00CCD6",
-        "preHeaderText": "YARG's Third DLC",
-        "headerText": "SUMMERTIDE",
+        "backgroundUrl": "@/banners/SetlistWanderkid.png",
+        "backgroundAccent": "#100F10",
+        "useLightText": true,
+        "preHeaderText": "YARG's Fourth DLC",
+        "headerText": "WANDERKID",
 
-        "viewProfileUUID": "2475f77d-d4a3-4393-8f45-6a89948f8b9c",
+        "viewProfileUUID": "9b0beeae-196f-457b-9d9e-279499992e4a",
 
         "localeOverrides": {}
     },
-    "lastUpdated": "2024-09-12T00:40:06.538Z",
+    "lastUpdated": "2024-10-04T03:01:05.088Z",
     "profiles": [
         {
             "uuid": "2d78800c-1397-496a-83c1-50759607999a",
@@ -89,6 +90,20 @@
             "subText": "Alohaii",
             "iconUrl": "@/icons/SetlistSummertide.png",
             "bannerUrl": "@/banners/SetlistSummertide.png",
+
+            "localeOverrides": {}
+        },
+        {
+            "uuid": "9b0beeae-196f-457b-9d9e-279499992e4a",
+            "type": "setlist",
+            "category": "official_setlist",
+            "url": "https://releases.yarg.in/profiles/9b0beeae-196f-457b-9d9e-279499992e4a/",
+
+            "release": "2024-09-30T23:13:26.753Z",
+            "name": "WANDERKID",
+            "subText": "JW Francis",
+            "iconUrl": "@/icons/SetlistWanderkid.png",
+            "bannerUrl": "@/banners/SetlistWanderkid.png",
 
             "localeOverrides": {}
         }
