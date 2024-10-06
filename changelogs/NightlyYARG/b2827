@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "27bc55e5ee0cccce7b2a0fefebecc40f3fcd9b8c",
+      "author": "sonicfind",
+      "summary": "Re-parallelize UnspecifiedSearch",
+      "description": ""
+    },
+    {
+      "sha": "18817df752e50ffd3d6b40e5ba78e9d40522c897",
+      "author": "sonicfind",
+      "summary": "Account for SongOffset with backgrounds",
+      "description": ""
+    }
+  ]
+}
