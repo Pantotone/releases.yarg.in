@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "aad44bbc555635a2ef96150a9736261d6ae8ac46",
+      "author": "github-actions[bot]",
+      "summary": "New Crowdin translations by GitHub Action (#891)",
+      "description": "Co-authored-by: Crowdin Bot <support+bot@crowdin.com>"
+    }
+  ]
+}
