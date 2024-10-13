@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "d82f0a28bd44827625aead1ddfe4451d899a5708",
+      "author": "TheNathannator",
+      "summary": "Attempt to fix Linux HID backend not initializing on all distros (HIDrogen commit 69ea091 test drive)",
+      "description": ""
+    }
+  ]
+}
