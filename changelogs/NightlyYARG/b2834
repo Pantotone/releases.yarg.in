@@ -1,0 +1,40 @@
+{
+  "commits": [
+    {
+      "sha": "12c0ba4e8e96d43e8e16299e59d075d564febc08",
+      "author": "RileyTheFox",
+      "summary": "Fix stat bar blocking raycasts for HUD editor",
+      "description": ""
+    },
+    {
+      "sha": "df5645de174a08823208e09a7ba3ba59867594a1",
+      "author": "RileyTheFox",
+      "summary": "Add configurable practice restart delay",
+      "description": ""
+    },
+    {
+      "sha": "85b4282bab0fbd6ccc6fa54c73848b1b93afaa48",
+      "author": "polson",
+      "summary": "Fix issue where clicking too fast on helpbar buttons would pop all menus (#899)",
+      "description": ""
+    },
+    {
+      "sha": "7e71b25745f46ef6ad6d7f70faabecf4da637280",
+      "author": "RileyTheFox",
+      "summary": "Update YARG.Core for engine version change",
+      "description": ""
+    },
+    {
+      "sha": "98ddbb45ed768a812410aa5293e9673850336560",
+      "author": "RileyTheFox",
+      "summary": "Add Drums No Dynamics modifier",
+      "description": ""
+    },
+    {
+      "sha": "47b86f2111f79f36aa924d18df30560aaa30fd31",
+      "author": "RileyTheFox",
+      "summary": "Add Unity generated .meta files for localization files",
+      "description": ""
+    }
+  ]
+}
