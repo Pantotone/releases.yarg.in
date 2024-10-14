@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "b2ababf1b8149195666f32cfc468402bab5c45da",
+      "author": "TheNathannator",
+      "summary": "Finalize Linux HID backend fixes (Update HIDrogen to v0.4.2)",
+      "description": ""
+    },
+    {
+      "sha": "9384cd453c80410beb6d212c1706681a454e833a",
+      "author": "TheNathannator",
+      "summary": "Fix cross-build errors involving HIDrogen",
+      "description": ""
+    }
+  ]
+}
