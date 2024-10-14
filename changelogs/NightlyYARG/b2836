@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "845f5b9072778f16dcae07a47cee74104a2f6c6f",
+      "author": "TheNathannator",
+      "summary": "Attempt 2 to fix Linux HID backend",
+      "description": ""
+    },
+    {
+      "sha": "b84b8984424267daeb09ffa8b98f89522669cf17",
+      "author": "polson",
+      "summary": "Fix crunchy audio when whammy is enabled (#896)",
+      "description": ""
+    }
+  ]
+}
