@@ -1,0 +1,22 @@
+{
+  "commits": [
+    {
+      "sha": "55d366ba5ed342f3518388e06177be41e9c38bcc",
+      "author": "TheNathannator",
+      "summary": "forgot to update the package lockfile",
+      "description": ""
+    },
+    {
+      "sha": "ba32e662444f9126f5d7cb409ce10b74564f017a",
+      "author": "RileyTheFox",
+      "summary": "Revert \"Fix crunchy audio when whammy is enabled (#896)\"",
+      "description": "This reverts commit b84b8984424267daeb09ffa8b98f89522669cf17."
+    },
+    {
+      "sha": "16fdc834a69b8bc10aa5435afe3023311d4e323d",
+      "author": "RileyTheFox",
+      "summary": "Remove left over debug log",
+      "description": ""
+    }
+  ]
+}
