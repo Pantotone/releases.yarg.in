@@ -1,0 +1,34 @@
+{
+  "commits": [
+    {
+      "sha": "90b14ed0973e1e39f831d63b987d1978faea8de9",
+      "author": "TheNathannator",
+      "summary": "Try to prevent inputs from getting stuck active when a device disconnects",
+      "description": ""
+    },
+    {
+      "sha": "7574bf7dbf8b9bafb912627ee072a7099f681465",
+      "author": "TheNathannator",
+      "summary": "Fix MIDI note offs overwriting the state of other notes; add note numbers to MIDI note control display names",
+      "description": ""
+    },
+    {
+      "sha": "c9b55cf1fc8316fcf6f714fe69330b53dd9dab56",
+      "author": "TheNathannator",
+      "summary": "Fix swapped delta-state event offset/size labels",
+      "description": ""
+    },
+    {
+      "sha": "32951c3badc40b1699ce9c88183533e92aed96f8",
+      "author": "TheNathannator",
+      "summary": "Add basic input event logging to debug display",
+      "description": ""
+    },
+    {
+      "sha": "d1acf9295a94a3b0b54051675ae3c40dbc54fedd",
+      "author": "nameonascreen",
+      "summary": "Add Setting To Always Allow Drum SFX (#889)",
+      "description": ""
+    }
+  ]
+}
