@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "603dcfbb14da1772ca1fe86d05d2a26f0093fff0",
+      "author": "sonicfind",
+      "summary": "Song Scanning Refactor (#886)",
+      "description": "+ Improvements in `readonly` usage on entries\r\n+ Optimizations with the cache file\r\n+ Optimizations with memory usage during scan"
+    }
+  ]
+}
