@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "a06b7dcf4c41fc11886120d62d2090dbd0626223",
+      "author": "thomeval",
+      "summary": "Prevent invalid high scores from being saved (#898)",
+      "description": "* Prevent saving band high scores when there are bots present, or when Song Speed is less than 100%\r\n\r\n* Refactor score recording in GameManager.\r\nFix wrong condition preventing solo scores from saving.\r\n\r\n* Added \"Band score not saved\" message to ScoreScreen.\r\n\r\n* Rename ShouldRecordSoloScore to IsSoloScoreValid\r\nRefactor IsBandScoreValid to use IsSoloScoreValid\r\n\r\n* Fixed several issues identified from PR feedback"
+    }
+  ]
+}
