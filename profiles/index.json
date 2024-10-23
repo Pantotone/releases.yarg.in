@@ -2,7 +2,7 @@
     "banner": {
         "backgroundUrl": "@/banners/SetlistKeys.png",
         "backgroundAccent": "black",
-        "useLightText": false,
+        "useLightText": true,
         "preHeaderText": "YARG's Fifth DLC",
         "headerText": "Classical Keys",
 
