@@ -1,0 +1,118 @@
+{
+    "type": "setlist",
+    "uuid": "1893d384-cc12-435b-aa64-a774acf77ee0",
+    "metadata": {
+        "name": "Classical Keys Pack 1",
+        "description": "Explore world-famous pieces for piano, organ, and even calliope with YARG's first collection of public domain classical music. Learn authentic right-hand parts on Pro Keys, or play five-lane versions of each hand on Keys and Bass!",
+        "iconUrl": "@/icons/SetlistKeys.png",
+        "bannerBackUrl": "@/banners/SetlistKeys.png",
+        "initialRelease": "2024-10-23T02:02:51.396Z",
+        "newsCategory": "setlist_official",
+        "links": {
+            "youtube": {
+                "name": "Setlist Trailers",
+                "url": "https://www.youtube.com/@YARGGame/videos"
+            }
+        },
+        "songs": [
+            {
+                "title": "Clair de Lune",
+                "artist": "Claude Debussy",
+                "length": 330000,
+                "releaseDate": "2024-10-23T02:02:51.396Z"
+            },
+            {
+                "title": "Marche Funèbre",
+                "artist": "Frédéric Chopin",
+                "length": 488000,
+                "releaseDate": "2024-10-23T02:02:51.396Z"
+            },
+            {
+                "title": "Scherzo No. 1",
+                "artist": "Frédéric Chopin",
+                "length": 501361,
+                "releaseDate": "2024-10-23T02:02:51.396Z"
+            },
+            {
+                "title": "Entrance of the Gladiators",
+                "artist": "Julius Fučík",
+                "length": 280272,
+                "releaseDate": "2024-10-23T02:02:51.396Z"
+            },
+            {
+                "title": "Bridal Chorus",
+                "artist": "Richard Wagner",
+                "length": 111769,
+                "releaseDate": "2024-10-23T02:02:51.396Z"
+            },
+            {
+                "title": "Maple Leaf Rag",
+                "artist": "Scott Joplin",
+                "length": 170142,
+                "releaseDate": "2024-10-23T02:02:51.396Z"
+            }
+        ],
+        "credits": [
+            {
+                "name": "Dai",
+                "url": "https://youtube.com/@daijyoubs1319"
+            },
+            {
+                "name": "frickitickitavi",
+                "url": "https://www.youtube.com/@fricksfrickincharts"
+            },
+            {
+                "name": "grishhung",
+                "url": "https://youtube.com/@grishhung2828"
+            },
+            {
+                "name": "Hubbubble",
+                "url": "https://youtube.com/@hubbubble6856"
+            },
+            {
+                "name": "ItzSynth",
+                "url": "https://youtube.com/@SynthesizeTime"
+            },
+            {
+                "name": "Miscellany",
+                "url": ""
+            },
+            {
+                "name": "Rulas",
+                "url": "https://youtube.com/@Rulas025"
+            },
+            {
+                "name": "Spachi",
+                "url": "https://www.youtube.com/channel/UCQpGzrCzoaiQ4wlV9pTzs5g"
+            },
+            {
+                "name": "WalterRalts",
+                "url": "https://youtube.com/@WalterRalts"
+            }
+        ],
+        "localeOverrides": {}
+    },
+    "version": {
+        "type": "embedded",
+        "version": {
+            "uuid": "44ffcb60-d7e6-4be9-afe4-1b6a561a31bd",
+            "tag": "classical_keys_1-2024-10-22-0",
+            "release": "2024-10-23T02:02:51.396Z",
+            "content": [
+                {
+                    "platforms": [
+                        "windows",
+                        "macos",
+                        "linux"
+                    ],
+                    "files": [
+                        {
+                            "url": "https://github.com/YARC-Official/Official-Setlist-Public/releases/download/classical_keys_1-2024-10-22-0/classical_keys_1-0.7z",
+                            "fileType": "encrypted"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

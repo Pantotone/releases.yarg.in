@@ -1,16 +1,16 @@
 {
     "banner": {
-        "backgroundUrl": "@/banners/SetlistWanderkid.png",
-        "backgroundAccent": "#100F10",
-        "useLightText": true,
-        "preHeaderText": "YARG's Fourth DLC",
-        "headerText": "WANDERKID",
+        "backgroundUrl": "@/banners/SetlistKeys.png",
+        "backgroundAccent": "black",
+        "useLightText": false,
+        "preHeaderText": "YARG's Fifth DLC",
+        "headerText": "Classical Keys",
 
-        "viewProfileUUID": "9b0beeae-196f-457b-9d9e-279499992e4a",
+        "viewProfileUUID": "1893d384-cc12-435b-aa64-a774acf77ee0",
 
         "localeOverrides": {}
     },
-    "lastUpdated": "2024-10-04T03:01:05.088Z",
+    "lastUpdated": "2024-10-23T02:25:10.348Z",
     "profiles": [
         {
             "uuid": "2d78800c-1397-496a-83c1-50759607999a",
@@ -104,6 +104,32 @@
             "subText": "JW Francis",
             "iconUrl": "@/icons/SetlistWanderkid.png",
             "bannerUrl": "@/banners/SetlistWanderkid.png",
+
+            "localeOverrides": {}
+        },
+        {
+            "uuid": "1893d384-cc12-435b-aa64-a774acf77ee0",
+            "type": "setlist",
+            "category": "official_setlist",
+            "url": "https://releases.yarg.in/profiles/1893d384-cc12-435b-aa64-a774acf77ee0/",
+
+            "release": "2024-10-23T02:02:51.396Z",
+            "name": "Classical Keys Pack 1",
+            "iconUrl": "@/icons/SetlistKeys.png",
+            "bannerUrl": "@/banners/SetlistKeys.png",
+
+            "localeOverrides": {}
+        },
+        {
+            "uuid": "ca41fee5-35de-442e-8e28-c246e19b36fc",
+            "type": "setlist",
+            "category": "official_setlist",
+            "url": "https://releases.yarg.in/profiles/ca41fee5-35de-442e-8e28-c246e19b36fc/",
+
+            "release": "2024-10-23T02:02:51.396Z",
+            "name": "Children's Keys Pack 1",
+            "iconUrl": "@/icons/SetlistKeys.png",
+            "bannerUrl": "@/banners/SetlistKeys.png",
 
             "localeOverrides": {}
         }
