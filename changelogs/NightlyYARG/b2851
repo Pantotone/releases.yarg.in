@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "d20de69131dbc3d01460e9b74dbc3fed9c23589d",
+      "author": "EliteAsian123",
+      "summary": "Moved `DifficultySprites` file location",
+      "description": ""
+    },
+    {
+      "sha": "42c9cac72e9de2ace6e99df99434763aa27684ee",
+      "author": "thomeval",
+      "summary": "Improved solo high scores, basic band high scores (#883)",
+      "description": "* WIP Implementation of better solo high scores.\r\nSolo high scores are now displayed when there is exactly one non-bot player present.\r\nHigh scores are now retrieved per player, song and instrument. Added a new cache for the above when retrieving high scores for the same player + instrument for many songs in a row.\r\nRemoved instrument icon for high scores on Music Library song list, replaced with a FC indicator sprite (using a placeholder sprite for now).\r\nMoved retrieval of solo high scores per song to MusicLibraryMenu.\r\nMarked several methods as Obsolete\r\n\r\n* Reworked Player High Scores due to feedback. Player High Scores now keep track of the best percentage and best score (matches existing behaviour)\r\nAdded basic implementation for Band High Scores\r\nRemoved magic number in RecommandedSongs\r\n\r\n* Update Band High Scores cache when a new Band High Score is set.\r\nFixed Best percentage scores not being loaded.\r\nFixed Best percentage score not being displayed if its different to the best score.\r\n\r\n* Fixed bug when saving a band high score for the first time.\r\nFixed best percentage not loading when multiple profiles have played the same song+instrument combination.\r\n\r\n* Added new difficulty icons, and display them in solo high scores.\r\n\r\n* Removed obsolete method from ScoreContainer\r\nAdded comments for GetBestPercentageScore()\r\n\r\n* Update YARG.Core\r\n\r\n* Resolved issues from PR feedback\r\n\r\n* Tweaked \"Score not saved\" message"
+    }
+  ]
+}
