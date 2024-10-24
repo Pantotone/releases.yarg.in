@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "af1f07be2e7f332fa66d4acf5b56ea5c4a737743",
+      "author": "sonicfind",
+      "summary": "Fix incorrect chord hopo behavior",
+      "description": ""
+    },
+    {
+      "sha": "a2a3d12a1095f8e25ea07744b44f8551b3d36479",
+      "author": "sonicfind",
+      "summary": "Attempt to fix Year sorting errors (+cache update)",
+      "description": ""
+    }
+  ]
+}
