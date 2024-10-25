@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "f65930b346a128291fdf916065334fb81fbe3db6",
+      "author": "sonicfind",
+      "summary": "Address errors caused by malformed audio mapping in certain DTAs",
+      "description": "Missing try-catch block from before. oops"
+    }
+  ]
+}
