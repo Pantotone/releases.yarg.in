@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "cb1ebb0d2016b0804ba53891f3f7b6c7b72332d8",
+      "author": "EliteAsian123",
+      "summary": "Aligned difficulty icon better",
+      "description": ""
+    },
+    {
+      "sha": "021236d75232d3c7de4d07d2008090be3c1af5bc",
+      "author": "thomeval",
+      "summary": "Slightly improve high score loading performance (#907)",
+      "description": ""
+    }
+  ]
+}
