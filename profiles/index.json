@@ -1,16 +1,17 @@
 {
     "banner": {
-        "backgroundUrl": "@/banners/SetlistKeys.png",
-        "backgroundAccent": "black",
-        "useLightText": true,
-        "preHeaderText": "YARG's Fifth DLC",
-        "headerText": "Classical Keys",
+        "backgroundUrl": "@/banners/SetlistWave.png",
+        "backgroundAccent": "#DF6B00",
+        "useLightText": false,
+        "preHeaderText": "Official Setlist",
+        "headerText": "Wave 9",
 
-        "viewProfileUUID": "1893d384-cc12-435b-aa64-a774acf77ee0",
+        "viewProfileUUID": "8474d8ad-15bd-492c-927b-003940100fa1",
+        "previewUrl": "https://www.youtube.com/watch?v=i33ztJerVkg",
 
         "localeOverrides": {}
     },
-    "lastUpdated": "2024-10-23T02:25:10.348Z",
+    "lastUpdated": "2024-10-26T23:47:52.706Z",
     "profiles": [
         {
             "uuid": "2d78800c-1397-496a-83c1-50759607999a",

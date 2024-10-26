@@ -267,6 +267,42 @@
                 "artist": "TrackTribe",
                 "length": 208500,
                 "releaseDate": "2024-07-22T00:00:00.000Z"
+            },
+            {
+                "title": "A Visitant (feat. Victor Borba)",
+                "artist": "RO1",
+                "length": 341007,
+                "releaseDate": "2024-10-26T23:44:20.269Z"
+            },
+            {
+                "title": "CRUISIN'",
+                "artist": "raphaelgoulart",
+                "length": 275635,
+                "releaseDate": "2024-10-26T23:44:20.269Z"
+            },
+            {
+                "title": "Blue (feat. Miori Celesta)",
+                "artist": "InVerSe",
+                "length": 269387,
+                "releaseDate": "2024-10-26T23:44:20.269Z"
+            },
+            {
+                "title": "Half Measures",
+                "artist": "Aaron Musslewhite",
+                "length": 263283,
+                "releaseDate": "2024-10-26T23:44:20.269Z"
+            },
+            {
+                "title": "Stowaway Ants",
+                "artist": "Alpha Bo??tis",
+                "length": 249882,
+                "releaseDate": "2024-10-26T23:44:20.269Z"
+            },
+            {
+                "title": "Plastic Boogie",
+                "artist": "King Gizzard and the Lizard Wizard",
+                "length": 182040,
+                "releaseDate": "2024-10-26T23:44:20.269Z"
             }
         ],
         "credits": [
@@ -312,17 +348,19 @@
     "version": {
         "type": "embedded",
         "version": {
-            "uuid": "1f33725b-1db4-490e-8864-8614fe169d26",
-            "tag": "official-2024-08-29-0",
-            "release": "2024-08-30T01:08:33.498Z",
+            "uuid": "5a1ff15f-788c-49ed-84bc-27903f2c85d6",
+            "tag": "official-2024-10-26-0",
+            "release": "2024-10-26T23:44:20.269Z",
             "content": [
                 {
                     "platforms": [
-                        "windows", "macos", "linux"
+                        "windows",
+                        "macos",
+                        "linux"
                     ],
                     "files": [
                         {
-                            "url": "https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2024-08-29-0/official-0.7z",
+                            "url": "https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2024-10-26-0/official-0.7z",
                             "fileType": "encrypted"
                         }
                     ]
