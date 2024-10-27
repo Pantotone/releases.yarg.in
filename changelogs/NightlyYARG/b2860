@@ -1,0 +1,28 @@
+{
+  "commits": [
+    {
+      "sha": "93e23fd9cb5273b75456d89543155a97a3e5c747",
+      "author": "sonicfind",
+      "summary": "CON scan log improvements (ISN'T THIS FUN??)",
+      "description": ""
+    },
+    {
+      "sha": "eecd83a01c86f953876ef958c8e1272963ea4e45",
+      "author": "sonicfind",
+      "summary": "Add missing filename to CON scan exception",
+      "description": ""
+    },
+    {
+      "sha": "24ef0f2879cf501d4c96a6bfb4332aa49372c3bf",
+      "author": "sonicfind",
+      "summary": "More descriptive CON DTA exceptions in certain situations",
+      "description": ""
+    },
+    {
+      "sha": "ba003329b2549541aca730ee11e553ceb86ae77a",
+      "author": "sonicfind",
+      "summary": "More guards against bad CON files",
+      "description": "AKA, try-catch"
+    }
+  ]
+}
