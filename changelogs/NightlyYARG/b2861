@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "b346112a444de6a99ebaf3387d00272f8245386c",
+      "author": "EliteAsian123",
+      "summary": "Lazy load highscores instead of loading them all at once",
+      "description": ""
+    }
+  ]
+}
