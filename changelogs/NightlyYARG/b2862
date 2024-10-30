@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "e1d11564f7bc14132b4ceb3b5fd32bd2326acaf6",
+      "author": "sonicfind",
+      "summary": "Fix missing CON entry album names (+Cache update)",
+      "description": ""
+    }
+  ]
+}
