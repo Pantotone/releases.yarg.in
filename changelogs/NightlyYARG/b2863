@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "f63d42999a8a3eddcd62b3bba9089cbdb6ca29d1",
+      "author": "TheNathannator",
+      "summary": "Fix an exception from the Linux HID backend (Update HIDrogen to v0.4.3)",
+      "description": ""
+    }
+  ]
+}
