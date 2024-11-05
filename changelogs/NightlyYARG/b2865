@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "06239f13babb358fd8561b971cfe9c90897c9afe",
+      "author": "sonicfind",
+      "summary": "Fixes for .chart text event parsing and DTA `}` skips",
+      "description": ""
+    }
+  ]
+}
