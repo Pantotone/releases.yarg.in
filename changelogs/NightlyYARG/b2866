@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "8f830bae69988e7e799b9ec8f2b6acd0b40fc933",
+      "author": "TheFatBastid",
+      "summary": "Sanity check for song sections in auto-gen light shows (#911)",
+      "description": ""
+    }
+  ]
+}
