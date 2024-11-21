@@ -1,0 +1,28 @@
+{
+  "commits": [
+    {
+      "sha": "4a41a683ebc20df164047e41456356d3c0854e74",
+      "author": "wyrdough",
+      "summary": "Change default tilt activation threshold for Riffmaster (#923)",
+      "description": "* Change default tilt activation threshold. Makes it possible to activate SP with tilt by default.\r\n\r\n* Tilt sensor default change now applies only to Riffmaster\r\n\r\n* Fix misuse of static class property"
+    },
+    {
+      "sha": "9f0314a57bfd797e6c3b2774e5355bbf5be8c327",
+      "author": "thomeval",
+      "summary": "Customizable Highway Presets (#905)",
+      "description": "* WIP Rebuild of Active Players List PR for engine-refactor\r\n\r\n* Rebuilt ActivePlayerList and ActivePlayerListItem components. Added these to the Status Bar\r\n\r\n* Update Instrument icon on Active Players List when changing a profile's GameMode, or when choosing an instrument in the Diffisulty Select Menu.\r\n\r\n* WIP Attempt to add star power glow to Color Presets\r\n\r\n* Fix one type mismatch\r\n\r\n* WIP adding color preset option for star power glow colour on note highways\r\n\r\n* Update YARG.Core\r\n\r\n* Implemented Star Power colour and Groove colours to ColorProfiles\r\nIntroduced new \"Common\" section for ColorProfiles\r\nStar Power and Groove colours can now be customized or disabled using the above ColorProfile properties\r\nAdded \"Boring\" default color preset which hides Groove and Star Power glow effects.\r\n\r\n* Update YARG.Core\r\n\r\n* Added (non-groove) background colours to ColorProfile\r\nForce Star Power and Groove on for FakeTrackPlayer\r\n\r\n* Update YARG.Core\r\n\r\n* Move highway colours to separate HighwayPreset class, and update usages\r\nUpdate TrackPreviewBuilder to force Star Power and Groove on as needed\r\nAdded Highway Preset option to ProfileSidebar\r\nMoved localization text to subkey\r\n\r\n* Fixed Highway Preset changes not being applied on Profiles List screen\r\n\r\n* Removed unused localization key.\r\nUpdate YARG.Core\r\n\r\n* Remove HighwayPreset from ReplayData\r\n\r\n* Remove one unused parameter in ReplayData\r\n\r\n* Removed TrackMaterial.Preset.Layer struct and simplified usage\r\nAddressed PR feedback\r\n\r\n* Update YARG.Core\r\n\r\n* Update YARG.Core"
+    },
+    {
+      "sha": "4fb78d9f4914b8541c9d66741a6f048499087f97",
+      "author": "RileyTheFox",
+      "summary": "Remove preprocessor from FileExplorerHelper",
+      "description": ""
+    },
+    {
+      "sha": "96c796f38d753b0072ebf13523c80b5712774f27",
+      "author": "8D1",
+      "summary": "Added Linux File Opening Support (#922)",
+      "description": ""
+    }
+  ]
+}
