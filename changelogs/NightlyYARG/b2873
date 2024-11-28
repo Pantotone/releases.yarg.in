@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "8b693f66b070661c4619b1a09dbc6515d0d5fba2",
+      "author": "EliteAsian123",
+      "summary": "Prevent log spamming when trying to edit pro keys color profile (not at all done yet but an improvement)",
+      "description": ""
+    }
+  ]
+}
