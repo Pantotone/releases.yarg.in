@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "c5db9eaefda4c4ca451e59c7d8feeac68df8cfd0",
+      "author": "EliteAsian123",
+      "summary": "Fix open notes not being rendered correctly in the settings preview",
+      "description": ""
+    },
+    {
+      "sha": "f9501b6b3cfaed83e452ea6ea6151b56e021c3f3",
+      "author": "thomeval",
+      "summary": "Fix high score best percentage being updated incorrectly when a new high score is set. (#919)",
+      "description": ""
+    }
+  ]
+}
