@@ -303,6 +303,12 @@
                 "artist": "King Gizzard and the Lizard Wizard",
                 "length": 182040,
                 "releaseDate": "2024-10-26T23:44:20.269Z"
+            },
+            {
+                "title": "Song of November",
+                "artist": "Frantic Memories",
+                "length": 143505,
+                "releaseDate": "2024-11-29T23:44:20.269Z"
             }
         ],
         "credits": [
@@ -348,9 +354,9 @@
     "version": {
         "type": "embedded",
         "version": {
-            "uuid": "dfffd320-96fe-4b79-89a0-f570185c0a9b",
-            "tag": "official-2024-11-12-0",
-            "release": "2024-11-12t21:44:48.484z",
+            "uuid": "2e75b417-0692-45b3-9bba-25321df9fedc",
+            "tag": "official-2024-11-29-0",
+            "release": "2024-11-29T23:44:20.269Z",
             "content": [
                 {
                     "platforms": [
@@ -360,7 +366,7 @@
                     ],
                     "files": [
                         {
-                            "url": "https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2024-11-12-0/official-0.7z",
+                            "url": "https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2024-11-29-0/official-0.7z",
                             "fileType": "encrypted"
                         }
                     ]
