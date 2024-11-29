@@ -1,0 +1,22 @@
+{
+  "commits": [
+    {
+      "sha": "eae98d8753628ad4e4cd1eaa60cc257778dc85cc",
+      "author": "sonicfind",
+      "summary": "Fix errors when skipping CONtext blocks (get the joke guys???)",
+      "description": ""
+    },
+    {
+      "sha": "3f6514dacc17d0837e08053ec5dcee12ca913040",
+      "author": "sonicfind",
+      "summary": "Fix .chart loading errors + less stringent vocal scan requirements",
+      "description": ""
+    },
+    {
+      "sha": "fce641b1c10934deaa8bec7080d83b15cd07bdc5",
+      "author": "thomeval",
+      "summary": "Add \"Make Nightly Build\" menu option to Unity Editor. (#927)",
+      "description": ""
+    }
+  ]
+}
