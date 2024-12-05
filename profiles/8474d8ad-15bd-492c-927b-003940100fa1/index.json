@@ -17,14 +17,20 @@
         },
         "songs": [
             {
-                "title": "pizza rolls",
-                "artist": "bottom bunk",
+                "title": "Pizza Rolls",
+                "artist": "Bottom Bunk",
                 "length": 152381,
                 "releaseDate": "2023-07-10T00:00:00.000Z"
             },
             {
+                "title": "The New World Disorder",
+                "artist": "H\u00F6wler",
+                "length": 323600,
+                "releaseDate": "2023-07-10T00:00:00.000Z"
+            },
+            {
                 "title": "Butterflies",
-                "artist": "KINGSEEKER",
+                "artist": "Kingseeker",
                 "length": 182118,
                 "releaseDate": "2023-07-10T00:00:00.000Z"
             },
@@ -35,25 +41,19 @@
                 "releaseDate": "2023-07-10T00:00:00.000Z"
             },
             {
-                "title": "Runnin' Man",
+                "title": "Runnin Man",
                 "artist": "Stone Deep",
                 "length": 255640,
                 "releaseDate": "2023-07-10T00:00:00.000Z"
             },
             {
-                "title": "The New World Disorder",
-                "artist": "Höwler",
-                "length": 323600,
-                "releaseDate": "2023-07-10T00:00:00.000Z"
-            },
-            {
                 "title": "In My Head",
                 "artist": "Halfway to Michigan",
-                "length": 151770,
+                "length": 149230,
                 "releaseDate": "2023-08-21T00:00:00.000Z"
             },
             {
-                "title": "John, Take Me With You",
+                "title": "John, Take Me with You",
                 "artist": "JW Francis",
                 "length": 217000,
                 "releaseDate": "2023-08-21T00:00:00.000Z"
@@ -113,15 +113,15 @@
                 "releaseDate": "2023-11-18T00:00:00.000Z"
             },
             {
-                "title": "Don't Spook The Owl",
-                "artist": "Kidd Judo",
-                "length": 213974,
-                "releaseDate": "2024-01-17T00:00:00.000Z"
-            },
-            {
                 "title": "Do",
                 "artist": "Garlagan",
                 "length": 266280,
+                "releaseDate": "2024-01-17T00:00:00.000Z"
+            },
+            {
+                "title": "Don\u0027t Spook the Owl",
+                "artist": "Kidd Judo",
+                "length": 213974,
                 "releaseDate": "2024-01-17T00:00:00.000Z"
             },
             {
@@ -131,15 +131,15 @@
                 "releaseDate": "2024-01-17T00:00:00.000Z"
             },
             {
-                "title": "Languish",
-                "artist": "Our Common Collapse",
-                "length": 187023,
+                "title": "Numb the Mind",
+                "artist": "NyxTheShield",
+                "length": 275348,
                 "releaseDate": "2024-01-17T00:00:00.000Z"
             },
             {
-                "title": "Numb The Mind",
-                "artist": "NyxTheShield",
-                "length": 275348,
+                "title": "Languish",
+                "artist": "Our Common Collapse",
+                "length": 187023,
                 "releaseDate": "2024-01-17T00:00:00.000Z"
             },
             {
@@ -149,9 +149,9 @@
                 "releaseDate": "2024-03-09T00:00:00.000Z"
             },
             {
-                "title": "poser",
-                "artist": "luminism",
-                "length": 182380,
+                "title": "Poser",
+                "artist": "Luminism",
+                "length": 199783,
                 "releaseDate": "2024-03-09T00:00:00.000Z"
             },
             {
@@ -173,7 +173,19 @@
                 "releaseDate": "2024-03-09T00:00:00.000Z"
             },
             {
-                "title": "Front Row Seats",
+                "title": "Seasons (feat. Shiki Miyoshino)",
+                "artist": "Alohaii",
+                "length": 210337,
+                "releaseDate": "2024-04-20T00:00:00.000Z"
+            },
+            {
+                "title": "322",
+                "artist": "Creo",
+                "length": 230625,
+                "releaseDate": "2024-04-20T00:00:00.000Z"
+            },
+            {
+                "title": "Front Row Seats (To Watching Your World Burn)",
                 "artist": "FoundiT",
                 "length": 194594,
                 "releaseDate": "2024-04-20T00:00:00.000Z"
@@ -185,27 +197,15 @@
                 "releaseDate": "2024-04-20T00:00:00.000Z"
             },
             {
-                "title": "322",
-                "artist": "Creo",
-                "length": 230625,
-                "releaseDate": "2024-04-20T00:00:00.000Z"
-            },
-            {
-                "title": "About The Author",
-                "artist": "The Sterns",
-                "length": 155262,
-                "releaseDate": "2024-04-20T00:00:00.000Z"
-            },
-            {
                 "title": "Sadness (feat. Sapphire Noel)",
                 "artist": "Heartsick",
                 "length": 212791,
                 "releaseDate": "2024-04-20T00:00:00.000Z"
             },
             {
-                "title": "Seasons (feat. Shiki Miyoshino)",
-                "artist": "Alohaii",
-                "length": 210337,
+                "title": "About the Author",
+                "artist": "The Sterns",
+                "length": 155262,
                 "releaseDate": "2024-04-20T00:00:00.000Z"
             },
             {
@@ -239,7 +239,7 @@
                 "releaseDate": "2024-06-10T00:00:00.000Z"
             },
             {
-                "title": "I DON'T WANNA TALK",
+                "title": "I Don\u0027t Wanna Talk",
                 "artist": "Carter Vail",
                 "length": 195891,
                 "releaseDate": "2024-07-22T00:00:00.000Z"
@@ -257,34 +257,16 @@
                 "releaseDate": "2024-07-22T00:00:00.000Z"
             },
             {
-                "title": "is this what you wanted",
+                "title": "Is This What You Wanted",
                 "artist": "Scro",
                 "length": 229317,
                 "releaseDate": "2024-07-22T00:00:00.000Z"
             },
             {
-                "title": "Guess I'll Never Know",
+                "title": "Guess I\u0027ll Never Know",
                 "artist": "TrackTribe",
                 "length": 208500,
                 "releaseDate": "2024-07-22T00:00:00.000Z"
-            },
-            {
-                "title": "A Visitant (feat. Victor Borba)",
-                "artist": "RO1",
-                "length": 341007,
-                "releaseDate": "2024-10-26T23:44:20.269Z"
-            },
-            {
-                "title": "CRUISIN'",
-                "artist": "raphaelgoulart",
-                "length": 275635,
-                "releaseDate": "2024-10-26T23:44:20.269Z"
-            },
-            {
-                "title": "Blue (feat. Miori Celesta)",
-                "artist": "InVerSe",
-                "length": 269387,
-                "releaseDate": "2024-10-26T23:44:20.269Z"
             },
             {
                 "title": "Half Measures",
@@ -294,14 +276,32 @@
             },
             {
                 "title": "Stowaway Ants",
-                "artist": "Alpha Boötis",
+                "artist": "Alpha Bo\u00F6tis",
                 "length": 249882,
+                "releaseDate": "2024-10-26T23:44:20.269Z"
+            },
+            {
+                "title": "Blue (feat. Miori Celesta)",
+                "artist": "InVerSe",
+                "length": 269387,
                 "releaseDate": "2024-10-26T23:44:20.269Z"
             },
             {
                 "title": "Plastic Boogie",
                 "artist": "King Gizzard and the Lizard Wizard",
                 "length": 182040,
+                "releaseDate": "2024-10-26T23:44:20.269Z"
+            },
+            {
+                "title": "Cruisin\u0027",
+                "artist": "raphaelgoulart",
+                "length": 275635,
+                "releaseDate": "2024-10-26T23:44:20.269Z"
+            },
+            {
+                "title": "A Visitant (feat. Victor Borba)",
+                "artist": "RO1",
+                "length": 341007,
                 "releaseDate": "2024-10-26T23:44:20.269Z"
             },
             {
