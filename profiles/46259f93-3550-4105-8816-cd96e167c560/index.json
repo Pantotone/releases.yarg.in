@@ -28,7 +28,7 @@
                 "releaseDate": "2024-08-24T16:50:34.439Z"
             },
             {
-                "title": "Middle of The City Road",
+                "title": "Middle of the City Road",
                 "artist": "Walter Ralts",
                 "length": 124102,
                 "releaseDate": "2024-08-24T16:50:34.439Z"
@@ -83,7 +83,9 @@
             "content": [
                 {
                     "platforms": [
-                        "windows", "macos", "linux"
+                        "windows",
+                        "macos",
+                        "linux"
                     ],
                     "files": [
                         {
