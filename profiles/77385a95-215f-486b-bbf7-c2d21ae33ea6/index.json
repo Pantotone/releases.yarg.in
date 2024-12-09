@@ -2,8 +2,8 @@
     "type": "setlist",
     "uuid": "77385a95-215f-486b-bbf7-c2d21ae33ea6",
     "metadata": {
-        "name": "Assorted Pack 2",
-        "description": "Here is a pack of energetic electronic songs, providing challenges on all instruments! Featuring SO87 & Jelly Hoshiumi, Waterflame, and tv room.",
+        "name": "Assorted Electronic 1",
+        "description": "Here is a pack of energetic pop/dance/electronic songs, providing challenges on all instruments!",
         "iconUrl": "@/icons/SetlistDLC.png",
         "bannerBackUrl": "@/banners/SetlistBack.png",
         "initialRelease": "2024-08-30T01:17:59.492Z",
@@ -16,10 +16,34 @@
         },
         "songs": [
             {
-                "title": "SPACE AND TIME! (feat. Jelly Hoshiumi)",
+                "title": "Ghost",
+                "artist": "Aaron Musslewhite",
+                "length": 190454,
+                "releaseDate": "2024-12-09T02:36:46.371Z"
+            },
+            {
+                "title": "Rot for Clout (feat. Kasane Teto)",
+                "artist": "Jamie Paige",
+                "length": 231627,
+                "releaseDate": "2024-12-09T02:36:46.371Z"
+            },
+            {
+                "title": "By the Seaside (feat. Kitsui Akira)",
+                "artist": "Kirara Magic",
+                "length": 183000,
+                "releaseDate": "2024-12-09T02:36:46.371Z"
+            },
+            {
+                "title": "Space and Time! (feat. Jelly Hoshiumi)",
                 "artist": "SO87",
                 "length": 192000,
                 "releaseDate": "2024-08-30T01:17:59.492Z"
+            },
+            {
+                "title": "Feel Good",
+                "artist": "Syn Cole",
+                "length": 182073,
+                "releaseDate": "2024-12-09T02:36:46.371Z"
             },
             {
                 "title": "Say It Back",
@@ -77,9 +101,9 @@
     "version": {
         "type": "embedded",
         "version": {
-            "uuid": "1e59d6e1-4f48-430b-a528-8821ac7f3882",
-            "tag": "assorted_2-2024-11-24-0",
-            "release": "2024-11-24T21:44:48.484Z",
+            "uuid": "9820d231-c671-48ad-8e34-c13623afbe42",
+            "tag": "assorted_2-2024-12-08-0",
+            "release": "2024-12-09T02:36:46.371Z",
             "content": [
                 {
                     "platforms": [
@@ -89,7 +113,7 @@
                     ],
                     "files": [
                         {
-                            "url": "https://github.com/YARC-Official/Official-Setlist-Public/releases/download/assorted_2-2024-11-24-0/assorted_2-0.7z",
+                            "url": "https://github.com/YARC-Official/Official-Setlist-Public/releases/download/assorted_2-2024-12-08-0/assorted_2-0.7z",
                             "fileType": "encrypted"
                         }
                     ]
