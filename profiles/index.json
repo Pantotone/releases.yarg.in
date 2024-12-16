@@ -117,7 +117,7 @@
             "release": "2024-10-23T02:02:51.396Z",
             "name": "Classical Keys Pack 1",
             "iconUrl": "@/icons/SetlistKeys.png",
-            "bannerUrl": "@/banners/SetlistKeys.png",
+            "bannerUrl": "@/banners/SetlistKeysAlt.png",
 
             "localeOverrides": {}
         },
