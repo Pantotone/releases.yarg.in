@@ -1,23 +1,23 @@
 {
-  "version": "1.0.1",
-  "notes": "Bug fixes and important marketplace changes!",
-  "pub_date": "2024-10-03T02:55:09.504Z",
+  "version": "1.0.2",
+  "notes": "See the assets to download this version and install.",
+  "pub_date": "2024-12-16T01:49:30.885Z",
   "platforms": {
-    "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTW9ULzJ4cUluY3lEaEFwRk5JWjJjaTlUb01pR0JQcXRKZDhWblJlVDBYK0tFUHdVYmZtdTVhVklkY3lQeUc3b0ovb1U3bGpHWDR1UEJNMGpKbEtDZ2lsMTc4RjdDUFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3OTIzOTgxCWZpbGU6eWFyYy1sYXVuY2hlcl8xLjAuMV9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKYk9LRTJ1MUQwQ0ZhelNsVjNNR1d4eC9pMkkrallNZEhtVklQQUdJaFgvSGFDdi94OTVyYlpjcDV1OFVCYncvQ3QxVSsxaTIraXlpZTdGckp4U1FTQ1E9PQo=",
-      "url": "https://github.com/YARC-Official/YARC-Launcher/releases/download/v1.0.1/yarc-launcher_1.0.1_amd64.AppImage.tar.gz"
-    },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTW9ULzJ4cUluY3pKVUU3SFJTWHBhbTNXWEFiVlI0TFZHVGhweUE0Zy96TGdKSUtnRFlJY2hNWmx3Z2hkbWlZbWFUdDMrODdvSzl0a0IvZXJjMFhyNU42RTA5YTF4YmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3OTI0MDI2CWZpbGU6WUFSQyBMYXVuY2hlci5hcHAudGFyLmd6CkdJTk5NTzM1MldSMmtOZFV1UVppeXo1N3JZYVZEQmFuZ0J0dmlHWkdRSXZaSE9Yc0lrUTcwYUFzQTkvSHFYcnhta3d1RXp4cng3MlFuYVMvNzVNUEJRPT0K",
-      "url": "https://github.com/YARC-Official/YARC-Launcher/releases/download/v1.0.1/YARC.Launcher_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTW9ULzJ4cUluYzgxTi9HR1VCR0xvQWorNU0rR0VtRk1TcU02c2wyQ2p4QW82UmVrYUNvL2pIUXR3WGJKaEZ1Z1lSQ3QwY2hCd3E0eGxGd1lRQ3F1RWlUalVabVV4L3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM0MzEzNDUxCWZpbGU6WUFSQyBMYXVuY2hlci5hcHAudGFyLmd6CitMZlBobnQrcHVyOERXUnhvTVF1SGlKUkJmM2FVSkJlY3lLR2FLcG5UUzVLeWp2aDl2OUNYcVV0NjV6eVpOSFF4YlpyYlFnOGVVMmFDVkVoQUdCakJRPT0K",
+      "url": "https://github.com/YARC-Official/YARC-Launcher/releases/download/v1.0.2/YARC.Launcher_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTW9ULzJ4cUluY3pKVUU3SFJTWHBhbTNXWEFiVlI0TFZHVGhweUE0Zy96TGdKSUtnRFlJY2hNWmx3Z2hkbWlZbWFUdDMrODdvSzl0a0IvZXJjMFhyNU42RTA5YTF4YmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3OTI0MDI2CWZpbGU6WUFSQyBMYXVuY2hlci5hcHAudGFyLmd6CkdJTk5NTzM1MldSMmtOZFV1UVppeXo1N3JZYVZEQmFuZ0J0dmlHWkdRSXZaSE9Yc0lrUTcwYUFzQTkvSHFYcnhta3d1RXp4cng3MlFuYVMvNzVNUEJRPT0K",
-      "url": "https://github.com/YARC-Official/YARC-Launcher/releases/download/v1.0.1/YARC.Launcher_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTW9ULzJ4cUluYzgxTi9HR1VCR0xvQWorNU0rR0VtRk1TcU02c2wyQ2p4QW82UmVrYUNvL2pIUXR3WGJKaEZ1Z1lSQ3QwY2hCd3E0eGxGd1lRQ3F1RWlUalVabVV4L3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM0MzEzNDUxCWZpbGU6WUFSQyBMYXVuY2hlci5hcHAudGFyLmd6CitMZlBobnQrcHVyOERXUnhvTVF1SGlKUkJmM2FVSkJlY3lLR2FLcG5UUzVLeWp2aDl2OUNYcVV0NjV6eVpOSFF4YlpyYlFnOGVVMmFDVkVoQUdCakJRPT0K",
+      "url": "https://github.com/YARC-Official/YARC-Launcher/releases/download/v1.0.2/YARC.Launcher_universal.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTW9ULzJ4cUluYzNWckZoVERHMlg0d09XUE1sVGgxay9jdjQ3b2R1dFZiM3lVNVdjZnJGc0JOaGZSOUlabnZQNFdJd1AzOFduL0RLeG14dXd5K3pOa1F0TVJrdlZMWlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM0MzEzNTY0CWZpbGU6eWFyYy1sYXVuY2hlcl8xLjAuMl9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKckcxTWs3cVVIM3dQL0VyZGZFaTZLZmFVOXpwU3hsdnlzbnJJUVp0YU5zME9ZRmU0cWJzM0s0TUtHaUpORlA3THozUnlvNUVHOVBKb095V0JGQzNnQ3c9PQo=",
+      "url": "https://github.com/YARC-Official/YARC-Launcher/releases/download/v1.0.2/yarc-launcher_1.0.2_amd64.AppImage.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTW9ULzJ4cUluY3h4emZPOUxaYjh2Y1U3WWYra3ErRUNhTkN5RXp0TkZBbDZ3bWp5aCtUV3JRMCtCLzlPeU9ITFRMREUvZDBTVVNXUmxqS1JiRm44b2VzZFcrTnJhR2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3OTI0MTA2CWZpbGU6WUFSQyBMYXVuY2hlcl8xLjAuMV94NjRfZW4tVVMubXNpLnppcApFUDRIMHFxbW93Y2hqYXU2QTNSaENzS3VuN3dFYjM0eEY1aFdpSjF1cXFBNVh3YW5QeGk5WFdPNGViUzZVMEhlSnloWnU5dXlLZ3kxRUhxSDBSc0JDZz09Cg==",
-      "url": "https://github.com/YARC-Official/YARC-Launcher/releases/download/v1.0.1/YARC.Launcher_1.0.1_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTW9ULzJ4cUluY3lucjdmcWt5ZGJNVHpwbUlXRDlUK25YN25nZHFPMHUxYzBrek5vWWhqNEVGZ2ZhdnlNZTZkWU9HR1VxLy9ZbVorVnY3TzYvNnpCSmVSM2NqNlU3Y2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM0MzEzNzY4CWZpbGU6WUFSQyBMYXVuY2hlcl8xLjAuMl94NjRfZW4tVVMubXNpLnppcApXcTN5MWdZSE1SWnNZbWpxbjV0SDBobEg0azBYVkxwTDhiaCt3RWF6ZFJsczJOSkxKaThDNnBVWW44TWpFNjlqcnRRNysrc0dpOVhUbncwd0V6bWNDdz09Cg==",
+      "url": "https://github.com/YARC-Official/YARC-Launcher/releases/download/v1.0.2/YARC.Launcher_1.0.2_x64_en-US.msi.zip"
     }
   }
 }
