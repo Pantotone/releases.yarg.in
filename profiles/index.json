@@ -1,13 +1,12 @@
 {
     "banner": {
-        "backgroundUrl": "@/banners/SetlistWave.png",
-        "backgroundAccent": "#DF6B00",
-        "useLightText": false,
-        "preHeaderText": "Official Setlist",
-        "headerText": "Wave 9",
+        "backgroundUrl": "@/banners/SetlistKeysChristmas.png",
+        "backgroundAccent": "#000000",
+        "useLightText": true,
+        "preHeaderText": "A Holiday Song Pack:",
+        "headerText": "Christmas Keys",
 
-        "viewProfileUUID": "8474d8ad-15bd-492c-927b-003940100fa1",
-        "previewUrl": "https://www.youtube.com/watch?v=i33ztJerVkg",
+        "viewProfileUUID": "49d5c1e5-ef1b-49af-a710-ebccdf5e940b",
 
         "localeOverrides": {}
     },
@@ -131,6 +130,19 @@
             "name": "Children's Keys Pack 1",
             "iconUrl": "@/icons/SetlistKeys.png",
             "bannerUrl": "@/banners/SetlistKeys.png",
+
+            "localeOverrides": {}
+        },
+        {
+            "uuid": "49d5c1e5-ef1b-49af-a710-ebccdf5e940b",
+            "type": "setlist",
+            "category": "official_setlist",
+            "url": "https://releases.yarg.in/profiles/49d5c1e5-ef1b-49af-a710-ebccdf5e940b/",
+
+            "release": "2024-12-16T02:43:35.292Z",
+            "name": "Christmas Keys 1",
+            "iconUrl": "@/icons/SetlistKeys.png",
+            "bannerUrl": "@/banners/SetlistKeysChristmas.png",
 
             "localeOverrides": {}
         }
