@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "326131b560dd8a1b145484d4401c095cf85d2c3d",
+      "author": "thomeval",
+      "summary": "Display player names at start of song (#920)",
+      "description": "* WIP Display player name on highway tracks when song starts\r\n\r\n* Added Player name and instrument display for Vocalists\r\nFor Harmony Vocals, added unique instrument icons for each harmony part\r\n\r\n* Fix vocal needles not appearing in VocalPlayerNameDisplay\r\nTweaked position of some elements in VocalPlayerNameDisplay\r\n\r\n* Changed font for player name in vocals HUD to match non-vocals players.\r\nChanged harmony icons to be all white, and assign colour at run time based on Harmony index.\r\nMoved instrument icon to be behind countdown (looks much better if the countdown displays at the beginning of a song)\r\nUpdated branch from latest changes in dev branch.\r\n\r\n* Fix wrong font in HarmonyVocalsIcons\r\n\r\n* Changed animation for PlayerNameDisplay to a simple fadeout\r\nChanged NeedleIcon in VocalPlayerNameDisplay to RawImage and reorder needle graphic Textures to match Materials.\r\n\r\n* Make VocalTrack.Colors static and use it in PlayerNameDisplay"
+    }
+  ]
+}
