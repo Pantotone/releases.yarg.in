@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "7e2cca6940d310bb593e19aab8676c5c79825f17",
+      "author": "thomeval",
+      "summary": "Update YARG.Core (#930)",
+      "description": ""
+    }
+  ]
+}
