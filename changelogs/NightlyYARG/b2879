@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "a94488409684ce7d9b9563cc5a32dda43ad2c959",
+      "author": "thomeval",
+      "summary": "Results Screen: Remove unnecessary horizontal scrolling when there are exactly 4 players. (#933)",
+      "description": ""
+    }
+  ]
+}
