@@ -1,0 +1,22 @@
+{
+  "commits": [
+    {
+      "sha": "6adff0d321745e0cbe6bd7f5605550e693b7ee5d",
+      "author": "EliteAsian123",
+      "summary": "Organized a bunch of settings to put them in more obvious locations",
+      "description": ""
+    },
+    {
+      "sha": "6036757fe18eae469fc7d7317474fc5eeb54697c",
+      "author": "EliteAsian123",
+      "summary": "Added \"Show Player Name When Starting Song\" option, and prevent it from showing up when in practice mode",
+      "description": ""
+    },
+    {
+      "sha": "414d0cb0b8a4bee206992c19710c8f76128f0e28",
+      "author": "EliteAsian123",
+      "summary": "Update YARG.Core",
+      "description": ""
+    }
+  ]
+}
