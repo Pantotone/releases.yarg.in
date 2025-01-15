@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "6fa12c182e2a0f3dffc5dd098660d9501713ebd4",
+      "author": "Nyxyxylyth",
+      "summary": "Add ‿ (Unicode U+203F) for synalephas (joined syllables). (#939)",
+      "description": ""
+    }
+  ]
+}
