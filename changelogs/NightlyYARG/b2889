@@ -1,0 +1,34 @@
+{
+  "commits": [
+    {
+      "sha": "f66bd6678566ec35c6b137d83acef4599ae162b0",
+      "author": "EliteAsian123",
+      "summary": "Prevent the starpower light from reflecting off of the frets on the circular theme",
+      "description": ""
+    },
+    {
+      "sha": "e73457e99450cf2507973ff18f32a75679910ba7",
+      "author": "EliteAsian123",
+      "summary": "Organize some of the `PlayerContainer` methods",
+      "description": ""
+    },
+    {
+      "sha": "7e95887f2adac9b207ec6f862039f7278d655c87",
+      "author": "wyrdough",
+      "summary": "Add option to sort by play count (#931)",
+      "description": "* Add option to sort by Play Count.\r\n\r\n* Flesh out sorting by play count\r\n\r\nAdds category headers for played and unplayed songs\r\n\r\nSettingsManager now tracks previous sort order.\r\nUnplayed songs are now sorted in whatever order was previously used before switching to play count order.\r\n\r\n* Improve play count sort behavior when only bots are connected.\r\n\r\nRemove unnecessary _sortPlaycounts variable in SongContainer\r\nDisallow offering Play Count sort in PopupMenu if there are no non-bot profiles connected\r\nAdd check to MusicLibraryMenu.OnEnable to change sort order from Play Count if no non-bot profiles connected\r\nUpdate SongContainer.GetPlaycounts to handle situation where bot profile manages to have Play Count sort selected or Play Count is selected when no profiles are connected\r\n\r\n* Title sort by default when sort order from profile is unrecognized.\r\n\r\nOnly count plays with the profile's current instrument when calculating play count.\r\nAs a fallback, if the current instrument is invalid, all plays by the current/first non-bot profile will be returned.\r\nUpdate PlayerContainer to also force a reload on change of active profiles when current sort is Playcount.\r\n\r\n* Address review comments by EliteAsian123\r\n\r\nMake GetSortedCategory switch fallback use less arcane syntax.\r\nAdd OnlyHasBots method to PlayerContainer to check for non-bot players and use that instead of repeating a LINQ expression in several different places.\r\n\r\n* Accept songs with duplicate hash in play count sorted list."
+    },
+    {
+      "sha": "4bcb6ee50d1723563c17475c5160d5d45d33a9d1",
+      "author": "theli-ua",
+      "summary": "Prefer Vulkan over glcore on Linux (#945)",
+      "description": "Vulkan generally seem to work better and is the default for unity on Linux\r\nfor quite a few years now"
+    },
+    {
+      "sha": "820aacbde147e24fb8669198a023181d847c3cbd",
+      "author": "theli-ua",
+      "summary": "Fix venue shaders on linux (#944)",
+      "description": "Its unclear why that shader code was added but it actually\r\nbreaks all custom shaders used in venues, removing that linux/osx\r\nspecific code makes custom shaders in venues work on Linux"
+    }
+  ]
+}
