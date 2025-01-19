@@ -101,9 +101,9 @@
   "version": {
     "type": "embedded",
     "version": {
-      "uuid": "9820d231-c671-48ad-8e34-c13623afbe42",
-      "tag": "assorted_2-2024-12-08-0",
-      "release": "2024-12-09T02:36:46.371Z",
+      "uuid": "55fc4bbe-44d9-4b78-a082-2080c6585b92",
+      "tag": "assorted_2-2025-01-19-0",
+      "release": "2025-01-19T21:09:51.7862538Z",
       "content": [
         {
           "platforms": [
@@ -113,7 +113,7 @@
           ],
           "files": [
             {
-              "url": "https://github.com/YARC-Official/Official-Setlist-Public/releases/download/assorted_2-2024-12-08-0/assorted_2-0.7z",
+              "url": "https://github.com/YARC-Official/Official-Setlist-Public/releases/download/assorted_2-2025-01-19-0/assorted_2-0.7z",
               "fileType": "encrypted"
             }
           ]
