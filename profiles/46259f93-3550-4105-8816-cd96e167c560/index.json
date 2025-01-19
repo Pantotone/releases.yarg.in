@@ -1,124 +1,124 @@
 {
-    "type": "setlist",
-    "uuid": "46259f93-3550-4105-8816-cd96e167c560",
-    "metadata": {
-        "name": "Assorted Rock 1",
-        "description": "Join us for our first pack of DLC with a collection of indie performances and electronic rock tracks!",
-        "iconUrl": "@/icons/SetlistDLC.png",
-        "bannerBackUrl": "@/banners/SetlistBack.png",
-        "initialRelease": "2024-08-24T16:50:34.439Z",
-        "newsCategory": "setlist_official",
-        "links": {
-            "youtube": {
-                "name": "Setlist Trailers",
-                "url": "https://www.youtube.com/@YARGGame/videos"
-            }
-        },
-        "songs": [
-            {
-                "title": "Moonlight",
-                "artist": "Chill",
-                "length": 255526,
-                "releaseDate": "2024-12-09T02:36:46.371Z"
-            },
-            {
-                "title": "Rock Thing",
-                "artist": "Creo",
-                "length": 205298,
-                "releaseDate": "2024-12-09T02:36:46.371Z"
-            },
-            {
-                "title": "Drunken Monday (Freeway Mix)",
-                "artist": "Fisher Wagg",
-                "length": 150000,
-                "releaseDate": "2024-08-24T16:50:34.439Z"
-            },
-            {
-                "title": "Simplicity",
-                "artist": "Scott Buckley",
-                "length": 185712,
-                "releaseDate": "2024-12-09T02:36:46.371Z"
-            },
-            {
-                "title": "Turtleneck",
-                "artist": "TrackTribe",
-                "length": 117172,
-                "releaseDate": "2024-12-09T02:36:46.371Z"
-            },
-            {
-                "title": "Burn",
-                "artist": "Troubled Minds",
-                "length": 177951,
-                "releaseDate": "2024-08-24T16:50:34.439Z"
-            },
-            {
-                "title": "Middle of the City Road",
-                "artist": "Walter Ralts",
-                "length": 124102,
-                "releaseDate": "2024-08-24T16:50:34.439Z"
-            }
-        ],
-        "credits": [
-            {
-                "name": "Dai",
-                "url": "https://youtube.com/@daijyoubs1319"
-            },
-            {
-                "name": "frickitickitavi",
-                "url": "https://www.youtube.com/@fricksfrickincharts"
-            },
-            {
-                "name": "grishhung",
-                "url": "https://youtube.com/@grishhung2828"
-            },
-            {
-                "name": "Hubbubble",
-                "url": "https://youtube.com/@hubbubble6856"
-            },
-            {
-                "name": "ItzSynth",
-                "url": "https://youtube.com/@SynthesizeTime"
-            },
-            {
-                "name": "Miscellany",
-                "url": ""
-            },
-            {
-                "name": "Rulas",
-                "url": "https://youtube.com/@Rulas025"
-            },
-            {
-                "name": "Spachi",
-                "url": "https://www.youtube.com/channel/UCQpGzrCzoaiQ4wlV9pTzs5g"
-            },
-            {
-                "name": "WalterRalts",
-                "url": "https://youtube.com/@WalterRalts"
-            }
-        ],
-        "localeOverrides": {}
+  "type": "setlist",
+  "uuid": "46259f93-3550-4105-8816-cd96e167c560",
+  "metadata": {
+    "name": "Assorted Rock 1",
+    "description": "Join us for our first pack of DLC with a collection of indie performances and electronic rock tracks!",
+    "iconUrl": "@/icons/SetlistDLC.png",
+    "bannerBackUrl": "@/banners/SetlistBack.png",
+    "initialRelease": "2024-08-24T16:50:34.439Z",
+    "newsCategory": "setlist_official",
+    "links": {
+      "youtube": {
+        "name": "Setlist Trailers",
+        "url": "https://www.youtube.com/@YARGGame/videos"
+      }
     },
+    "songs": [
+      {
+        "title": "Moonlight",
+        "artist": "Chill",
+        "length": 255526,
+        "releaseDate": "2024-12-09T02:36:46.371Z"
+      },
+      {
+        "title": "Rock Thing",
+        "artist": "Creo",
+        "length": 205298,
+        "releaseDate": "2024-12-09T02:36:46.371Z"
+      },
+      {
+        "title": "Drunken Monday (Freeway Mix)",
+        "artist": "Fisher Wagg",
+        "length": 150000,
+        "releaseDate": "2024-08-24T16:50:34.439Z"
+      },
+      {
+        "title": "Simplicity",
+        "artist": "Scott Buckley",
+        "length": 185712,
+        "releaseDate": "2024-12-09T02:36:46.371Z"
+      },
+      {
+        "title": "Turtleneck",
+        "artist": "TrackTribe",
+        "length": 117172,
+        "releaseDate": "2024-12-09T02:36:46.371Z"
+      },
+      {
+        "title": "Burn",
+        "artist": "Troubled Minds",
+        "length": 177951,
+        "releaseDate": "2024-08-24T16:50:34.439Z"
+      },
+      {
+        "title": "Middle of the City Road",
+        "artist": "Walter Ralts",
+        "length": 124102,
+        "releaseDate": "2024-08-24T16:50:34.439Z"
+      }
+    ],
+    "credits": [
+      {
+        "name": "Dai",
+        "url": "https://youtube.com/@daijyoubs1319"
+      },
+      {
+        "name": "frickitickitavi",
+        "url": "https://www.youtube.com/@fricksfrickincharts"
+      },
+      {
+        "name": "grishhung",
+        "url": "https://youtube.com/@grishhung2828"
+      },
+      {
+        "name": "Hubbubble",
+        "url": "https://youtube.com/@hubbubble6856"
+      },
+      {
+        "name": "ItzSynth",
+        "url": "https://youtube.com/@SynthesizeTime"
+      },
+      {
+        "name": "Miscellany",
+        "url": ""
+      },
+      {
+        "name": "Rulas",
+        "url": "https://youtube.com/@Rulas025"
+      },
+      {
+        "name": "Spachi",
+        "url": "https://www.youtube.com/channel/UCQpGzrCzoaiQ4wlV9pTzs5g"
+      },
+      {
+        "name": "WalterRalts",
+        "url": "https://youtube.com/@WalterRalts"
+      }
+    ],
+    "localeOverrides": {}
+  },
+  "version": {
+    "type": "embedded",
     "version": {
-        "type": "embedded",
-        "version": {
-            "uuid": "b0758065-cd9c-41a6-a539-d6af4d0cff66",
-            "tag": "assorted_1-2024-12-08-0",
-            "release": "2024-12-09T02:36:46.371Z",
-            "content": [
-                {
-                    "platforms": [
-                        "windows",
-                        "macos",
-                        "linux"
-                    ],
-                    "files": [
-                        {
-                            "url": "https://github.com/YARC-Official/Official-Setlist-Public/releases/download/assorted_1-2024-12-08-0/assorted_1-0.7z",
-                            "fileType": "encrypted"
-                        }
-                    ]
-                }
-            ]
+      "uuid": "b0758065-cd9c-41a6-a539-d6af4d0cff66",
+      "tag": "assorted_1-2024-12-08-0",
+      "release": "2024-12-09T02:36:46.371Z",
+      "content": [
+        {
+          "platforms": [
+            "windows",
+            "macos",
+            "linux"
+          ],
+          "files": [
+            {
+              "url": "https://github.com/YARC-Official/Official-Setlist-Public/releases/download/assorted_1-2024-12-08-0/assorted_1-0.7z",
+              "fileType": "encrypted"
+            }
+          ]
         }
+      ]
     }
+  }
 }

@@ -1,41 +1,32 @@
 [
-    {
-        "uuid": "2d78800c-1397-496a-83c1-50759607999a",
-        "type": "application",
-        "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/",
-
-        "name": "YARG (Stable)",
-        "subText": "Recommended for most players.",
-        "iconUrl": "@/icons/Stable.png",
-
-        "selectedByDefault": true,
-
-        "localeOverrides": {}
-    },
-    {
-        "uuid": "35dc0e7e-e9b5-49f3-881d-8dbed8678dc7",
-        "type": "application",
-        "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/",
-
-        "name": "YARG (Nightly)",
-        "subText": "Updated every 12 hours (if there are changes) and is unstable. Not recommended as there may be game- and save-breaking bugs",
-        "iconUrl": "@/icons/Nightly.png",
-
-        "selectedByDefault": false,
-
-        "localeOverrides": {}
-    },
-    {
-        "uuid": "8474d8ad-15bd-492c-927b-003940100fa1",
-        "type": "setlist",
-        "url": "https://releases.yarg.in/profiles/8474d8ad-15bd-492c-927b-003940100fa1/",
-
-        "name": "YARG Official Setlist",
-        "subText": "40+ songs, 730 MB in size.",
-        "iconUrl": "@/icons/Setlist.png",
-
-        "selectedByDefault": true,
-
-        "localeOverrides": {}
-    }
+  {
+    "uuid": "2d78800c-1397-496a-83c1-50759607999a",
+    "type": "application",
+    "url": "https://releases.yarg.in/profiles/2d78800c-1397-496a-83c1-50759607999a/",
+    "name": "YARG (Stable)",
+    "subText": "Recommended for most players.",
+    "iconUrl": "@/icons/Stable.png",
+    "selectedByDefault": true,
+    "localeOverrides": {}
+  },
+  {
+    "uuid": "35dc0e7e-e9b5-49f3-881d-8dbed8678dc7",
+    "type": "application",
+    "url": "https://releases.yarg.in/profiles/35dc0e7e-e9b5-49f3-881d-8dbed8678dc7/",
+    "name": "YARG (Nightly)",
+    "subText": "Updated every 12 hours (if there are changes) and is unstable. Not recommended as there may be game- and save-breaking bugs",
+    "iconUrl": "@/icons/Nightly.png",
+    "selectedByDefault": false,
+    "localeOverrides": {}
+  },
+  {
+    "uuid": "8474d8ad-15bd-492c-927b-003940100fa1",
+    "type": "setlist",
+    "url": "https://releases.yarg.in/profiles/8474d8ad-15bd-492c-927b-003940100fa1/",
+    "name": "YARG Official Setlist",
+    "subText": "49+ songs, 822 MB in size.",
+    "iconUrl": "@/icons/Setlist.png",
+    "selectedByDefault": true,
+    "localeOverrides": {}
+  }
 ]

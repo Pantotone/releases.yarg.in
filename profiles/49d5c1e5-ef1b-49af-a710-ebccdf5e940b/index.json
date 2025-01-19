@@ -1,118 +1,118 @@
 {
-    "type": "setlist",
-    "uuid": "49d5c1e5-ef1b-49af-a710-ebccdf5e940b",
-    "metadata": {
-        "name": "Christmas Keys 1",
-        "description": "Ring in the holiday season with six public domain Christmas classics. Learn authentic right-hand parts on Pro Keys, or play five-lane versions of each hand on Keys and Bass!",
-        "iconUrl": "@/icons/SetlistKeys.png",
-        "bannerBackUrl": "@/banners/SetlistKeysChristmas.png",
-        "initialRelease": "2024-12-16T02:43:35.292Z",
-        "newsCategory": "setlist_official",
-        "links": {
-            "youtube": {
-                "name": "Setlist Trailers",
-                "url": "https://www.youtube.com/@YARGGame/videos"
-            }
-        },
-        "songs": [
-            {
-                "title": "Jolly Old Saint Nicholas",
-                "artist": "Emily Huntington Miller and James R. Murray",
-                "length": 28000,
-                "releaseDate": "2024-12-16T02:43:35.292Z"
-            },
-            {
-                "title": "Joy to the World",
-                "artist": "Isaac Watts",
-                "length": 30000,
-                "releaseDate": "2024-12-16T02:43:35.292Z"
-            },
-            {
-                "title": "Jingle Bells",
-                "artist": "James Lord Pierpont",
-                "length": 38000,
-                "releaseDate": "2024-12-16T02:43:35.292Z"
-            },
-            {
-                "title": "Good King Wenceslas",
-                "artist": "John Mason Neale and Thomas Helmore",
-                "length": 68000,
-                "releaseDate": "2024-12-16T02:43:35.292Z"
-            },
-            {
-                "title": "Dance of the Sugar Plum Fairy",
-                "artist": "Pyotr Ilyich Tchaikovsky",
-                "length": 138000,
-                "releaseDate": "2024-12-16T02:43:35.292Z"
-            },
-            {
-                "title": "Deck the Halls",
-                "artist": "Thomas Oliphant",
-                "length": 30000,
-                "releaseDate": "2024-12-16T02:43:35.292Z"
-            }
-        ],
-        "credits": [
-            {
-                "name": "Dai",
-                "url": "https://youtube.com/@daijyoubs1319"
-            },
-            {
-                "name": "frickitickitavi",
-                "url": "https://www.youtube.com/@fricksfrickincharts"
-            },
-            {
-                "name": "grishhung",
-                "url": "https://youtube.com/@grishhung2828"
-            },
-            {
-                "name": "Hubbubble",
-                "url": "https://youtube.com/@hubbubble6856"
-            },
-            {
-                "name": "ItzSynth",
-                "url": "https://youtube.com/@SynthesizeTime"
-            },
-            {
-                "name": "Miscellany",
-                "url": ""
-            },
-            {
-                "name": "Rulas",
-                "url": "https://youtube.com/@Rulas025"
-            },
-            {
-                "name": "Spachi",
-                "url": "https://www.youtube.com/channel/UCQpGzrCzoaiQ4wlV9pTzs5g"
-            },
-            {
-                "name": "WalterRalts",
-                "url": "https://youtube.com/@WalterRalts"
-            }
-        ],
-        "localeOverrides": {}
+  "type": "setlist",
+  "uuid": "49d5c1e5-ef1b-49af-a710-ebccdf5e940b",
+  "metadata": {
+    "name": "Christmas Keys 1",
+    "description": "Ring in the holiday season with six public domain Christmas classics. Learn authentic right-hand parts on Pro Keys, or play five-lane versions of each hand on Keys and Bass!",
+    "iconUrl": "@/icons/SetlistKeys.png",
+    "bannerBackUrl": "@/banners/SetlistKeysChristmas.png",
+    "initialRelease": "2024-12-16T02:43:35.292Z",
+    "newsCategory": "setlist_official",
+    "links": {
+      "youtube": {
+        "name": "Setlist Trailers",
+        "url": "https://www.youtube.com/@YARGGame/videos"
+      }
     },
+    "songs": [
+      {
+        "title": "Jolly Old Saint Nicholas",
+        "artist": "Emily Huntington Miller and James R. Murray",
+        "length": 28000,
+        "releaseDate": "2024-12-16T02:43:35.292Z"
+      },
+      {
+        "title": "Joy to the World",
+        "artist": "Isaac Watts",
+        "length": 30000,
+        "releaseDate": "2024-12-16T02:43:35.292Z"
+      },
+      {
+        "title": "Jingle Bells",
+        "artist": "James Lord Pierpont",
+        "length": 38000,
+        "releaseDate": "2024-12-16T02:43:35.292Z"
+      },
+      {
+        "title": "Good King Wenceslas",
+        "artist": "John Mason Neale and Thomas Helmore",
+        "length": 68000,
+        "releaseDate": "2024-12-16T02:43:35.292Z"
+      },
+      {
+        "title": "Dance of the Sugar Plum Fairy",
+        "artist": "Pyotr Ilyich Tchaikovsky",
+        "length": 138000,
+        "releaseDate": "2024-12-16T02:43:35.292Z"
+      },
+      {
+        "title": "Deck the Halls",
+        "artist": "Thomas Oliphant",
+        "length": 30000,
+        "releaseDate": "2024-12-16T02:43:35.292Z"
+      }
+    ],
+    "credits": [
+      {
+        "name": "Dai",
+        "url": "https://youtube.com/@daijyoubs1319"
+      },
+      {
+        "name": "frickitickitavi",
+        "url": "https://www.youtube.com/@fricksfrickincharts"
+      },
+      {
+        "name": "grishhung",
+        "url": "https://youtube.com/@grishhung2828"
+      },
+      {
+        "name": "Hubbubble",
+        "url": "https://youtube.com/@hubbubble6856"
+      },
+      {
+        "name": "ItzSynth",
+        "url": "https://youtube.com/@SynthesizeTime"
+      },
+      {
+        "name": "Miscellany",
+        "url": ""
+      },
+      {
+        "name": "Rulas",
+        "url": "https://youtube.com/@Rulas025"
+      },
+      {
+        "name": "Spachi",
+        "url": "https://www.youtube.com/channel/UCQpGzrCzoaiQ4wlV9pTzs5g"
+      },
+      {
+        "name": "WalterRalts",
+        "url": "https://youtube.com/@WalterRalts"
+      }
+    ],
+    "localeOverrides": {}
+  },
+  "version": {
+    "type": "embedded",
     "version": {
-        "type": "embedded",
-        "version": {
-            "uuid": "0be272c3-4e8e-4fdd-ac1a-382cb9240dff",
-            "tag": "christmas_keys_1-2024-12-15-0",
-            "release": "2024-12-16T02:43:35.292Z",
-            "content": [
-                {
-                    "platforms": [
-                        "windows",
-                        "macos",
-                        "linux"
-                    ],
-                    "files": [
-                        {
-                            "url": "https://github.com/YARC-Official/Official-Setlist-Public/releases/download/christmas_keys_1-2024-12-15-0/christmas_keys_1-0.7z",
-                            "fileType": "encrypted"
-                        }
-                    ]
-                }
-            ]
+      "uuid": "0be272c3-4e8e-4fdd-ac1a-382cb9240dff",
+      "tag": "christmas_keys_1-2024-12-15-0",
+      "release": "2024-12-16T02:43:35.292Z",
+      "content": [
+        {
+          "platforms": [
+            "windows",
+            "macos",
+            "linux"
+          ],
+          "files": [
+            {
+              "url": "https://github.com/YARC-Official/Official-Setlist-Public/releases/download/christmas_keys_1-2024-12-15-0/christmas_keys_1-0.7z",
+              "fileType": "encrypted"
+            }
+          ]
         }
+      ]
     }
+  }
 }

@@ -1,142 +1,142 @@
 {
-    "type": "setlist",
-    "uuid": "2475f77d-d4a3-4393-8f45-6a89948f8b9c",
-    "metadata": {
-        "name": "SUMMERTIDE",
-        "description": "Keep summer in your heart with this brilliant pop and electronic album from Alohaii. Expect a challenge on vocals with these ten songs, featuring ten different virtual singers and Vtubers!",
-        "iconUrl": "@/icons/SetlistSummertide.png",
-        "bannerBackUrl": "@/banners/SetlistSummertide.png",
-        "initialRelease": "2024-09-12T00:12:40.033Z",
-        "newsCategory": "setlist_official",
-        "links": {
-            "youtube": {
-                "name": "Setlist Trailers",
-                "url": "https://www.youtube.com/@YARGGame/videos"
-            }
-        },
-        "songs": [
-            {
-                "title": "Angel in Disguise (feat. Kitsui Akira)",
-                "artist": "Alohaii",
-                "length": 177454,
-                "releaseDate": "2024-09-12T00:12:40.033Z"
-            },
-            {
-                "title": "Cinnamon (feat. Miori Celesta and Yuuna Nini)",
-                "artist": "Alohaii",
-                "length": 159503,
-                "releaseDate": "2024-09-12T00:12:40.033Z"
-            },
-            {
-                "title": "Embrace (feat. Kiyon)",
-                "artist": "Alohaii",
-                "length": 217026,
-                "releaseDate": "2024-09-12T00:12:40.033Z"
-            },
-            {
-                "title": "Heart of Glass (feat. Rachie)",
-                "artist": "Alohaii",
-                "length": 219823,
-                "releaseDate": "2024-09-12T00:12:40.033Z"
-            },
-            {
-                "title": "Hopeless Romantic (feat. JubyPhonic)",
-                "artist": "Alohaii",
-                "length": 143376,
-                "releaseDate": "2024-09-12T00:12:40.033Z"
-            },
-            {
-                "title": "Love Me Not (feat. Tofie)",
-                "artist": "Alohaii",
-                "length": 160000,
-                "releaseDate": "2024-09-12T00:12:40.033Z"
-            },
-            {
-                "title": "Magazines (feat. Nia Suzune)",
-                "artist": "Alohaii",
-                "length": 172195,
-                "releaseDate": "2024-09-12T00:12:40.033Z"
-            },
-            {
-                "title": "One Step at a Time (feat. Miori Celesta)",
-                "artist": "Alohaii",
-                "length": 207000,
-                "releaseDate": "2024-09-12T00:12:40.033Z"
-            },
-            {
-                "title": "Rose (feat. Ember Amane)",
-                "artist": "Alohaii",
-                "length": 191052,
-                "releaseDate": "2024-09-12T00:12:40.033Z"
-            },
-            {
-                "title": "Through the Night (feat. Yuuka Bear)",
-                "artist": "Alohaii",
-                "length": 198095,
-                "releaseDate": "2024-09-12T00:12:40.033Z"
-            }
-        ],
-        "credits": [
-            {
-                "name": "Dai",
-                "url": "https://youtube.com/@daijyoubs1319"
-            },
-            {
-                "name": "frickitickitavi",
-                "url": "https://www.youtube.com/@fricksfrickincharts"
-            },
-            {
-                "name": "grishhung",
-                "url": "https://youtube.com/@grishhung2828"
-            },
-            {
-                "name": "Hubbubble",
-                "url": "https://youtube.com/@hubbubble6856"
-            },
-            {
-                "name": "ItzSynth",
-                "url": "https://youtube.com/@SynthesizeTime"
-            },
-            {
-                "name": "Miscellany",
-                "url": ""
-            },
-            {
-                "name": "Rulas",
-                "url": "https://youtube.com/@Rulas025"
-            },
-            {
-                "name": "Spachi",
-                "url": "https://www.youtube.com/channel/UCQpGzrCzoaiQ4wlV9pTzs5g"
-            },
-            {
-                "name": "WalterRalts",
-                "url": "https://youtube.com/@WalterRalts"
-            }
-        ],
-        "localeOverrides": {}
+  "type": "setlist",
+  "uuid": "2475f77d-d4a3-4393-8f45-6a89948f8b9c",
+  "metadata": {
+    "name": "SUMMERTIDE",
+    "description": "Keep summer in your heart with this brilliant pop and electronic album from Alohaii. Expect a challenge on vocals with these ten songs, featuring ten different virtual singers and Vtubers!",
+    "iconUrl": "@/icons/SetlistSummertide.png",
+    "bannerBackUrl": "@/banners/SetlistSummertide.png",
+    "initialRelease": "2024-09-12T00:12:40.033Z",
+    "newsCategory": "setlist_official",
+    "links": {
+      "youtube": {
+        "name": "Setlist Trailers",
+        "url": "https://www.youtube.com/@YARGGame/videos"
+      }
     },
+    "songs": [
+      {
+        "title": "Angel in Disguise (feat. Kitsui Akira)",
+        "artist": "Alohaii",
+        "length": 177454,
+        "releaseDate": "2024-09-12T00:12:40.033Z"
+      },
+      {
+        "title": "Cinnamon (feat. Miori Celesta and Yuuna Nini)",
+        "artist": "Alohaii",
+        "length": 159503,
+        "releaseDate": "2024-09-12T00:12:40.033Z"
+      },
+      {
+        "title": "Embrace (feat. Kiyon)",
+        "artist": "Alohaii",
+        "length": 217026,
+        "releaseDate": "2024-09-12T00:12:40.033Z"
+      },
+      {
+        "title": "Heart of Glass (feat. Rachie)",
+        "artist": "Alohaii",
+        "length": 219823,
+        "releaseDate": "2024-09-12T00:12:40.033Z"
+      },
+      {
+        "title": "Hopeless Romantic (feat. JubyPhonic)",
+        "artist": "Alohaii",
+        "length": 143376,
+        "releaseDate": "2024-09-12T00:12:40.033Z"
+      },
+      {
+        "title": "Love Me Not (feat. Tofie)",
+        "artist": "Alohaii",
+        "length": 160000,
+        "releaseDate": "2024-09-12T00:12:40.033Z"
+      },
+      {
+        "title": "Magazines (feat. Nia Suzune)",
+        "artist": "Alohaii",
+        "length": 172195,
+        "releaseDate": "2024-09-12T00:12:40.033Z"
+      },
+      {
+        "title": "One Step at a Time (feat. Miori Celesta)",
+        "artist": "Alohaii",
+        "length": 207000,
+        "releaseDate": "2024-09-12T00:12:40.033Z"
+      },
+      {
+        "title": "Rose (feat. Ember Amane)",
+        "artist": "Alohaii",
+        "length": 191052,
+        "releaseDate": "2024-09-12T00:12:40.033Z"
+      },
+      {
+        "title": "Through the Night (feat. Yuuka Bear)",
+        "artist": "Alohaii",
+        "length": 198095,
+        "releaseDate": "2024-09-12T00:12:40.033Z"
+      }
+    ],
+    "credits": [
+      {
+        "name": "Dai",
+        "url": "https://youtube.com/@daijyoubs1319"
+      },
+      {
+        "name": "frickitickitavi",
+        "url": "https://www.youtube.com/@fricksfrickincharts"
+      },
+      {
+        "name": "grishhung",
+        "url": "https://youtube.com/@grishhung2828"
+      },
+      {
+        "name": "Hubbubble",
+        "url": "https://youtube.com/@hubbubble6856"
+      },
+      {
+        "name": "ItzSynth",
+        "url": "https://youtube.com/@SynthesizeTime"
+      },
+      {
+        "name": "Miscellany",
+        "url": ""
+      },
+      {
+        "name": "Rulas",
+        "url": "https://youtube.com/@Rulas025"
+      },
+      {
+        "name": "Spachi",
+        "url": "https://www.youtube.com/channel/UCQpGzrCzoaiQ4wlV9pTzs5g"
+      },
+      {
+        "name": "WalterRalts",
+        "url": "https://youtube.com/@WalterRalts"
+      }
+    ],
+    "localeOverrides": {}
+  },
+  "version": {
+    "type": "embedded",
     "version": {
-        "type": "embedded",
-        "version": {
-            "uuid": "2495c031-6dcd-4e26-81a6-070753a685a1",
-            "tag": "summertide-2024-09-30-0",
-            "release": "2024-09-30T23:13:26.753Z",
-            "content": [
-                {
-                    "platforms": [
-                        "windows",
-                        "macos",
-                        "linux"
-                    ],
-                    "files": [
-                        {
-                            "url": "https://github.com/YARC-Official/Official-Setlist-Public/releases/download/summertide-2024-09-30-0/summertide-0.7z",
-                            "fileType": "encrypted"
-                        }
-                    ]
-                }
-            ]
+      "uuid": "2495c031-6dcd-4e26-81a6-070753a685a1",
+      "tag": "summertide-2024-09-30-0",
+      "release": "2024-09-30T23:13:26.753Z",
+      "content": [
+        {
+          "platforms": [
+            "windows",
+            "macos",
+            "linux"
+          ],
+          "files": [
+            {
+              "url": "https://github.com/YARC-Official/Official-Setlist-Public/releases/download/summertide-2024-09-30-0/summertide-0.7z",
+              "fileType": "encrypted"
+            }
+          ]
         }
+      ]
     }
+  }
 }

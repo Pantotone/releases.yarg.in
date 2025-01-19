@@ -1,142 +1,142 @@
 {
-    "type": "setlist",
-    "uuid": "9b0beeae-196f-457b-9d9e-279499992e4a",
-    "metadata": {
-        "name": "WANDERKID",
-        "description": "Follow the journey of WANDERKID in JW Francis's sophomore album! Escape with warm lo-fi indie rock vibes and nostalgically jangly guitar.",
-        "iconUrl": "@/icons/SetlistWanderkid.png",
-        "bannerBackUrl": "@/banners/SetlistWanderkid.png",
-        "initialRelease": "2024-09-30T23:13:26.753Z",
-        "newsCategory": "setlist_official",
-        "links": {
-            "youtube": {
-                "name": "Setlist Trailers",
-                "url": "https://www.youtube.com/@YARGGame/videos"
-            }
-        },
-        "songs": [
-            {
-                "title": "Cars",
-                "artist": "JW Francis",
-                "length": 192114,
-                "releaseDate": "2024-09-30T23:13:26.753Z"
-            },
-            {
-                "title": "Don\u0027t Fall Apart",
-                "artist": "JW Francis",
-                "length": 192114,
-                "releaseDate": "2024-09-30T23:13:26.753Z"
-            },
-            {
-                "title": "Fake It Till You Make It",
-                "artist": "JW Francis",
-                "length": 153600,
-                "releaseDate": "2024-09-30T23:13:26.753Z"
-            },
-            {
-                "title": "Holy Mountain",
-                "artist": "JW Francis",
-                "length": 152000,
-                "releaseDate": "2024-09-30T23:13:26.753Z"
-            },
-            {
-                "title": "I Love You",
-                "artist": "JW Francis",
-                "length": 174000,
-                "releaseDate": "2024-09-30T23:13:26.753Z"
-            },
-            {
-                "title": "I\u0027m Probably a Ghost",
-                "artist": "JW Francis",
-                "length": 204428,
-                "releaseDate": "2024-09-30T23:13:26.753Z"
-            },
-            {
-                "title": "Make Another Record",
-                "artist": "JW Francis",
-                "length": 189060,
-                "releaseDate": "2024-09-30T23:13:26.753Z"
-            },
-            {
-                "title": "Maybe",
-                "artist": "JW Francis",
-                "length": 184707,
-                "releaseDate": "2024-09-30T23:13:26.753Z"
-            },
-            {
-                "title": "Only with You",
-                "artist": "JW Francis",
-                "length": 206769,
-                "releaseDate": "2024-09-30T23:13:26.753Z"
-            },
-            {
-                "title": "Wanderkid",
-                "artist": "JW Francis",
-                "length": 177000,
-                "releaseDate": "2024-09-30T23:13:26.753Z"
-            }
-        ],
-        "credits": [
-            {
-                "name": "Dai",
-                "url": "https://youtube.com/@daijyoubs1319"
-            },
-            {
-                "name": "frickitickitavi",
-                "url": "https://www.youtube.com/@fricksfrickincharts"
-            },
-            {
-                "name": "grishhung",
-                "url": "https://youtube.com/@grishhung2828"
-            },
-            {
-                "name": "Hubbubble",
-                "url": "https://youtube.com/@hubbubble6856"
-            },
-            {
-                "name": "ItzSynth",
-                "url": "https://youtube.com/@SynthesizeTime"
-            },
-            {
-                "name": "Miscellany",
-                "url": ""
-            },
-            {
-                "name": "Rulas",
-                "url": "https://youtube.com/@Rulas025"
-            },
-            {
-                "name": "Spachi",
-                "url": "https://www.youtube.com/channel/UCQpGzrCzoaiQ4wlV9pTzs5g"
-            },
-            {
-                "name": "WalterRalts",
-                "url": "https://youtube.com/@WalterRalts"
-            }
-        ],
-        "localeOverrides": {}
+  "type": "setlist",
+  "uuid": "9b0beeae-196f-457b-9d9e-279499992e4a",
+  "metadata": {
+    "name": "WANDERKID",
+    "description": "Follow the journey of WANDERKID in JW Francis's sophomore album! Escape with warm lo-fi indie rock vibes and nostalgically jangly guitar.",
+    "iconUrl": "@/icons/SetlistWanderkid.png",
+    "bannerBackUrl": "@/banners/SetlistWanderkid.png",
+    "initialRelease": "2024-09-30T23:13:26.753Z",
+    "newsCategory": "setlist_official",
+    "links": {
+      "youtube": {
+        "name": "Setlist Trailers",
+        "url": "https://www.youtube.com/@YARGGame/videos"
+      }
     },
+    "songs": [
+      {
+        "title": "Cars",
+        "artist": "JW Francis",
+        "length": 192114,
+        "releaseDate": "2024-09-30T23:13:26.753Z"
+      },
+      {
+        "title": "Don\u0027t Fall Apart",
+        "artist": "JW Francis",
+        "length": 192114,
+        "releaseDate": "2024-09-30T23:13:26.753Z"
+      },
+      {
+        "title": "Fake It Till You Make It",
+        "artist": "JW Francis",
+        "length": 153600,
+        "releaseDate": "2024-09-30T23:13:26.753Z"
+      },
+      {
+        "title": "Holy Mountain",
+        "artist": "JW Francis",
+        "length": 152000,
+        "releaseDate": "2024-09-30T23:13:26.753Z"
+      },
+      {
+        "title": "I Love You",
+        "artist": "JW Francis",
+        "length": 174000,
+        "releaseDate": "2024-09-30T23:13:26.753Z"
+      },
+      {
+        "title": "I\u0027m Probably a Ghost",
+        "artist": "JW Francis",
+        "length": 204428,
+        "releaseDate": "2024-09-30T23:13:26.753Z"
+      },
+      {
+        "title": "Make Another Record",
+        "artist": "JW Francis",
+        "length": 189060,
+        "releaseDate": "2024-09-30T23:13:26.753Z"
+      },
+      {
+        "title": "Maybe",
+        "artist": "JW Francis",
+        "length": 184707,
+        "releaseDate": "2024-09-30T23:13:26.753Z"
+      },
+      {
+        "title": "Only with You",
+        "artist": "JW Francis",
+        "length": 206769,
+        "releaseDate": "2024-09-30T23:13:26.753Z"
+      },
+      {
+        "title": "Wanderkid",
+        "artist": "JW Francis",
+        "length": 177000,
+        "releaseDate": "2024-09-30T23:13:26.753Z"
+      }
+    ],
+    "credits": [
+      {
+        "name": "Dai",
+        "url": "https://youtube.com/@daijyoubs1319"
+      },
+      {
+        "name": "frickitickitavi",
+        "url": "https://www.youtube.com/@fricksfrickincharts"
+      },
+      {
+        "name": "grishhung",
+        "url": "https://youtube.com/@grishhung2828"
+      },
+      {
+        "name": "Hubbubble",
+        "url": "https://youtube.com/@hubbubble6856"
+      },
+      {
+        "name": "ItzSynth",
+        "url": "https://youtube.com/@SynthesizeTime"
+      },
+      {
+        "name": "Miscellany",
+        "url": ""
+      },
+      {
+        "name": "Rulas",
+        "url": "https://youtube.com/@Rulas025"
+      },
+      {
+        "name": "Spachi",
+        "url": "https://www.youtube.com/channel/UCQpGzrCzoaiQ4wlV9pTzs5g"
+      },
+      {
+        "name": "WalterRalts",
+        "url": "https://youtube.com/@WalterRalts"
+      }
+    ],
+    "localeOverrides": {}
+  },
+  "version": {
+    "type": "embedded",
     "version": {
-        "type": "embedded",
-        "version": {
-            "uuid": "76e90ce6-e7d6-4807-9e47-992aa4a4a460",
-            "tag": "wanderkid-2024-09-30-0",
-            "release": "2024-09-30T23:13:26.753Z",
-            "content": [
-                {
-                    "platforms": [
-                        "windows",
-                        "macos",
-                        "linux"
-                    ],
-                    "files": [
-                        {
-                            "url": "https://github.com/YARC-Official/Official-Setlist-Public/releases/download/wanderkid-2024-09-30-0/wanderkid-0.7z",
-                            "fileType": "encrypted"
-                        }
-                    ]
-                }
-            ]
+      "uuid": "76e90ce6-e7d6-4807-9e47-992aa4a4a460",
+      "tag": "wanderkid-2024-09-30-0",
+      "release": "2024-09-30T23:13:26.753Z",
+      "content": [
+        {
+          "platforms": [
+            "windows",
+            "macos",
+            "linux"
+          ],
+          "files": [
+            {
+              "url": "https://github.com/YARC-Official/Official-Setlist-Public/releases/download/wanderkid-2024-09-30-0/wanderkid-0.7z",
+              "fileType": "encrypted"
+            }
+          ]
         }
+      ]
     }
+  }
 }

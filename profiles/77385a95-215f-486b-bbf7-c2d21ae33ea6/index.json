@@ -1,124 +1,124 @@
 {
-    "type": "setlist",
-    "uuid": "77385a95-215f-486b-bbf7-c2d21ae33ea6",
-    "metadata": {
-        "name": "Assorted Electronic 1",
-        "description": "Here is a pack of energetic pop/dance/electronic songs, providing challenges on all instruments!",
-        "iconUrl": "@/icons/SetlistDLC.png",
-        "bannerBackUrl": "@/banners/SetlistBack.png",
-        "initialRelease": "2024-08-30T01:17:59.492Z",
-        "newsCategory": "setlist_official",
-        "links": {
-            "youtube": {
-                "name": "Setlist Trailers",
-                "url": "https://www.youtube.com/@YARGGame/videos"
-            }
-        },
-        "songs": [
-            {
-                "title": "Ghost",
-                "artist": "Aaron Musslewhite",
-                "length": 190454,
-                "releaseDate": "2024-12-09T02:36:46.371Z"
-            },
-            {
-                "title": "Rot for Clout (feat. Kasane Teto)",
-                "artist": "Jamie Paige",
-                "length": 231627,
-                "releaseDate": "2024-12-09T02:36:46.371Z"
-            },
-            {
-                "title": "By the Seaside (feat. Kitsui Akira)",
-                "artist": "Kirara Magic",
-                "length": 183000,
-                "releaseDate": "2024-12-09T02:36:46.371Z"
-            },
-            {
-                "title": "Space and Time! (feat. Jelly Hoshiumi)",
-                "artist": "SO87",
-                "length": 192000,
-                "releaseDate": "2024-08-30T01:17:59.492Z"
-            },
-            {
-                "title": "Feel Good",
-                "artist": "Syn Cole",
-                "length": 182073,
-                "releaseDate": "2024-12-09T02:36:46.371Z"
-            },
-            {
-                "title": "Say It Back",
-                "artist": "tv room",
-                "length": 166000,
-                "releaseDate": "2024-08-30T01:17:59.492Z"
-            },
-            {
-                "title": "Radioactive",
-                "artist": "Waterflame",
-                "length": 228648,
-                "releaseDate": "2024-08-30T01:17:59.492Z"
-            }
-        ],
-        "credits": [
-            {
-                "name": "Dai",
-                "url": "https://youtube.com/@daijyoubs1319"
-            },
-            {
-                "name": "frickitickitavi",
-                "url": "https://www.youtube.com/@fricksfrickincharts"
-            },
-            {
-                "name": "grishhung",
-                "url": "https://youtube.com/@grishhung2828"
-            },
-            {
-                "name": "Hubbubble",
-                "url": "https://youtube.com/@hubbubble6856"
-            },
-            {
-                "name": "ItzSynth",
-                "url": "https://youtube.com/@SynthesizeTime"
-            },
-            {
-                "name": "Miscellany",
-                "url": ""
-            },
-            {
-                "name": "Rulas",
-                "url": "https://youtube.com/@Rulas025"
-            },
-            {
-                "name": "Spachi",
-                "url": "https://www.youtube.com/channel/UCQpGzrCzoaiQ4wlV9pTzs5g"
-            },
-            {
-                "name": "WalterRalts",
-                "url": "https://youtube.com/@WalterRalts"
-            }
-        ],
-        "localeOverrides": {}
+  "type": "setlist",
+  "uuid": "77385a95-215f-486b-bbf7-c2d21ae33ea6",
+  "metadata": {
+    "name": "Assorted Electronic 1",
+    "description": "Here is a pack of energetic pop/dance/electronic songs, providing challenges on all instruments!",
+    "iconUrl": "@/icons/SetlistDLC.png",
+    "bannerBackUrl": "@/banners/SetlistBack.png",
+    "initialRelease": "2024-08-30T01:17:59.492Z",
+    "newsCategory": "setlist_official",
+    "links": {
+      "youtube": {
+        "name": "Setlist Trailers",
+        "url": "https://www.youtube.com/@YARGGame/videos"
+      }
     },
+    "songs": [
+      {
+        "title": "Ghost",
+        "artist": "Aaron Musslewhite",
+        "length": 190454,
+        "releaseDate": "2024-12-09T02:36:46.371Z"
+      },
+      {
+        "title": "Rot for Clout (feat. Kasane Teto)",
+        "artist": "Jamie Paige",
+        "length": 231627,
+        "releaseDate": "2024-12-09T02:36:46.371Z"
+      },
+      {
+        "title": "By the Seaside (feat. Kitsui Akira)",
+        "artist": "Kirara Magic",
+        "length": 183000,
+        "releaseDate": "2024-12-09T02:36:46.371Z"
+      },
+      {
+        "title": "Space and Time! (feat. Jelly Hoshiumi)",
+        "artist": "SO87",
+        "length": 192000,
+        "releaseDate": "2024-08-30T01:17:59.492Z"
+      },
+      {
+        "title": "Feel Good",
+        "artist": "Syn Cole",
+        "length": 182073,
+        "releaseDate": "2024-12-09T02:36:46.371Z"
+      },
+      {
+        "title": "Say It Back",
+        "artist": "tv room",
+        "length": 166000,
+        "releaseDate": "2024-08-30T01:17:59.492Z"
+      },
+      {
+        "title": "Radioactive",
+        "artist": "Waterflame",
+        "length": 228648,
+        "releaseDate": "2024-08-30T01:17:59.492Z"
+      }
+    ],
+    "credits": [
+      {
+        "name": "Dai",
+        "url": "https://youtube.com/@daijyoubs1319"
+      },
+      {
+        "name": "frickitickitavi",
+        "url": "https://www.youtube.com/@fricksfrickincharts"
+      },
+      {
+        "name": "grishhung",
+        "url": "https://youtube.com/@grishhung2828"
+      },
+      {
+        "name": "Hubbubble",
+        "url": "https://youtube.com/@hubbubble6856"
+      },
+      {
+        "name": "ItzSynth",
+        "url": "https://youtube.com/@SynthesizeTime"
+      },
+      {
+        "name": "Miscellany",
+        "url": ""
+      },
+      {
+        "name": "Rulas",
+        "url": "https://youtube.com/@Rulas025"
+      },
+      {
+        "name": "Spachi",
+        "url": "https://www.youtube.com/channel/UCQpGzrCzoaiQ4wlV9pTzs5g"
+      },
+      {
+        "name": "WalterRalts",
+        "url": "https://youtube.com/@WalterRalts"
+      }
+    ],
+    "localeOverrides": {}
+  },
+  "version": {
+    "type": "embedded",
     "version": {
-        "type": "embedded",
-        "version": {
-            "uuid": "9820d231-c671-48ad-8e34-c13623afbe42",
-            "tag": "assorted_2-2024-12-08-0",
-            "release": "2024-12-09T02:36:46.371Z",
-            "content": [
-                {
-                    "platforms": [
-                        "windows",
-                        "macos",
-                        "linux"
-                    ],
-                    "files": [
-                        {
-                            "url": "https://github.com/YARC-Official/Official-Setlist-Public/releases/download/assorted_2-2024-12-08-0/assorted_2-0.7z",
-                            "fileType": "encrypted"
-                        }
-                    ]
-                }
-            ]
+      "uuid": "9820d231-c671-48ad-8e34-c13623afbe42",
+      "tag": "assorted_2-2024-12-08-0",
+      "release": "2024-12-09T02:36:46.371Z",
+      "content": [
+        {
+          "platforms": [
+            "windows",
+            "macos",
+            "linux"
+          ],
+          "files": [
+            {
+              "url": "https://github.com/YARC-Official/Official-Setlist-Public/releases/download/assorted_2-2024-12-08-0/assorted_2-0.7z",
+              "fileType": "encrypted"
+            }
+          ]
         }
+      ]
     }
+  }
 }

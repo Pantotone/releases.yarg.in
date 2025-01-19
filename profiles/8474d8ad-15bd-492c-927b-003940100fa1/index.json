@@ -1,377 +1,377 @@
 {
-    "type": "setlist",
-    "uuid": "8474d8ad-15bd-492c-927b-003940100fa1",
-    "metadata": {
-        "name": "YARG Official Setlist",
-        "description": "YARG's Official Setlist is a multi-genre, full-band full-difficulty, in development setlist brought to you by YARG's amazing and talented charting team. Its eventual goal is to have 80 to 100 songs, all made with love and lots of care. The setlist contains songs from underappreciated artists, along with more well known songs.",
-        "iconUrl": "@/icons/Setlist.png",
-        "bannerBackUrl": "@/banners/SetlistBack.png",
-        "bannerFrontUrl": "@/banners/SetlistFront.png",
-        "initialRelease": "2023-07-10T00:00:00.000Z",
-        "newsCategory": "setlist_official",
-        "links": {
-            "youtube": {
-                "name": "Setlist Trailers",
-                "url": "https://www.youtube.com/@YARGGame/videos"
-            }
-        },
-        "songs": [
-            {
-                "title": "Pizza Rolls",
-                "artist": "Bottom Bunk",
-                "length": 152381,
-                "releaseDate": "2023-07-10T00:00:00.000Z"
-            },
-            {
-                "title": "The New World Disorder",
-                "artist": "H\u00F6wler",
-                "length": 323600,
-                "releaseDate": "2023-07-10T00:00:00.000Z"
-            },
-            {
-                "title": "Butterflies",
-                "artist": "Kingseeker",
-                "length": 182118,
-                "releaseDate": "2023-07-10T00:00:00.000Z"
-            },
-            {
-                "title": "The Afterparty",
-                "artist": "Portraits of Tracy",
-                "length": 217448,
-                "releaseDate": "2023-07-10T00:00:00.000Z"
-            },
-            {
-                "title": "Runnin Man",
-                "artist": "Stone Deep",
-                "length": 255640,
-                "releaseDate": "2023-07-10T00:00:00.000Z"
-            },
-            {
-                "title": "In My Head",
-                "artist": "Halfway to Michigan",
-                "length": 149230,
-                "releaseDate": "2023-08-21T00:00:00.000Z"
-            },
-            {
-                "title": "John, Take Me with You",
-                "artist": "JW Francis",
-                "length": 217000,
-                "releaseDate": "2023-08-21T00:00:00.000Z"
-            },
-            {
-                "title": "The Game",
-                "artist": "RinRin",
-                "length": 226000,
-                "releaseDate": "2023-08-21T00:00:00.000Z"
-            },
-            {
-                "title": "Buds",
-                "artist": "Troubled Minds",
-                "length": 179634,
-                "releaseDate": "2023-08-21T00:00:00.000Z"
-            },
-            {
-                "title": "Time",
-                "artist": "Vandalheart",
-                "length": 250034,
-                "releaseDate": "2023-08-21T00:00:00.000Z"
-            },
-            {
-                "title": "Cowboy Tanaka",
-                "artist": "Atomic Guava",
-                "length": 213333,
-                "releaseDate": "2023-11-18T00:00:00.000Z"
-            },
-            {
-                "title": "106",
-                "artist": "Frostbitt",
-                "length": 249490,
-                "releaseDate": "2023-11-18T00:00:00.000Z"
-            },
-            {
-                "title": "Emperor Rising",
-                "artist": "Krilloan",
-                "length": 231924,
-                "releaseDate": "2023-11-18T00:00:00.000Z"
-            },
-            {
-                "title": "Spirit",
-                "artist": "Practically People",
-                "length": 137094,
-                "releaseDate": "2023-11-18T00:00:00.000Z"
-            },
-            {
-                "title": "Marlboro Mountain",
-                "artist": "Sweet Bike",
-                "length": 191294,
-                "releaseDate": "2023-11-18T00:00:00.000Z"
-            },
-            {
-                "title": "Participation Trophy Wife",
-                "artist": "Thanks! I Hate It",
-                "length": 194177,
-                "releaseDate": "2023-11-18T00:00:00.000Z"
-            },
-            {
-                "title": "Do",
-                "artist": "Garlagan",
-                "length": 266280,
-                "releaseDate": "2024-01-17T00:00:00.000Z"
-            },
-            {
-                "title": "Don\u0027t Spook the Owl",
-                "artist": "Kidd Judo",
-                "length": 213974,
-                "releaseDate": "2024-01-17T00:00:00.000Z"
-            },
-            {
-                "title": "No Remedy",
-                "artist": "Levia",
-                "length": 285000,
-                "releaseDate": "2024-01-17T00:00:00.000Z"
-            },
-            {
-                "title": "Numb the Mind",
-                "artist": "NyxTheShield",
-                "length": 275348,
-                "releaseDate": "2024-01-17T00:00:00.000Z"
-            },
-            {
-                "title": "Languish",
-                "artist": "Our Common Collapse",
-                "length": 187023,
-                "releaseDate": "2024-01-17T00:00:00.000Z"
-            },
-            {
-                "title": "Voidwalker",
-                "artist": "Inflicted",
-                "length": 265241,
-                "releaseDate": "2024-03-09T00:00:00.000Z"
-            },
-            {
-                "title": "Poser",
-                "artist": "Luminism",
-                "length": 199783,
-                "releaseDate": "2024-03-09T00:00:00.000Z"
-            },
-            {
-                "title": "Bathe in Blood",
-                "artist": "Parasiticide",
-                "length": 186764,
-                "releaseDate": "2024-03-09T00:00:00.000Z"
-            },
-            {
-                "title": "Allure",
-                "artist": "Shibito",
-                "length": 233655,
-                "releaseDate": "2024-03-09T00:00:00.000Z"
-            },
-            {
-                "title": "Circles",
-                "artist": "Thousand Thoughts",
-                "length": 209651,
-                "releaseDate": "2024-03-09T00:00:00.000Z"
-            },
-            {
-                "title": "Seasons (feat. Shiki Miyoshino)",
-                "artist": "Alohaii",
-                "length": 210337,
-                "releaseDate": "2024-04-20T00:00:00.000Z"
-            },
-            {
-                "title": "322",
-                "artist": "Creo",
-                "length": 230625,
-                "releaseDate": "2024-04-20T00:00:00.000Z"
-            },
-            {
-                "title": "Front Row Seats (To Watching Your World Burn)",
-                "artist": "FoundiT",
-                "length": 194594,
-                "releaseDate": "2024-04-20T00:00:00.000Z"
-            },
-            {
-                "title": "Nomu",
-                "artist": "Good Kid",
-                "length": 172747,
-                "releaseDate": "2024-04-20T00:00:00.000Z"
-            },
-            {
-                "title": "Sadness (feat. Sapphire Noel)",
-                "artist": "Heartsick",
-                "length": 212791,
-                "releaseDate": "2024-04-20T00:00:00.000Z"
-            },
-            {
-                "title": "About the Author",
-                "artist": "The Sterns",
-                "length": 155262,
-                "releaseDate": "2024-04-20T00:00:00.000Z"
-            },
-            {
-                "title": "All of a Sudden",
-                "artist": "Adamic",
-                "length": 230625,
-                "releaseDate": "2024-06-10T00:00:00.000Z"
-            },
-            {
-                "title": "Discipline",
-                "artist": "Nine Inch Nails",
-                "length": 306885,
-                "releaseDate": "2024-06-10T00:00:00.000Z"
-            },
-            {
-                "title": "Vehemence",
-                "artist": "Reo",
-                "length": 85200,
-                "releaseDate": "2024-06-10T00:00:00.000Z"
-            },
-            {
-                "title": "Choked Up",
-                "artist": "See You at Rogers",
-                "length": 190909,
-                "releaseDate": "2024-06-10T00:00:00.000Z"
-            },
-            {
-                "title": "Overdrive",
-                "artist": "Vessel",
-                "length": 258124,
-                "releaseDate": "2024-06-10T00:00:00.000Z"
-            },
-            {
-                "title": "I Don\u0027t Wanna Talk",
-                "artist": "Carter Vail",
-                "length": 195891,
-                "releaseDate": "2024-07-22T00:00:00.000Z"
-            },
-            {
-                "title": "Long in the Tooth",
-                "artist": "Flying Raccoon Suit",
-                "length": 323707,
-                "releaseDate": "2024-07-22T00:00:00.000Z"
-            },
-            {
-                "title": "Avatar the Last Cakebender",
-                "artist": "Palette Knife",
-                "length": 167466,
-                "releaseDate": "2024-07-22T00:00:00.000Z"
-            },
-            {
-                "title": "Is This What You Wanted",
-                "artist": "Scro",
-                "length": 229317,
-                "releaseDate": "2024-07-22T00:00:00.000Z"
-            },
-            {
-                "title": "Guess I\u0027ll Never Know",
-                "artist": "TrackTribe",
-                "length": 208500,
-                "releaseDate": "2024-07-22T00:00:00.000Z"
-            },
-            {
-                "title": "Half Measures",
-                "artist": "Aaron Musslewhite",
-                "length": 263283,
-                "releaseDate": "2024-10-26T23:44:20.269Z"
-            },
-            {
-                "title": "Stowaway Ants",
-                "artist": "Alpha Bo\u00F6tis",
-                "length": 249882,
-                "releaseDate": "2024-10-26T23:44:20.269Z"
-            },
-            {
-                "title": "Blue (feat. Miori Celesta)",
-                "artist": "InVerSe",
-                "length": 269387,
-                "releaseDate": "2024-10-26T23:44:20.269Z"
-            },
-            {
-                "title": "Plastic Boogie",
-                "artist": "King Gizzard and the Lizard Wizard",
-                "length": 182040,
-                "releaseDate": "2024-10-26T23:44:20.269Z"
-            },
-            {
-                "title": "Cruisin\u0027",
-                "artist": "raphaelgoulart",
-                "length": 275635,
-                "releaseDate": "2024-10-26T23:44:20.269Z"
-            },
-            {
-                "title": "A Visitant (feat. Victor Borba)",
-                "artist": "RO1",
-                "length": 341007,
-                "releaseDate": "2024-10-26T23:44:20.269Z"
-            },
-            {
-                "title": "Song of November",
-                "artist": "Frantic Memories",
-                "length": 143505,
-                "releaseDate": "2024-11-29T23:44:20.269Z"
-            }
-        ],
-        "credits": [
-            {
-                "name": "Dai",
-                "url": "https://youtube.com/@daijyoubs1319"
-            },
-            {
-                "name": "frickitickitavi",
-                "url": "https://www.youtube.com/@fricksfrickincharts"
-            },
-            {
-                "name": "grishhung",
-                "url": "https://youtube.com/@grishhung2828"
-            },
-            {
-                "name": "Hubbubble",
-                "url": "https://youtube.com/@hubbubble6856"
-            },
-            {
-                "name": "ItzSynth",
-                "url": "https://youtube.com/@SynthesizeTime"
-            },
-            {
-                "name": "Miscellany",
-                "url": ""
-            },
-            {
-                "name": "Rulas",
-                "url": "https://youtube.com/@Rulas025"
-            },
-            {
-                "name": "Spachi",
-                "url": "https://www.youtube.com/channel/UCQpGzrCzoaiQ4wlV9pTzs5g"
-            },
-            {
-                "name": "WalterRalts",
-                "url": "https://youtube.com/@WalterRalts"
-            }
-        ],
-        "localeOverrides": {}
+  "type": "setlist",
+  "uuid": "8474d8ad-15bd-492c-927b-003940100fa1",
+  "metadata": {
+    "name": "YARG Official Setlist",
+    "description": "YARG's Official Setlist is a multi-genre, full-band full-difficulty, in development setlist brought to you by YARG's amazing and talented charting team. Its eventual goal is to have 80 to 100 songs, all made with love and lots of care. The setlist contains songs from underappreciated artists, along with more well known songs.",
+    "iconUrl": "@/icons/Setlist.png",
+    "bannerBackUrl": "@/banners/SetlistBack.png",
+    "bannerFrontUrl": "@/banners/SetlistFront.png",
+    "initialRelease": "2023-07-10T00:00:00.000Z",
+    "newsCategory": "setlist_official",
+    "links": {
+      "youtube": {
+        "name": "Setlist Trailers",
+        "url": "https://www.youtube.com/@YARGGame/videos"
+      }
     },
+    "songs": [
+      {
+        "title": "Pizza Rolls",
+        "artist": "Bottom Bunk",
+        "length": 152381,
+        "releaseDate": "2023-07-10T00:00:00.000Z"
+      },
+      {
+        "title": "The New World Disorder",
+        "artist": "H\u00F6wler",
+        "length": 323600,
+        "releaseDate": "2023-07-10T00:00:00.000Z"
+      },
+      {
+        "title": "Butterflies",
+        "artist": "Kingseeker",
+        "length": 182118,
+        "releaseDate": "2023-07-10T00:00:00.000Z"
+      },
+      {
+        "title": "The Afterparty",
+        "artist": "Portraits of Tracy",
+        "length": 217448,
+        "releaseDate": "2023-07-10T00:00:00.000Z"
+      },
+      {
+        "title": "Runnin Man",
+        "artist": "Stone Deep",
+        "length": 255640,
+        "releaseDate": "2023-07-10T00:00:00.000Z"
+      },
+      {
+        "title": "In My Head",
+        "artist": "Halfway to Michigan",
+        "length": 149230,
+        "releaseDate": "2023-08-21T00:00:00.000Z"
+      },
+      {
+        "title": "John, Take Me with You",
+        "artist": "JW Francis",
+        "length": 217000,
+        "releaseDate": "2023-08-21T00:00:00.000Z"
+      },
+      {
+        "title": "The Game",
+        "artist": "RinRin",
+        "length": 226000,
+        "releaseDate": "2023-08-21T00:00:00.000Z"
+      },
+      {
+        "title": "Buds",
+        "artist": "Troubled Minds",
+        "length": 179634,
+        "releaseDate": "2023-08-21T00:00:00.000Z"
+      },
+      {
+        "title": "Time",
+        "artist": "Vandalheart",
+        "length": 250034,
+        "releaseDate": "2023-08-21T00:00:00.000Z"
+      },
+      {
+        "title": "Cowboy Tanaka",
+        "artist": "Atomic Guava",
+        "length": 213333,
+        "releaseDate": "2023-11-18T00:00:00.000Z"
+      },
+      {
+        "title": "106",
+        "artist": "Frostbitt",
+        "length": 249490,
+        "releaseDate": "2023-11-18T00:00:00.000Z"
+      },
+      {
+        "title": "Emperor Rising",
+        "artist": "Krilloan",
+        "length": 231924,
+        "releaseDate": "2023-11-18T00:00:00.000Z"
+      },
+      {
+        "title": "Spirit",
+        "artist": "Practically People",
+        "length": 137094,
+        "releaseDate": "2023-11-18T00:00:00.000Z"
+      },
+      {
+        "title": "Marlboro Mountain",
+        "artist": "Sweet Bike",
+        "length": 191294,
+        "releaseDate": "2023-11-18T00:00:00.000Z"
+      },
+      {
+        "title": "Participation Trophy Wife",
+        "artist": "Thanks! I Hate It",
+        "length": 194177,
+        "releaseDate": "2023-11-18T00:00:00.000Z"
+      },
+      {
+        "title": "Do",
+        "artist": "Garlagan",
+        "length": 266280,
+        "releaseDate": "2024-01-17T00:00:00.000Z"
+      },
+      {
+        "title": "Don\u0027t Spook the Owl",
+        "artist": "Kidd Judo",
+        "length": 213974,
+        "releaseDate": "2024-01-17T00:00:00.000Z"
+      },
+      {
+        "title": "No Remedy",
+        "artist": "Levia",
+        "length": 285000,
+        "releaseDate": "2024-01-17T00:00:00.000Z"
+      },
+      {
+        "title": "Numb the Mind",
+        "artist": "NyxTheShield",
+        "length": 275348,
+        "releaseDate": "2024-01-17T00:00:00.000Z"
+      },
+      {
+        "title": "Languish",
+        "artist": "Our Common Collapse",
+        "length": 187023,
+        "releaseDate": "2024-01-17T00:00:00.000Z"
+      },
+      {
+        "title": "Voidwalker",
+        "artist": "Inflicted",
+        "length": 265241,
+        "releaseDate": "2024-03-09T00:00:00.000Z"
+      },
+      {
+        "title": "Poser",
+        "artist": "Luminism",
+        "length": 199783,
+        "releaseDate": "2024-03-09T00:00:00.000Z"
+      },
+      {
+        "title": "Bathe in Blood",
+        "artist": "Parasiticide",
+        "length": 186764,
+        "releaseDate": "2024-03-09T00:00:00.000Z"
+      },
+      {
+        "title": "Allure",
+        "artist": "Shibito",
+        "length": 233655,
+        "releaseDate": "2024-03-09T00:00:00.000Z"
+      },
+      {
+        "title": "Circles",
+        "artist": "Thousand Thoughts",
+        "length": 209651,
+        "releaseDate": "2024-03-09T00:00:00.000Z"
+      },
+      {
+        "title": "Seasons (feat. Shiki Miyoshino)",
+        "artist": "Alohaii",
+        "length": 210337,
+        "releaseDate": "2024-04-20T00:00:00.000Z"
+      },
+      {
+        "title": "322",
+        "artist": "Creo",
+        "length": 230625,
+        "releaseDate": "2024-04-20T00:00:00.000Z"
+      },
+      {
+        "title": "Front Row Seats (To Watching Your World Burn)",
+        "artist": "FoundiT",
+        "length": 194594,
+        "releaseDate": "2024-04-20T00:00:00.000Z"
+      },
+      {
+        "title": "Nomu",
+        "artist": "Good Kid",
+        "length": 172747,
+        "releaseDate": "2024-04-20T00:00:00.000Z"
+      },
+      {
+        "title": "Sadness (feat. Sapphire Noel)",
+        "artist": "Heartsick",
+        "length": 212791,
+        "releaseDate": "2024-04-20T00:00:00.000Z"
+      },
+      {
+        "title": "About the Author",
+        "artist": "The Sterns",
+        "length": 155262,
+        "releaseDate": "2024-04-20T00:00:00.000Z"
+      },
+      {
+        "title": "All of a Sudden",
+        "artist": "Adamic",
+        "length": 230625,
+        "releaseDate": "2024-06-10T00:00:00.000Z"
+      },
+      {
+        "title": "Discipline",
+        "artist": "Nine Inch Nails",
+        "length": 306885,
+        "releaseDate": "2024-06-10T00:00:00.000Z"
+      },
+      {
+        "title": "Vehemence",
+        "artist": "Reo",
+        "length": 85200,
+        "releaseDate": "2024-06-10T00:00:00.000Z"
+      },
+      {
+        "title": "Choked Up",
+        "artist": "See You at Rogers",
+        "length": 190909,
+        "releaseDate": "2024-06-10T00:00:00.000Z"
+      },
+      {
+        "title": "Overdrive",
+        "artist": "Vessel",
+        "length": 258124,
+        "releaseDate": "2024-06-10T00:00:00.000Z"
+      },
+      {
+        "title": "I Don\u0027t Wanna Talk",
+        "artist": "Carter Vail",
+        "length": 195891,
+        "releaseDate": "2024-07-22T00:00:00.000Z"
+      },
+      {
+        "title": "Long in the Tooth",
+        "artist": "Flying Raccoon Suit",
+        "length": 323707,
+        "releaseDate": "2024-07-22T00:00:00.000Z"
+      },
+      {
+        "title": "Avatar the Last Cakebender",
+        "artist": "Palette Knife",
+        "length": 167466,
+        "releaseDate": "2024-07-22T00:00:00.000Z"
+      },
+      {
+        "title": "Is This What You Wanted",
+        "artist": "Scro",
+        "length": 229317,
+        "releaseDate": "2024-07-22T00:00:00.000Z"
+      },
+      {
+        "title": "Guess I\u0027ll Never Know",
+        "artist": "TrackTribe",
+        "length": 208500,
+        "releaseDate": "2024-07-22T00:00:00.000Z"
+      },
+      {
+        "title": "Half Measures",
+        "artist": "Aaron Musslewhite",
+        "length": 263283,
+        "releaseDate": "2024-10-26T23:44:20.269Z"
+      },
+      {
+        "title": "Stowaway Ants",
+        "artist": "Alpha Bo\u00F6tis",
+        "length": 249882,
+        "releaseDate": "2024-10-26T23:44:20.269Z"
+      },
+      {
+        "title": "Blue (feat. Miori Celesta)",
+        "artist": "InVerSe",
+        "length": 269387,
+        "releaseDate": "2024-10-26T23:44:20.269Z"
+      },
+      {
+        "title": "Plastic Boogie",
+        "artist": "King Gizzard and the Lizard Wizard",
+        "length": 182040,
+        "releaseDate": "2024-10-26T23:44:20.269Z"
+      },
+      {
+        "title": "Cruisin\u0027",
+        "artist": "raphaelgoulart",
+        "length": 275635,
+        "releaseDate": "2024-10-26T23:44:20.269Z"
+      },
+      {
+        "title": "A Visitant (feat. Victor Borba)",
+        "artist": "RO1",
+        "length": 341007,
+        "releaseDate": "2024-10-26T23:44:20.269Z"
+      },
+      {
+        "title": "Song of November",
+        "artist": "Frantic Memories",
+        "length": 143505,
+        "releaseDate": "2024-11-29T23:44:20.269Z"
+      }
+    ],
+    "credits": [
+      {
+        "name": "Dai",
+        "url": "https://youtube.com/@daijyoubs1319"
+      },
+      {
+        "name": "frickitickitavi",
+        "url": "https://www.youtube.com/@fricksfrickincharts"
+      },
+      {
+        "name": "grishhung",
+        "url": "https://youtube.com/@grishhung2828"
+      },
+      {
+        "name": "Hubbubble",
+        "url": "https://youtube.com/@hubbubble6856"
+      },
+      {
+        "name": "ItzSynth",
+        "url": "https://youtube.com/@SynthesizeTime"
+      },
+      {
+        "name": "Miscellany",
+        "url": ""
+      },
+      {
+        "name": "Rulas",
+        "url": "https://youtube.com/@Rulas025"
+      },
+      {
+        "name": "Spachi",
+        "url": "https://www.youtube.com/channel/UCQpGzrCzoaiQ4wlV9pTzs5g"
+      },
+      {
+        "name": "WalterRalts",
+        "url": "https://youtube.com/@WalterRalts"
+      }
+    ],
+    "localeOverrides": {}
+  },
+  "version": {
+    "type": "embedded",
     "version": {
-        "type": "embedded",
-        "version": {
-            "uuid": "2e75b417-0692-45b3-9bba-25321df9fedc",
-            "tag": "official-2024-11-29-0",
-            "release": "2024-11-29T23:44:20.269Z",
-            "content": [
-                {
-                    "platforms": [
-                        "windows",
-                        "macos",
-                        "linux"
-                    ],
-                    "files": [
-                        {
-                            "url": "https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2024-11-29-0/official-0.7z",
-                            "fileType": "encrypted"
-                        }
-                    ]
-                }
-            ]
+      "uuid": "2e75b417-0692-45b3-9bba-25321df9fedc",
+      "tag": "official-2024-11-29-0",
+      "release": "2024-11-29T23:44:20.269Z",
+      "content": [
+        {
+          "platforms": [
+            "windows",
+            "macos",
+            "linux"
+          ],
+          "files": [
+            {
+              "url": "https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2024-11-29-0/official-0.7z",
+              "fileType": "encrypted"
+            }
+          ]
         }
+      ]
     }
+  }
 }
