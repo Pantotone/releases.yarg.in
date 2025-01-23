@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "3852efd4fa78a6c813d7d5f688e9a91533ded04c",
+      "author": "TheNathannator",
+      "summary": "Further tidy .editorconfig file",
+      "description": ""
+    }
+  ]
+}
