@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "3951404171dae2915fe40ad8080b79869f5c8f80",
+      "author": "wyrdough",
+      "summary": "Don't attempt to pulse the star meter once gold has been achieved. (#941)",
+      "description": ""
+    }
+  ]
+}
