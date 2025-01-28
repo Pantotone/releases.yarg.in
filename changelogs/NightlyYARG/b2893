@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "dec8f5ff10d27b4ca07a0407f28ba29acf1aea09",
+      "author": "theli-ua",
+      "summary": "Destroy default camera when using yarground venue (#951)",
+      "description": "Addressing the fixme"
+    }
+  ]
+}
