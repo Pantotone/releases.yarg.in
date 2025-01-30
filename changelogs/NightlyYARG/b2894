@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "801f9e8c618483fd868421c0068821940c85853b",
+      "author": "TheNathannator",
+      "summary": "Fix some issues with score database querying/caching, and allow selecting whether high-score display searches all difficulties or only the highest difficulty (#953)",
+      "description": "* Tidy up score database queries into a helper type\r\n\r\n* Better represent results of queries which only pull song checksums\r\n\r\n* Redo highest score/percentage queries to fix percentage and score not displaying independently on song list\r\n\r\n* Allow selecting whether high-score display uses all difficulties or only the highest difficulty\r\n\r\n* Re-query database when caching new high scores on song end, instead of manually checking score values\r\n\r\n* Invalidate score cache when switching history modes\r\n\r\n* Clearly indicate when percent and score on the song list come from different difficulties\r\n\r\n* Don't show score difficulty badge when high score display is disabled"
+    }
+  ]
+}
