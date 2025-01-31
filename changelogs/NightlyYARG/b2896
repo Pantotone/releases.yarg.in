@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "4439beb463bfb2f534d44f5468147a65f84ee73b",
+      "author": "theli-ua",
+      "summary": "Add active graphics api to watermark text (#952)",
+      "description": "Makes it a little easier to debug user graphics issues when\r\nwe need to see which graphics api is currently active"
+    }
+  ]
+}
