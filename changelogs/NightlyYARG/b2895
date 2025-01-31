@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "c5de523235c365a1500e84383bea6e12e81e6515",
+      "author": "theli-ua",
+      "summary": "Make yarground cross-platform (#946)",
+      "description": "By building shaders for osx into a small separate asset bundle\r\nthat is embedded into yarground asset bundle and using them on OSX builds."
+    }
+  ]
+}
