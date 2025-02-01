@@ -3,7 +3,7 @@
   "uuid": "8474d8ad-15bd-492c-927b-003940100fa1",
   "metadata": {
     "name": "YARG Official Setlist",
-    "description": "YARG's Official Setlist is a multi-genre, full-band full-difficulty, in development setlist brought to you by YARG's amazing and talented charting team. Its eventual goal is to have 80 to 100 songs, all made with love and lots of care. The setlist contains songs from underappreciated artists, along with more well known songs.",
+    "description": "YARG\u0027s Official Setlist is a multi-genre, full-band full-difficulty, in development setlist brought to you by YARG\u0027s amazing and talented charting team. Its eventual goal is to have 80 to 100 songs, all made with love and lots of care. The setlist contains songs from underappreciated artists, along with more well known songs.",
     "iconUrl": "@/icons/Setlist.png",
     "bannerBackUrl": "@/banners/SetlistBack.png",
     "bannerFrontUrl": "@/banners/SetlistFront.png",
@@ -309,6 +309,42 @@
         "artist": "Frantic Memories",
         "length": 143505,
         "releaseDate": "2024-11-29T23:44:20.269Z"
+      },
+      {
+        "title": "They Call",
+        "artist": "Auris",
+        "length": 217846,
+        "releaseDate": "2025-02-01T00:00:00.000Z"
+      },
+      {
+        "title": "Dreamweaver",
+        "artist": "Glass Guillotine",
+        "length": 217846,
+        "releaseDate": "2025-02-01T00:00:00.000Z"
+      },
+      {
+        "title": "Avatara",
+        "artist": "Heteromorphic Zoo",
+        "length": 224666,
+        "releaseDate": "2025-02-01T00:00:00.000Z"
+      },
+      {
+        "title": "Mass Gap",
+        "artist": "Mindiode",
+        "length": 294187,
+        "releaseDate": "2025-02-01T00:00:00.000Z"
+      },
+      {
+        "title": "Synthespian",
+        "artist": "Prototype",
+        "length": 208755,
+        "releaseDate": "2025-02-01T00:00:00.000Z"
+      },
+      {
+        "title": "Smile for Me",
+        "artist": "The Robot\u0027s Guide to Living",
+        "length": 204000,
+        "releaseDate": "2025-02-01T00:00:00.000Z"
       }
     ],
     "credits": [
@@ -354,9 +390,9 @@
   "version": {
     "type": "embedded",
     "version": {
-      "uuid": "2e75b417-0692-45b3-9bba-25321df9fedc",
-      "tag": "official-2024-11-29-0",
-      "release": "2024-11-29T23:44:20.269Z",
+      "uuid": "923b32d5-f70c-4ae1-9675-4fd1ff75d4a1",
+      "tag": "official-2025-1-2-0",
+      "release": "2025-02-01T20:29:51.5857953Z",
       "content": [
         {
           "platforms": [
@@ -366,7 +402,7 @@
           ],
           "files": [
             {
-              "url": "https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2024-11-29-0/official-0.7z",
+              "url": "https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2025-1-2-0/official-0.7z",
               "fileType": "encrypted"
             }
           ]
