@@ -1,0 +1,40 @@
+{
+  "commits": [
+    {
+      "sha": "ee1d15c440ebec9732da4b7377aad8696a2380dd",
+      "author": "TheNathannator",
+      "summary": "remove accidental import that caused a build error",
+      "description": ""
+    },
+    {
+      "sha": "3f40a0fb176abc7895f12a55baf7d96aef639e20",
+      "author": "EliteAsian123",
+      "summary": "Disable profile menu up and down buttons at the top and bottom",
+      "description": ""
+    },
+    {
+      "sha": "7411f6bd65e0d0750dd2a27f601ecd5c38b1f291",
+      "author": "EliteAsian123",
+      "summary": "Swap the positions of the profile menu move up and down buttons",
+      "description": ""
+    },
+    {
+      "sha": "c4665956e43a6bc2c4941eee662a2892e0347d04",
+      "author": "TheNathannator",
+      "summary": "Implement option for extended difficulty ring display; show number value for intensities higher than 5/6 (#956)",
+      "description": "* Implement extended difficulty ring range concepts\r\n\r\n* Rainbow coloring for intensities >15, intensity text readability tweaks\r\n\r\n* Fix some display issues\r\n\r\n* Localization entries"
+    },
+    {
+      "sha": "efae61aa56859acd635bee81177457a52b0d843f",
+      "author": "EliteAsian123",
+      "summary": "Update YARG.Core for profile reordering",
+      "description": ""
+    },
+    {
+      "sha": "ccb3f2eea70f83c730bd5e00c3e53638df186d17",
+      "author": "thomeval",
+      "summary": "Active profile reordering (#948)",
+      "description": "* Implement active profile reordering in Profiles Screen\r\nWhen connecting a profile, show it in the sidebar.\r\n\r\n* Update YARG.Core\r\nRevert one private field change to public (use readonly property instead)\r\n\r\n* Save active profile order when saving profiles, and restore it when starting up YARG.\r\nMoved profile reconnect code out of LoadingScreen\r\nRemoved references to removed AutoConnect property.\r\n\r\n* Fixed exception when renaming then reordering an active profile in the profiles list.\r\nFixed selection highlight disappearing when reordering profiles. Applied this to connecting a profile as well.\r\nApplied other PR feedback"
+    }
+  ]
+}
