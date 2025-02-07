@@ -1,0 +1,28 @@
+{
+  "commits": [
+    {
+      "sha": "1b6ee9f83b62ebca6ad6aa2053b59a7c271be18b",
+      "author": "sonicfind",
+      "summary": "Fix .chart modifier oversight",
+      "description": ""
+    },
+    {
+      "sha": "c33a1481773d847f5a40bbde21b4848016fb4602",
+      "author": "EliteAsian123",
+      "summary": "Update YARG.Core for scanning refactor",
+      "description": ""
+    },
+    {
+      "sha": "c19db7af3e542654703c9a1b48281909cd9c93bb",
+      "author": "sonicfind",
+      "summary": "Scanning Refactor V3 (#961)",
+      "description": "* Fix _YARGSOURCE not using the explicit SortString constructor\r\n\r\n* Fix YARGImage `!= null` comparisons\r\n\r\n* Update VenueLoader to use string over DirectoryInfo\r\n\r\n* Fix YARGImage source icon load\r\n\r\n* Only hold the sort string form as the songsource key\r\n\r\n* Fix ReplayContainer FixedArrayStream usage\r\n\r\n* Configure .sng & con file \"open file location\" to pre-select the file\r\n\r\nCurrently windows and osx only.\r\n\r\n* Fix song entry metadata accessor calls\r\n\r\n* SongSearch: use correct namespaces for transforms\r\n\r\n* Account for new `duplicate song` handling in music library menu\r\n\r\n* SongContainer touchups\r\n\r\n* Fix SortString JSONConverter\r\n\r\n* Correctly update `All Songs` count on `Allow Duplicate Songs` settings change\r\n\r\n* Fix error is `SongContainer.HasInstrument`\r\n\r\nWe can simplify that now."
+    },
+    {
+      "sha": "94b2531fa98e15232a6184c92895dfd283c94070",
+      "author": "theli-ua",
+      "summary": "Allow vocal note lines' draw calls to be batched (#958)",
+      "description": "* Allow vocal note lines' draw calls to be batched\r\n\r\nCurrent code code directly sets `.color` on the material\r\nwhich creates a separate instance of material for every mesh renderer and\r\nprevents srp batcher from combining them.\r\n\r\n* Cache material property block in a field\r\n\r\n* Group rendering of vocal notes together per harmony number\r\n\r\nThis groups them together by same material essentially.\r\nAnd makes it so every harmony's notes are drawn in a single batch.\r\nSo with 3 harmonies makes it 3 batches instead of ~100\r\n\r\n* Move material properties construction into GameplayAwake\r\n\r\n* Use MaterialPropertyBlock singleton as 1 is all we need\r\n\r\n* Move MaterialPropertyInstance into Gameplay.Visuals"
+    }
+  ]
+}
