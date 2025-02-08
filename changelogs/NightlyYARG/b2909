@@ -1,0 +1,22 @@
+{
+  "commits": [
+    {
+      "sha": "1070cbcf784f025f847c78e45ed5a8ef70a7c200",
+      "author": "sonicfind",
+      "summary": "Fix issues with unspecified playlists",
+      "description": ""
+    },
+    {
+      "sha": "95e64ad5edcb39e506804098c7e223e1096f7e2f",
+      "author": "sonicfind",
+      "summary": "Cache update sowwy uwu",
+      "description": ""
+    },
+    {
+      "sha": "bf184583be1a76ba6ffa3e82723e622aee6a9194",
+      "author": "sonicfind",
+      "summary": "Address incorrect last write time issues",
+      "description": "Also:\n+ Some stream fixes\n+ Add SongEntry `SongRating` property"
+    }
+  ]
+}
