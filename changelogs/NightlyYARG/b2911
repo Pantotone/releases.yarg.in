@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "93ace62e89e450055140e42a03516019956d4d07",
+      "author": "sonicfind",
+      "summary": "Minor alterations to noteflare formula constants",
+      "description": "+ Not noticeable in reality... but nicer values"
+    },
+    {
+      "sha": "0624ac07cd609487e751ee67defa985b731b0376",
+      "author": "MaddieMewmews",
+      "summary": "Fix Circular HOPO Note Flares not scaling with FOV (#968)",
+      "description": "Signed-off-by: Madeline Mewmews <maddie@mewmews.gay>"
+    }
+  ]
+}
