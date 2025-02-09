@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "4e13d9769461863efe04550dd88429e7ed68cfc7",
+      "author": "sonicfind",
+      "summary": "Fix stupid updates.dta bug (eto f-ing bleh)",
+      "description": ""
+    }
+  ]
+}
