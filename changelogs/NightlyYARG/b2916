@@ -1,0 +1,28 @@
+{
+  "commits": [
+    {
+      "sha": "61800023043bd94d4ccae7b0c208505cefb48fdf",
+      "author": "EliteAsian123",
+      "summary": "Update YARG.Core to fix compile errors",
+      "description": ""
+    },
+    {
+      "sha": "58942ada7fb71dda2590789cce897d6236b4c42b",
+      "author": "theli-ua",
+      "summary": "Fix venues shaders on OSX (again) (#957)",
+      "description": "* Fix venues shaders on OSX (again)\r\n\r\nPreviously we were exporting shaders for OSX separately.\r\nUnfortunately that does not seem to guarantee that all shader variants were exported.\r\nTo mitigate that we now export materials as well. However to avoid\r\ndoubling of resulting yarground size we replace all textures with dummy on export.\r\n\r\nLoading side does not change\r\n\r\n* Fix metal shader subbandle not included cause of wrong asset path\r\n\r\n* Add some logging for metal shader loading"
+    },
+    {
+      "sha": "44bf0994d134bb31c0fc68a250690e8ebcafccd2",
+      "author": "EliteAsian123",
+      "summary": "Update YARG.Core for removing underscores from LightingType calls",
+      "description": ""
+    },
+    {
+      "sha": "37b51a46b786503cd46bae707eca9dc91f3a5b25",
+      "author": "TheFatBastid",
+      "summary": "Removed underscores from LightingType calls  (#965)",
+      "description": "* Sanity check for song sections in auto-gen light shows\r\n\r\n* Removed underscores from LightingType calls\r\n\r\nBreaking change! needs the Core PR as well"
+    }
+  ]
+}
