@@ -1,0 +1,22 @@
+{
+  "commits": [
+    {
+      "sha": "ffd5e1de673cd0e504fa9f7e1a6335662749bf3b",
+      "author": "TheNathannator",
+      "summary": "Fix harmony index not being reset when going from harmonies to solo vocals",
+      "description": ""
+    },
+    {
+      "sha": "ec7b874326ecc68e791815883d212a931d83ae82",
+      "author": "TheNathannator",
+      "summary": "Don't break the score screen if replay analysis fails",
+      "description": ""
+    },
+    {
+      "sha": "92bd04d4e2924b91eb980f3f6cd0ea6155f1209a",
+      "author": "sonicfind",
+      "summary": "Fix incorrectly-cased string comparison during scan",
+      "description": ""
+    }
+  ]
+}
