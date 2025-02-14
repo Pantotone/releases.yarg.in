@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "c83550a32e3409cdb574d601c9238e16c2d58811",
+      "author": "TheNathannator",
+      "summary": "Fix profiles not loading after the previous change",
+      "description": ""
+    }
+  ]
+}
