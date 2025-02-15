@@ -17,6 +17,90 @@
     },
     "songs": [
       {
+        "title": "Half Measures",
+        "artist": "Aaron Musslewhite",
+        "length": 263283,
+        "releaseDate": "2024-10-26T23:44:20.269Z"
+      },
+      {
+        "title": "Stowaway Ants",
+        "artist": "Alpha Bo\u00F6tis",
+        "length": 249882,
+        "releaseDate": "2024-10-26T23:44:20.269Z"
+      },
+      {
+        "title": "Blue (feat. Miori Celesta)",
+        "artist": "InVerSe",
+        "length": 269387,
+        "releaseDate": "2024-10-26T23:44:20.269Z"
+      },
+      {
+        "title": "Plastic Boogie",
+        "artist": "King Gizzard and the Lizard Wizard",
+        "length": 182040,
+        "releaseDate": "2024-10-26T23:44:20.269Z"
+      },
+      {
+        "title": "Cruisin\u0027",
+        "artist": "raphaelgoulart",
+        "length": 275635,
+        "releaseDate": "2024-10-26T23:44:20.269Z"
+      },
+      {
+        "title": "A Visitant (feat. Victor Borba)",
+        "artist": "RO1",
+        "length": 341007,
+        "releaseDate": "2024-10-26T23:44:20.269Z"
+      },
+      {
+        "title": "They Call",
+        "artist": "Auris",
+        "length": 217846,
+        "releaseDate": "2025-02-01T00:00:00.000Z"
+      },
+      {
+        "title": "Dreamweaver",
+        "artist": "Glass Guillotine",
+        "length": 217846,
+        "releaseDate": "2025-02-01T00:00:00.000Z"
+      },
+      {
+        "title": "Avatara",
+        "artist": "Heteromorphic Zoo",
+        "length": 224666,
+        "releaseDate": "2025-02-01T00:00:00.000Z"
+      },
+      {
+        "title": "Mass Gap",
+        "artist": "Mindiode",
+        "length": 294187,
+        "releaseDate": "2025-02-01T00:00:00.000Z"
+      },
+      {
+        "title": "Synthespian",
+        "artist": "Prototype",
+        "length": 208755,
+        "releaseDate": "2025-02-01T00:00:00.000Z"
+      },
+      {
+        "title": "Smile for Me",
+        "artist": "The Robot\u0027s Guide to Living",
+        "length": 204000,
+        "releaseDate": "2025-02-01T00:00:00.000Z"
+      },
+      {
+        "title": "Song of November",
+        "artist": "Frantic Memories",
+        "length": 143505,
+        "releaseDate": "2024-11-29T23:44:20.269Z"
+      },
+      {
+        "title": "Beverly",
+        "artist": "Used to Be Valentines",
+        "length": 182736,
+        "releaseDate": "2025-02-14T20:00:00.000Z"
+      },
+      {
         "title": "Pizza Rolls",
         "artist": "Bottom Bunk",
         "length": 152381,
@@ -267,84 +351,6 @@
         "artist": "TrackTribe",
         "length": 208500,
         "releaseDate": "2024-07-22T00:00:00.000Z"
-      },
-      {
-        "title": "Half Measures",
-        "artist": "Aaron Musslewhite",
-        "length": 263283,
-        "releaseDate": "2024-10-26T23:44:20.269Z"
-      },
-      {
-        "title": "Stowaway Ants",
-        "artist": "Alpha Bo\u00F6tis",
-        "length": 249882,
-        "releaseDate": "2024-10-26T23:44:20.269Z"
-      },
-      {
-        "title": "Blue (feat. Miori Celesta)",
-        "artist": "InVerSe",
-        "length": 269387,
-        "releaseDate": "2024-10-26T23:44:20.269Z"
-      },
-      {
-        "title": "Plastic Boogie",
-        "artist": "King Gizzard and the Lizard Wizard",
-        "length": 182040,
-        "releaseDate": "2024-10-26T23:44:20.269Z"
-      },
-      {
-        "title": "Cruisin\u0027",
-        "artist": "raphaelgoulart",
-        "length": 275635,
-        "releaseDate": "2024-10-26T23:44:20.269Z"
-      },
-      {
-        "title": "A Visitant (feat. Victor Borba)",
-        "artist": "RO1",
-        "length": 341007,
-        "releaseDate": "2024-10-26T23:44:20.269Z"
-      },
-      {
-        "title": "Song of November",
-        "artist": "Frantic Memories",
-        "length": 143505,
-        "releaseDate": "2024-11-29T23:44:20.269Z"
-      },
-      {
-        "title": "They Call",
-        "artist": "Auris",
-        "length": 217846,
-        "releaseDate": "2025-02-01T00:00:00.000Z"
-      },
-      {
-        "title": "Dreamweaver",
-        "artist": "Glass Guillotine",
-        "length": 217846,
-        "releaseDate": "2025-02-01T00:00:00.000Z"
-      },
-      {
-        "title": "Avatara",
-        "artist": "Heteromorphic Zoo",
-        "length": 224666,
-        "releaseDate": "2025-02-01T00:00:00.000Z"
-      },
-      {
-        "title": "Mass Gap",
-        "artist": "Mindiode",
-        "length": 294187,
-        "releaseDate": "2025-02-01T00:00:00.000Z"
-      },
-      {
-        "title": "Synthespian",
-        "artist": "Prototype",
-        "length": 208755,
-        "releaseDate": "2025-02-01T00:00:00.000Z"
-      },
-      {
-        "title": "Smile for Me",
-        "artist": "The Robot\u0027s Guide to Living",
-        "length": 204000,
-        "releaseDate": "2025-02-01T00:00:00.000Z"
       }
     ],
     "credits": [
@@ -390,9 +396,9 @@
   "version": {
     "type": "embedded",
     "version": {
-      "uuid": "923b32d5-f70c-4ae1-9675-4fd1ff75d4a1",
-      "tag": "official-2025-1-2-0",
-      "release": "2025-02-01T20:29:51.5857953Z",
+      "uuid": "91e8e235-a633-46b9-9f45-be655fd0f09b",
+      "tag": "official-2025-02-14-0",
+      "release": "2025-02-15T00:26:28.5751246Z",
       "content": [
         {
           "platforms": [
@@ -402,7 +408,7 @@
           ],
           "files": [
             {
-              "url": "https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2025-1-2-0/official-0.7z",
+              "url": "https://github.com/YARC-Official/Official-Setlist-Public/releases/download/official-2025-02-14-0/official-0.7z",
               "fileType": "encrypted"
             }
           ]
