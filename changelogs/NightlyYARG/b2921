@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "62d957a0e7e701351125d206128c306b964e2a25",
+      "author": "thomeval",
+      "summary": "Show warning when player has no input device or microphone (#962)",
+      "description": "* Display a warning on the Difficulty Select screen when a human vocalist has no microphone connected\r\nAdded a \"no microphone\" icon, and use it in the Active Players display.\r\n\r\n* Implement \"No Input Device\" warning message for non-vocalists\r\n\r\n* Add basic No Instrument icons for all instruments\r\n\r\n* Remove one unused item from AssetGroup\r\n\r\n* Update Instrument Icons (and No Instrument Icons)\r\n\r\n* Adjust alignment of warning message (fixes issue with non 16:9 aspect ratios)"
+    }
+  ]
+}
