@@ -1,0 +1,28 @@
+{
+  "commits": [
+    {
+      "sha": "19bd60f6f618f5b13ccbb5f19530a4a68e7b997b",
+      "author": "sonicfind",
+      "summary": "Lyric Bar Enhancements (#974)",
+      "description": "+ Improve implementation of upcoming lyric bar: the style of how the current phrase appears in the lyric bar makes delaying upcoming phrase display feel off. Now, given that the next phrase connects with the current one, the upcoming phrase will always appear. The only exception being for upcoming phrases with lengths less than .25s - where they won't appear at all.\n+ Add fadein and fadeout of both sets of lyrics.\n+ Remove `UpcomingLyricsTime` setting.\n+ Hold the stringbuilder as a member variable instead of creating a new one every time. Just have to clear it before constructing a line."
+    },
+    {
+      "sha": "9fce62603d9e383d466989dc4af21c8dad231c9b",
+      "author": "theli-ua",
+      "summary": "Add setting to disable film grain post processing effect (#975)",
+      "description": "similarly to how bloom can be disabled"
+    },
+    {
+      "sha": "93f0b8aa7d6564b4d88b67be6ab1581a683604d8",
+      "author": "theli-ua",
+      "summary": "Fix some text sometimes not visible in opengl mode (#973)",
+      "description": "By changing shader used to an `overlay` variant that will always render on top.\nThe Distance Field and Distance Field Overlay shaders are two nearly-identical\nvariants of the TextMesh Pro signed distance field (SDF)shader.\nThe difference between the two is that the Distance Field Overlay variant\nalways renders the TextMesh Pro object on top of everything else in the Scene,\nwhile the Distance Field variant renders the Scene normally—objects in front\nof the TextMesh Pro object are rendered on top of the text.\n\nThere is no case currently where we need non-overlay variant and apparently\naccording to user reports it causes some text not being visible in certain\nsituations. Likely due to some depth collision/z-fighting."
+    },
+    {
+      "sha": "05114767fe8896edb1f9318d1b53cd1c6b371738",
+      "author": "TheFatBastid",
+      "summary": "Fixes long standing bug with blending. (#972)",
+      "description": "* Fixes long standing bug with blending.\n\nSince I never had metadata for rb3 stuff, I never noticed the addition of blending (calling the same cue again). Since our auto-gen follows magma which does blending, auto-gen songs were having strange bugs in the stage kit because of this. Solution? just ignore a cue if same as the current one.\n\n* Set post-processing back to default on scene change.\n\nOtherwise it will stay at the last value from the song. 90% of the time this IS Default, but there are a few out there that don't behave."
+    }
+  ]
+}
