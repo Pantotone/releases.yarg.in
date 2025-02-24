@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "ab3391fa72745c86ef984f304c82556ef4f0f7d5",
+      "author": "sonicfind",
+      "summary": "Fix incorrect FoFiX hopofreq extraction (Cache Update)",
+      "description": ""
+    }
+  ]
+}
