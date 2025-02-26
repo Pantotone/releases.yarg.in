@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "0b1b26ca6e5066ed33dbebfd361ad55710005600",
+      "author": "theli-ua",
+      "summary": "Cache combo meter's text meshes (#967)",
+      "description": "Currently text onto meter is set every frame and every frame it\n(re) generates the mesh. Its not that expensive but on my low power old\nmac it adds up to 1ms with 4 players\n\nPre-generate all meter meshes since there is only a few and display the\nneeded one."
+    }
+  ]
+}
