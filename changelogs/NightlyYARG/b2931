@@ -1,0 +1,28 @@
+{
+  "commits": [
+    {
+      "sha": "895f0d4ea0517095d77ea11ee3cb359916f1e28a",
+      "author": "sonicfind",
+      "summary": "Fix Core module pointer",
+      "description": ""
+    },
+    {
+      "sha": "3c81f17bfdec54efb1b62307210f11ead8759420",
+      "author": "thomeval",
+      "summary": "Don't hide lyrics in Three Lane Harmonies mode (#982)",
+      "description": ""
+    },
+    {
+      "sha": "2cd0d7cb2ab3ca40f7a463ad0cc1e18613679bf7",
+      "author": "sonicfind",
+      "summary": "Flip the division for the fps counter",
+      "description": ""
+    },
+    {
+      "sha": "bb17978f55d295c4ee6bec4d12a31e2745dd3cf3",
+      "author": "theli-ua",
+      "summary": "Avoid generating garbage in FPS counter (#978)",
+      "description": ""
+    }
+  ]
+}
