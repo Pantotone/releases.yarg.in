@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "sha": "35166008aad18b9986d91eef06afcfbfa5db7dcb",
+      "author": "sonicfind",
+      "summary": "Fix extracted pro upgrade scan error... I hope",
+      "description": ""
+    }
+  ]
+}
