@@ -1,0 +1,16 @@
+{
+  "commits": [
+    {
+      "sha": "29d965fd7e754137bf45751c6f2e0bbc566d978e",
+      "author": "TheNathannator",
+      "summary": "Fix previous commit failing to compile on Linux",
+      "description": ""
+    },
+    {
+      "sha": "42fd817fd2dcf157ad099af425dbc8f824cc3553",
+      "author": "TheNathannator",
+      "summary": "Adjust default binds for Switch controllers to swap A/B and X/Y",
+      "description": ""
+    }
+  ]
+}
